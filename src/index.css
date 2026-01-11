@@ -3,58 +3,75 @@
    Themes: Sand & Stone (Light) | Midnight Slate (Dark)
    ============================================ */
 
-@import url('https://fonts.googleapis.com/css2?family=Cairo:wght@400;600;700&family=Inter:wght@400;500;600;700&family=Outfit:wght@500;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cairo:wght@400;600;700&family=Cinzel:wght@400;500;600;700&family=Poppins:wght@300;400;500;600;700&display=swap');
 
 /* === Theme Variables === */
 :root {
   /* Light Theme (Default): Mystic Gold */
-  --bg: #F8F5F2; /* Parchment-ish */
+  --bg: #F8F5F2;
+  /* Parchment-ish */
   --card: #FFFFFF;
   --card-border: #E2E8F0;
 
-  --text: #1E293B; /* Slate 800 */
-  --text-dim: #64748B; /* Slate 500 */
+  --text: #1E293B;
+  /* Slate 800 */
+  --text-dim: #64748B;
+  /* Slate 500 */
 
-  --primary: #7C3AED; /* Violet 600 */
-  --primary-hover: #6D28D9; /* Violet 700 */
-  --primary-bg: #F3E8FF; /* Violet 100 */
+  --primary: #7C3AED;
+  /* Violet 600 */
+  --primary-hover: #6D28D9;
+  /* Violet 700 */
+  --primary-bg: #F3E8FF;
+  /* Violet 100 */
 
-  --secondary: #F59E0B; /* Amber 500 */
+  --secondary: #F59E0B;
+  /* Amber 500 */
   --accent: #E2E8F0;
 
   --success: #10B981;
   --error: #EF4444;
   --warning: #F59E0B;
 
-  --radius: 16px; /* More modern, softer */
+  --radius: 16px;
+  /* More modern, softer */
   --shadow: 0 4px 20px -2px rgba(124, 58, 237, 0.1);
   --shadow-lg: 0 10px 40px -10px rgba(124, 58, 237, 0.2);
 
-  --font-main: 'Inter', system-ui, sans-serif;
-  --font-display: 'Outfit', var(--font-main);
+  /* Font Assignments */
+  --font-main: 'Poppins', 'Cairo', system-ui, sans-serif;
+  --font-display: 'Cinzel', 'Cairo', serif;
 }
 
 [data-theme="dark"] {
   /* Dark Theme: Deep Space Nebula */
-  --bg: #0F172A; /* Slate 900 */
-  --card: #1E293B; /* Slate 800 */
-  --card-border: #334155; /* Slate 700 */
+  --bg: #0F172A;
+  /* Slate 900 */
+  --card: #1E293B;
+  /* Slate 800 */
+  --card-border: #334155;
+  /* Slate 700 */
 
-  --text: #F1F5F9; /* Slate 100 */
-  --text-dim: #94A3B8; /* Slate 400 */
+  --text: #F1F5F9;
+  /* Slate 100 */
+  --text-dim: #94A3B8;
+  /* Slate 400 */
 
-  --primary: #A78BFA; /* Violet 400 */
-  --primary-hover: #C4B5FD; /* Violet 300 */
+  --primary: #A78BFA;
+  /* Violet 400 */
+  --primary-hover: #C4B5FD;
+  /* Violet 300 */
   --primary-bg: rgba(124, 58, 237, 0.15);
 
-  --secondary: #FBBF24; /* Amber 400 */
+  --secondary: #FBBF24;
+  /* Amber 400 */
   --accent: #334155;
 
   --shadow: 0 4px 20px -2px rgba(0, 0, 0, 0.5);
   --shadow-lg: 0 10px 40px -10px rgba(0, 0, 0, 0.6);
 }
 
-/* === Reset === */
+/* === Reset & Typography === */
 *,
 *::before,
 *::after {
@@ -63,18 +80,28 @@
   padding: 0;
 }
 
-html,
-body,
-#root {
-  height: 100%;
-}
-
 body {
   font-family: var(--font-main);
-  background: var(--bg);
+  background-color: var(--bg);
   color: var(--text);
   line-height: 1.5;
-  -webkit-font-smoothing: antialiased;
+  transition: background-color 0.3s ease, color 0.3s ease;
+  min-height: 100vh;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: var(--font-display);
+}
+
+/* Force specific overrides if Tailwind is interfering */
+.font-bold {
+  font-family: var(--font-display);
+  font-weight: 700;
 }
 
 body.rtl {
@@ -377,6 +404,31 @@ input {
   border-radius: 10px;
   padding: 1rem;
   margin-bottom: 0.5rem;
+}
+
+.app-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  margin-bottom: 2rem;
+  padding: 1rem 0;
+  gap: 2rem;
+}
+
+body.rtl .app-header {
+  flex-direction: row-reverse;
+}
+
+body.rtl .header-left {
+  text-align: left;
+  /* Force left alignment even in RTL */
+}
+
+/* Ensure the gradient text flows correctly if needed */
+body.rtl .app-header h1 {
+  direction: ltr;
+  /* Keep the English title LTR-oriented if it stays English */
+  text-align: left;
 }
 
 .card-header {
