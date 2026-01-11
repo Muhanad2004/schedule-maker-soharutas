@@ -7,64 +7,51 @@
 
 /* === Theme Variables === */
 :root {
-  /* Light Theme (Default): Sand & Stone */
-  --bg: #EAE0D5;
-  /* Derived from #D3C3B9 (Lighter) */
+  /* Light Theme (Default): Mystic Gold */
+  --bg: #F8F5F2; /* Parchment-ish */
   --card: #FFFFFF;
-  --card-border: #E5E7EB;
+  --card-border: #E2E8F0;
 
-  --text: #161616;
-  /* #161616 (Black) */
-  --text-dim: #6B7280;
+  --text: #1E293B; /* Slate 800 */
+  --text-dim: #64748B; /* Slate 500 */
 
-  --primary: #B58863;
-  /* #B58863 (Tan) */
-  --primary-hover: #9E7452;
-  --primary-bg: #F5EBE5;
-  /* Light Tan */
+  --primary: #7C3AED; /* Violet 600 */
+  --primary-hover: #6D28D9; /* Violet 700 */
+  --primary-bg: #F3E8FF; /* Violet 100 */
 
-  --secondary: #A79E9C;
-  /* #A79E9C (Grey) */
-  --accent: #D3C3B9;
-  /* #D3C3B9 (Beige) */
+  --secondary: #F59E0B; /* Amber 500 */
+  --accent: #E2E8F0;
 
   --success: #10B981;
   --error: #EF4444;
   --warning: #F59E0B;
 
-  --radius: 12px;
-  --shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05);
-  --shadow-lg: 0 10px 25px -5px rgba(0, 0, 0, 0.1);
+  --radius: 16px; /* More modern, softer */
+  --shadow: 0 4px 20px -2px rgba(124, 58, 237, 0.1);
+  --shadow-lg: 0 10px 40px -10px rgba(124, 58, 237, 0.2);
 
   --font-main: 'Inter', system-ui, sans-serif;
   --font-display: 'Outfit', var(--font-main);
 }
 
 [data-theme="dark"] {
-  /* Dark Theme: Midnight Slate */
-  --bg: #161616;
-  /* #161616 (Black) */
-  --card: #10232A;
-  /* #10232A (Deep Teal) */
-  --card-border: #3D4D55;
-  /* #3D4D55 (Slate) */
+  /* Dark Theme: Deep Space Nebula */
+  --bg: #0F172A; /* Slate 900 */
+  --card: #1E293B; /* Slate 800 */
+  --card-border: #334155; /* Slate 700 */
 
-  --text: #D3C3B9;
-  /* #D3C3B9 (Beige) */
-  --text-dim: #A79E9C;
-  /* #A79E9C (Grey) */
+  --text: #F1F5F9; /* Slate 100 */
+  --text-dim: #94A3B8; /* Slate 400 */
 
-  --primary: #B58863;
-  /* #B58863 (Tan) - Persistent Accent */
-  --primary-hover: #CD9A70;
-  --primary-bg: rgba(181, 136, 99, 0.15);
+  --primary: #A78BFA; /* Violet 400 */
+  --primary-hover: #C4B5FD; /* Violet 300 */
+  --primary-bg: rgba(124, 58, 237, 0.15);
 
-  --secondary: #3D4D55;
-  /* #3D4D55 (Slate) */
-  --accent: #A79E9C;
+  --secondary: #FBBF24; /* Amber 400 */
+  --accent: #334155;
 
-  --shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.3);
-  --shadow-lg: 0 10px 25px -5px rgba(0, 0, 0, 0.4);
+  --shadow: 0 4px 20px -2px rgba(0, 0, 0, 0.5);
+  --shadow-lg: 0 10px 40px -10px rgba(0, 0, 0, 0.6);
 }
 
 /* === Reset === */

@@ -62,7 +62,7 @@ const translations = {
 export function LanguageProvider({ children }) {
     const [lang, setLang] = useState(() => {
         try {
-            return localStorage.getItem('lang') || 'ar';
+            return localStorage.getItem('utas_lang_v1') || 'ar';
         } catch {
             return 'ar';
         }
@@ -71,7 +71,7 @@ export function LanguageProvider({ children }) {
     useEffect(() => {
         document.body.classList.toggle('rtl', lang === 'ar');
         try {
-            localStorage.setItem('lang', lang);
+            localStorage.setItem('utas_lang_v1', lang);
         } catch {
             // Ignore
         }

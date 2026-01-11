@@ -38,9 +38,9 @@ function AppContent() {
   const [loading, setLoading] = useState(true);
 
   // User selections
-  const [selectedCourses, setSelectedCourses] = useState(() => loadState('selectedCourses', []));
-  const [instructorFilters, setInstructorFilters] = useState(() => loadState('instructorFilters', {}));
-  const [blockedSlots, setBlockedSlots] = useState(() => loadState('blockedSlots', []));
+  const [selectedCourses, setSelectedCourses] = useState(() => loadState('utas_selectedCourses_v1', []));
+  const [instructorFilters, setInstructorFilters] = useState(() => loadState('utas_instructorFilters_v1', {}));
+  const [blockedSlots, setBlockedSlots] = useState(() => loadState('utas_blockedSlots_v1', []));
 
   // Generated schedules
   const [schedules, setSchedules] = useState([]);
@@ -69,9 +69,9 @@ function AppContent() {
   }, []);
 
   // Persist state
-  useEffect(() => { saveState('selectedCourses', selectedCourses); }, [selectedCourses]);
-  useEffect(() => { saveState('instructorFilters', instructorFilters); }, [instructorFilters]);
-  useEffect(() => { saveState('blockedSlots', blockedSlots); }, [blockedSlots]);
+  useEffect(() => { saveState('utas_selectedCourses_v1', selectedCourses); }, [selectedCourses]);
+  useEffect(() => { saveState('utas_instructorFilters_v1', instructorFilters); }, [instructorFilters]);
+  useEffect(() => { saveState('utas_blockedSlots_v1', blockedSlots); }, [blockedSlots]);
 
   // Handlers
   const handleToggleCourse = useCallback((course) => {
@@ -195,8 +195,8 @@ function AppContent() {
       <header className="app-header">
         <div className="header-left">
           <header className="mb-8 text-center animate-fade-in-down">
-            <h1 className="text-4xl md:text-5xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-blue-600 to-indigo-600 dark:from-blue-400 dark:to-indigo-400 mb-4 transition-all duration-300">
-              UTAS Sohar Schedule Maker
+            <h1 className="text-4xl md:text-5xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-violet-600 to-amber-500 dark:from-violet-400 dark:to-amber-300 mb-4 transition-all duration-300">
+              UTAS Sohar Schedule Maker <span className="text-4xl">🧙‍♂️</span>
             </h1>
             <p className="text-gray-600 dark:text-gray-400 text-lg transition-colors duration-300">
               Plan your semester effortlessly

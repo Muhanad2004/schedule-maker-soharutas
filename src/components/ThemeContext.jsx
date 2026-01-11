@@ -7,7 +7,7 @@ export const useTheme = () => useContext(ThemeContext);
 export function ThemeProvider({ children }) {
     const [theme, setTheme] = useState(() => {
         try {
-            return localStorage.getItem('theme') || 'light';
+            return localStorage.getItem('utas_theme_v1') || 'light';
         } catch {
             return 'light';
         }
@@ -16,7 +16,7 @@ export function ThemeProvider({ children }) {
     useEffect(() => {
         document.documentElement.setAttribute('data-theme', theme);
         try {
-            localStorage.setItem('theme', theme);
+            localStorage.setItem('utas_theme_v1', theme);
         } catch {
             // Ignore storage errors
         }
