@@ -707,9 +707,14 @@ body.rtl .app-header h1 {
 .calendar-body {
   display: grid;
   grid-template-columns: 70px repeat(5, 1fr);
-  background: var(--card-border);
-  /* Grid lines */
+  background: #CBD5E1;
+  /* Slate 300 for clearer lines */
   gap: 1px;
+}
+
+[data-theme="dark"] .calendar-body {
+  background: #475569;
+  /* Slate 600 for dark mode */
 }
 
 .time-gutter {
@@ -739,9 +744,13 @@ body.rtl .app-header h1 {
   left: 0;
   right: 0;
   height: 1px;
-  background: var(--card-border);
-  opacity: 0.3;
-  /* Subtle guides */
+  background: #CBD5E1;
+  opacity: 0.5;
+  /* Increased opacity for visibility */
+}
+
+[data-theme="dark"] .hour-line {
+  background: #475569;
 }
 
 .course-block {
