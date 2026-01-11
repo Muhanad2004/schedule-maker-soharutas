@@ -410,9 +410,11 @@ input {
   display: flex;
   justify-content: space-between;
   align-items: flex-start;
-  margin-bottom: 2rem;
-  padding: 1rem 0;
-  gap: 2rem;
+  margin-bottom: 0.5rem;
+  /* Reduced from 2rem to fix spacing */
+  padding: 0.5rem 0;
+  /* Reduced padding */
+  gap: 1rem;
 }
 
 body.rtl .app-header {
@@ -421,7 +423,8 @@ body.rtl .app-header {
 
 body.rtl .header-left {
   text-align: left;
-  /* Force left alignment even in RTL */
+  flex-direction: row-reverse;
+  /* Put Badge (Item 2) to the Right of Title (Item 1) */
 }
 
 /* Ensure the gradient text flows correctly if needed */

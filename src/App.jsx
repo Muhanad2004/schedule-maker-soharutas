@@ -196,7 +196,7 @@ function AppContent() {
         <div className="header-left">
           <header className="mb-8 text-center animate-fade-in-down">
             <h1 className="text-4xl md:text-5xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-violet-600 to-amber-500 dark:from-violet-400 dark:to-amber-300 mb-4 transition-all duration-300">
-              UTAS Sohar Schedule Maker <span className="text-4xl">🧙‍♂️</span>
+              UTAS Sohar Schedule Maker <span className="text-4xl">🏛️</span>
             </h1>
             <p className="text-gray-600 dark:text-gray-400 text-lg transition-colors duration-300">
               Plan your semester effortlessly
