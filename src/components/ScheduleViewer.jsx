@@ -3,7 +3,7 @@ import { formatTime } from '../utils/timeUtils';
 
 const START_HOUR = 8;
 const END_HOUR = 18; // 6 PM
-const HOUR_HEIGHT = 60;
+const HOUR_HEIGHT = 90;
 const TOTAL_HEIGHT = (END_HOUR - START_HOUR) * HOUR_HEIGHT;
 
 const COLORS = [
