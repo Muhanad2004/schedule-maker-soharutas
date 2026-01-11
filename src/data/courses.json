@@ -1,0 +1,2522 @@
+[
+  {
+    "id": "ARAB1018",
+    "code": "ARAB1018",
+    "name": "An Introduction to Arabic Language and Literature",
+    "sections": [
+      {
+        "section": "01",
+        "instructor": "ALI QASIM MUSABAH AL-KALBANI",
+        "time": "SUN 12:00:00-13:20:00 | TUE 12:00:00-13:20:00",
+        "room": "F16",
+        "exam": "23/05/2026 SAT 15:00:00 - 18:00:00"
+      },
+      {
+        "section": "02",
+        "instructor": "To Be announced",
+        "time": "SUN 12:00:00-13:20:00 | TUE 12:00:00-13:20:00",
+        "room": "F13",
+        "exam": "23/05/2026 SAT 15:00:00 - 18:00:00"
+      }
+    ]
+  },
+  {
+    "id": "ARAB1021",
+    "code": "ARAB1021",
+    "name": "Language Skills for Law",
+    "sections": [
+      {
+        "section": "01",
+        "instructor": "MOHAMED SULAIMAN MOHAMED AL AMIRI",
+        "time": "MON 10:00:00-11:20:00 | WED 10:00:00-11:20:00",
+        "room": "F12",
+        "exam": "28/05/2026 THU 15:00:00 - 18:00:00"
+      },
+      {
+        "section": "02",
+        "instructor": "Mohammed Khalfan Subeih Al Hinai",
+        "time": "MON 14:15:00-15:35:00 | WED 14:15:00-15:35:00",
+        "room": "F06",
+        "exam": "28/05/2026 THU 15:00:00 - 18:00:00"
+      },
+      {
+        "section": "03",
+        "instructor": "MHD NOUREDDIN MHD EID ALMUNJED",
+        "time": "SUN 08:00:00-09:20:00 | TUE 08:00:00-09:20:00",
+        "room": "F17",
+        "exam": "28/05/2026 THU 15:00:00 - 18:00:00"
+      }
+    ]
+  },
+  {
+    "id": "ARAB1060",
+    "code": "ARAB1060",
+    "name": "Arabic",
+    "sections": [
+      {
+        "section": "10",
+        "instructor": "MOHAMMED SALEH ALI ALSHIZAWI",
+        "time": "MON 16:15:00-17:35:00 | WED 16:15:00-17:35:00",
+        "room": "DLR",
+        "exam": "14/05/2026 THU 14:00:00 - 16:00:00"
+      },
+      {
+        "section": "01",
+        "instructor": "To Be announced",
+        "time": "SUN 12:00:00-13:20:00 | TUE 12:00:00-13:20:00",
+        "room": "DLR",
+        "exam": "14/05/2026 THU 14:00:00 - 16:00:00"
+      },
+      {
+        "section": "02",
+        "instructor": "MOHAMMED SALEH ALI ALSHIZAWI",
+        "time": "SUN 14:15:00-15:35:00 | TUE 14:15:00-15:35:00",
+        "room": "DLR",
+        "exam": "14/05/2026 THU 14:00:00 - 16:00:00"
+      },
+      {
+        "section": "03",
+        "instructor": "MHD NOUREDDIN MHD EID ALMUNJED",
+        "time": "SUN 10:00:00-11:20:00 | THU 10:00:00-11:20:00",
+        "room": "DLR",
+        "exam": "14/05/2026 THU 14:00:00 - 16:00:00"
+      },
+      {
+        "section": "04",
+        "instructor": "OMAR AHAMEED SDIQ",
+        "time": "THU 08:00:00-09:20:00 | TUE 10:00:00-11:20:00",
+        "room": "DLR",
+        "exam": "14/05/2026 THU 14:00:00 - 16:00:00"
+      },
+      {
+        "section": "05",
+        "instructor": "To Be announced",
+        "time": "SUN 08:00:00-09:20:00 | TUE 08:00:00-09:20:00",
+        "room": "DLR",
+        "exam": "14/05/2026 THU 14:00:00 - 16:00:00"
+      },
+      {
+        "section": "06",
+        "instructor": "OMAR AHAMEED SDIQ",
+        "time": "SUN 12:00:00-13:20:00 | TUE 12:00:00-13:20:00",
+        "room": "DLR",
+        "exam": "14/05/2026 THU 14:00:00 - 16:00:00"
+      },
+      {
+        "section": "07",
+        "instructor": "To Be announced",
+        "time": "MON 12:00:00-13:20:00 | WED 12:00:00-13:20:00",
+        "room": "DLR",
+        "exam": "14/05/2026 THU 14:00:00 - 16:00:00"
+      },
+      {
+        "section": "08",
+        "instructor": "TAREK SOLIMAN MOSTAFA SOLIMAN",
+        "time": "MON 10:00:00-11:20:00 | WED 10:00:00-11:20:00",
+        "room": "DLR",
+        "exam": "14/05/2026 THU 14:00:00 - 16:00:00"
+      },
+      {
+        "section": "09",
+        "instructor": "To Be announced",
+        "time": "SUN 14:15:00-15:35:00 | TUE 14:15:00-15:35:00",
+        "room": "DLR",
+        "exam": "14/05/2026 THU 14:00:00 - 16:00:00"
+      }
+    ]
+  },
+  {
+    "id": "ARAB1121",
+    "code": "ARAB1121",
+    "name": "Texts and Grammatical Issues",
+    "sections": [
+      {
+        "section": "01",
+        "instructor": "To Be announced",
+        "time": "SUN 08:00:00-09:20:00 | TUE 08:00:00-09:20:00",
+        "room": "F48",
+        "exam": "18/05/2026 MON 08:00:00 - 11:00:00"
+      }
+    ]
+  },
+  {
+    "id": "ARAB1236",
+    "code": "ARAB1236",
+    "name": "Philology",
+    "sections": [
+      {
+        "section": "01",
+        "instructor": "AbdalRahman  Mohamad Teama",
+        "time": "SUN 12:00:00-13:20:00 | TUE 12:00:00-13:20:00",
+        "room": "F17",
+        "exam": "23/05/2026 SAT 15:00:00 - 18:00:00"
+      },
+      {
+        "section": "02",
+        "instructor": "HAMOOD MOHAMMED ABDULLAH AL-RUMHI",
+        "time": "MON 12:00:00-13:20:00 | WED 12:00:00-13:20:00",
+        "room": "F07",
+        "exam": "23/05/2026 SAT 15:00:00 - 18:00:00"
+      }
+    ]
+  },
+  {
+    "id": "ARAB1356",
+    "code": "ARAB1356",
+    "name": "Texts from Arabic Literature in English Language",
+    "sections": [
+      {
+        "section": "01",
+        "instructor": "OMAR AHAMEED SDIQ",
+        "time": "MON 14:15:00-15:35:00 | WED 14:15:00-15:35:00",
+        "room": "F16",
+        "exam": "28/05/2026 THU 08:00:00 - 11:00:00"
+      }
+    ]
+  },
+  {
+    "id": "ARAB1685",
+    "code": "ARAB1685",
+    "name": "Reading in Rhetoric and Criticism",
+    "sections": [
+      {
+        "section": "01",
+        "instructor": "EHSAN SADIQ MOHAMED AL ALAWATI",
+        "time": "MON 10:00:00-11:20:00 | WED 10:00:00-11:20:00",
+        "room": "F06",
+        "exam": "26/05/2026 TUE 15:00:00 - 18:00:00"
+      },
+      {
+        "section": "02",
+        "instructor": "To Be announced",
+        "time": "SUN 12:00:00-13:20:00 | TUE 12:00:00-13:20:00",
+        "room": "E36",
+        "exam": "26/05/2026 TUE 15:00:00 - 18:00:00"
+      }
+    ]
+  },
+  {
+    "id": "ARAB1795",
+    "code": "ARAB1795",
+    "name": "The Literary and Linguistic Resources",
+    "sections": [
+      {
+        "section": "01",
+        "instructor": "Essa Abdul Shafi Ibrahim EL masri",
+        "time": "SUN 08:00:00-09:20:00 | TUE 08:00:00-09:20:00",
+        "room": "F06",
+        "exam": "18/05/2026 MON 08:00:00 - 11:00:00"
+      }
+    ]
+  },
+  {
+    "id": "ARAB2031",
+    "code": "ARAB2031",
+    "name": "Arabic Language Skills (1)",
+    "sections": [
+      {
+        "section": "01",
+        "instructor": "To Be announced",
+        "time": "SUN 16:15:00-17:35:00 | TUE 16:15:00-17:35:00",
+        "room": "F19",
+        "exam": "21/05/2026 THU 08:00:00 - 11:00:00"
+      },
+      {
+        "section": "02",
+        "instructor": "To Be announced",
+        "time": "THU 08:00:00-09:20:00 | TUE 10:00:00-11:20:00",
+        "room": "F11",
+        "exam": "21/05/2026 THU 08:00:00 - 11:00:00"
+      },
+      {
+        "section": "03",
+        "instructor": "To Be announced",
+        "time": "SUN 14:15:00-15:35:00 | TUE 14:15:00-15:35:00",
+        "room": "F07",
+        "exam": "21/05/2026 THU 08:00:00 - 11:00:00"
+      },
+      {
+        "section": "04",
+        "instructor": "To Be announced",
+        "time": "SUN 10:00:00-11:20:00 | THU 10:00:00-11:20:00",
+        "room": "F11",
+        "exam": "21/05/2026 THU 08:00:00 - 11:00:00"
+      },
+      {
+        "section": "05",
+        "instructor": "To Be announced",
+        "time": "MON 12:00:00-13:20:00 | WED 12:00:00-13:20:00",
+        "room": "F16",
+        "exam": "21/05/2026 THU 08:00:00 - 11:00:00"
+      },
+      {
+        "section": "06",
+        "instructor": "HAMOOD MOHAMMED ABDULLAH AL-RUMHI",
+        "time": "MON 14:15:00-15:35:00 | WED 14:15:00-15:35:00",
+        "room": "F17",
+        "exam": "21/05/2026 THU 08:00:00 - 11:00:00"
+      },
+      {
+        "section": "07",
+        "instructor": "To Be announced",
+        "time": "MON 10:00:00-11:20:00 | WED 10:00:00-11:20:00",
+        "room": "F11",
+        "exam": "21/05/2026 THU 08:00:00 - 11:00:00"
+      }
+    ]
+  },
+  {
+    "id": "ARAB2032",
+    "code": "ARAB2032",
+    "name": "Arabic Language Skills (2)",
+    "sections": [
+      {
+        "section": "01",
+        "instructor": "AbdalRahman  Mohamad Teama",
+        "time": "MON 12:00:00-13:20:00 | WED 12:00:00-13:20:00",
+        "room": "1167",
+        "exam": "21/05/2026 THU 11:30:00 - 14:30:00"
+      },
+      {
+        "section": "02",
+        "instructor": "To Be announced",
+        "time": "SUN 08:00:00-09:20:00 | TUE 08:00:00-09:20:00",
+        "room": "F16",
+        "exam": "21/05/2026 THU 11:30:00 - 14:30:00"
+      },
+      {
+        "section": "03",
+        "instructor": "To Be announced",
+        "time": "MON 12:00:00-13:20:00 | WED 12:00:00-13:20:00",
+        "room": "F18",
+        "exam": "21/05/2026 THU 11:30:00 - 14:30:00"
+      },
+      {
+        "section": "04",
+        "instructor": "ALI QASIM MUSABAH AL-KALBANI",
+        "time": "MON 10:00:00-11:20:00 | WED 10:00:00-11:20:00",
+        "room": "F18",
+        "exam": "21/05/2026 THU 11:30:00 - 14:30:00"
+      },
+      {
+        "section": "05",
+        "instructor": "To Be announced",
+        "time": "SUN 10:00:00-11:20:00 | THU 10:00:00-11:20:00",
+        "room": "F12",
+        "exam": "21/05/2026 THU 11:30:00 - 14:30:00"
+      },
+      {
+        "section": "06",
+        "instructor": "To Be announced",
+        "time": "SUN 12:00:00-13:20:00 | TUE 12:00:00-13:20:00",
+        "room": "F18",
+        "exam": "21/05/2026 THU 11:30:00 - 14:30:00"
+      }
+    ]
+  },
+  {
+    "id": "ARAB2033",
+    "code": "ARAB2033",
+    "name": "Arabic language skills for early education",
+    "sections": [
+      {
+        "section": "01",
+        "instructor": "Mohammed Khalfan Subeih Al Hinai",
+        "time": "MON 10:00:00-11:50:00 | WED 10:00:00-11:50:00",
+        "room": "F13",
+        "exam": "26/05/2026 TUE 15:00:00 - 18:00:00"
+      }
+    ]
+  },
+  {
+    "id": "ARAB2116",
+    "code": "ARAB2116",
+    "name": "Syntax and Morphology (1)",
+    "sections": [
+      {
+        "section": "01",
+        "instructor": "To Be announced",
+        "time": "MON 16:15:00-18:05:00 | WED 16:15:00-18:05:00",
+        "room": "F19",
+        "exam": "20/05/2026 WED 11:30:00 - 14:30:00"
+      },
+      {
+        "section": "02",
+        "instructor": "To Be announced",
+        "time": "MON 14:15:00-16:05:00 | WED 14:15:00-16:05:00",
+        "room": "F53",
+        "exam": "20/05/2026 WED 11:30:00 - 14:30:00"
+      },
+      {
+        "section": "03",
+        "instructor": "To Be announced",
+        "time": "SUN 14:15:00-16:05:00 | TUE 14:15:00-16:05:00",
+        "room": "F17",
+        "exam": "20/05/2026 WED 11:30:00 - 14:30:00"
+      }
+    ]
+  },
+  {
+    "id": "ARAB2347",
+    "code": "ARAB2347",
+    "name": "Islamic and Umayyad Literature",
+    "sections": [
+      {
+        "section": "01",
+        "instructor": "JOKHA MOHAMMED KHALIFA AL-HARTHI",
+        "time": "SUN 12:00:00-13:20:00 | TUE 12:00:00-13:20:00",
+        "room": "F11",
+        "exam": "19/05/2026 TUE 08:00:00 - 11:00:00"
+      },
+      {
+        "section": "02",
+        "instructor": "MOHAMED MOUSTAFA ALI HASSANEIN",
+        "time": "SUN 08:00:00-09:20:00 | TUE 08:00:00-09:20:00",
+        "room": "F07",
+        "exam": "19/05/2026 TUE 08:00:00 - 11:00:00"
+      }
+    ]
+  },
+  {
+    "id": "ARAB2452",
+    "code": "ARAB2452",
+    "name": "Ancient poetry [2]",
+    "sections": [
+      {
+        "section": "01",
+        "instructor": "JOKHA MOHAMMED KHALIFA AL-HARTHI",
+        "time": "SUN 08:00:00-09:20:00 | TUE 08:00:00-09:20:00",
+        "room": "F19",
+        "exam": "23/05/2026 SAT 15:00:00 - 18:00:00"
+      },
+      {
+        "section": "02",
+        "instructor": "Essa Abdul Shafi Ibrahim EL masri",
+        "time": "SUN 12:00:00-13:20:00 | TUE 12:00:00-13:20:00",
+        "room": "F19",
+        "exam": "23/05/2026 SAT 15:00:00 - 18:00:00"
+      }
+    ]
+  },
+  {
+    "id": "ARAB2460",
+    "code": "ARAB2460",
+    "name": "Old narratives",
+    "sections": [
+      {
+        "section": "01",
+        "instructor": "To Be announced",
+        "time": "THU 08:00:00-09:20:00 | TUE 10:00:00-11:20:00",
+        "room": "F09",
+        "exam": "26/05/2026 TUE 15:00:00 - 18:00:00"
+      },
+      {
+        "section": "02",
+        "instructor": "Essa Abdul Shafi Ibrahim EL masri",
+        "time": "MON 08:00:00-09:20:00 | WED 08:00:00-09:20:00",
+        "room": "F27",
+        "exam": "26/05/2026 TUE 15:00:00 - 18:00:00"
+      }
+    ]
+  },
+  {
+    "id": "ARAB2462",
+    "code": "ARAB2462",
+    "name": "Arabic rhetoric [1]",
+    "sections": [
+      {
+        "section": "01",
+        "instructor": "EHSAN SADIQ MOHAMED AL ALAWATI",
+        "time": "MON 08:00:00-09:20:00 | WED 08:00:00-09:20:00",
+        "room": "F26",
+        "exam": "25/05/2026 MON 08:00:00 - 11:00:00"
+      },
+      {
+        "section": "02",
+        "instructor": "AbdelGhani Bara",
+        "time": "MON 10:00:00-11:20:00 | WED 10:00:00-11:20:00",
+        "room": "F14",
+        "exam": "25/05/2026 MON 08:00:00 - 11:00:00"
+      }
+    ]
+  },
+  {
+    "id": "ARAB2465",
+    "code": "ARAB2465",
+    "name": "Ancient literary criticism",
+    "sections": [
+      {
+        "section": "01",
+        "instructor": "Essa Abdul Shafi Ibrahim EL masri",
+        "time": "MON 12:00:00-13:20:00 | WED 12:00:00-13:20:00",
+        "room": "F28",
+        "exam": "27/05/2026 WED 08:00:00 - 11:00:00"
+      },
+      {
+        "section": "02",
+        "instructor": "AbdelGhani Bara",
+        "time": "SUN 08:00:00-09:20:00 | TUE 08:00:00-09:20:00",
+        "room": "F28",
+        "exam": "27/05/2026 WED 08:00:00 - 11:00:00"
+      }
+    ]
+  },
+  {
+    "id": "ARAB2476",
+    "code": "ARAB2476",
+    "name": "Phonetics",
+    "sections": [
+      {
+        "section": "01",
+        "instructor": "HAMOOD MOHAMMED ABDULLAH AL-RUMHI",
+        "time": "SUN 16:15:00-17:35:00 | TUE 16:15:00-17:35:00",
+        "room": "F11",
+        "exam": "20/05/2026 WED 08:00:00 - 11:00:00"
+      },
+      {
+        "section": "02",
+        "instructor": "TAREK SOLIMAN MOSTAFA SOLIMAN",
+        "time": "THU 08:00:00-09:20:00 | TUE 10:00:00-11:20:00",
+        "room": "F17",
+        "exam": "20/05/2026 WED 08:00:00 - 11:00:00"
+      }
+    ]
+  },
+  {
+    "id": "ARAB2588",
+    "code": "ARAB2588",
+    "name": "Prosody and Rhyme",
+    "sections": [
+      {
+        "section": "01",
+        "instructor": "To Be announced",
+        "time": "MON 14:15:00-15:35:00 | WED 14:15:00-15:35:00",
+        "room": "E28",
+        "exam": "28/05/2026 THU 15:00:00 - 18:00:00"
+      },
+      {
+        "section": "02",
+        "instructor": "FAYZ SOBHY ABDELSALAM TORKY",
+        "time": "SUN 10:00:00-11:20:00 | THU 10:00:00-11:20:00",
+        "room": "F19",
+        "exam": "28/05/2026 THU 15:00:00 - 18:00:00"
+      }
+    ]
+  },
+  {
+    "id": "ARAB3118",
+    "code": "ARAB3118",
+    "name": "Syntax and Morphology (3)",
+    "sections": [
+      {
+        "section": "01",
+        "instructor": "To Be announced",
+        "time": "MON 08:00:00-09:50:00 | WED 08:00:00-09:50:00",
+        "room": "F28",
+        "exam": "24/05/2026 SUN 15:00:00 - 18:00:00"
+      },
+      {
+        "section": "02",
+        "instructor": "To Be announced",
+        "time": "MON 12:00:00-13:50:00 | WED 12:00:00-13:50:00",
+        "room": "F25",
+        "exam": "24/05/2026 SUN 15:00:00 - 18:00:00"
+      },
+      {
+        "section": "03",
+        "instructor": "MOHAMMED SALEH ALI ALSHIZAWI",
+        "time": "SUN 12:00:00-13:50:00 | TUE 12:00:00-13:50:00",
+        "room": "F32",
+        "exam": "24/05/2026 SUN 15:00:00 - 18:00:00"
+      }
+    ]
+  },
+  {
+    "id": "ARAB3232",
+    "code": "ARAB3232",
+    "name": "Lexicology and Terminology",
+    "sections": [
+      {
+        "section": "01",
+        "instructor": "AbdalRahman  Mohamad Teama",
+        "time": "SUN 08:00:00-09:20:00 | TUE 08:00:00-09:20:00",
+        "room": "F15",
+        "exam": "21/05/2026 THU 15:00:00 - 18:00:00"
+      },
+      {
+        "section": "02",
+        "instructor": "MAHMOOD SULAIMAN ABDULLAH AL RIYAMI",
+        "time": "MON 14:15:00-15:35:00 | WED 14:15:00-15:35:00",
+        "room": "F18",
+        "exam": "21/05/2026 THU 15:00:00 - 18:00:00"
+      },
+      {
+        "section": "03",
+        "instructor": "To Be announced",
+        "time": "SUN 12:00:00-13:20:00 | TUE 12:00:00-13:20:00",
+        "room": "E11",
+        "exam": "21/05/2026 THU 15:00:00 - 18:00:00"
+      }
+    ]
+  },
+  {
+    "id": "ARAB3241",
+    "code": "ARAB3241",
+    "name": "Phonetics",
+    "sections": [
+      {
+        "section": "01",
+        "instructor": "TAREK SOLIMAN MOSTAFA SOLIMAN",
+        "time": "SUN 10:00:00-11:20:00 | THU 10:00:00-11:20:00",
+        "room": "F28",
+        "exam": "26/05/2026 TUE 11:30:00 - 14:30:00"
+      },
+      {
+        "section": "02",
+        "instructor": "To Be announced",
+        "time": "SUN 08:00:00-09:20:00 | TUE 08:00:00-09:20:00",
+        "room": "1167",
+        "exam": "26/05/2026 TUE 11:30:00 - 14:30:00"
+      },
+      {
+        "section": "03",
+        "instructor": "To Be announced",
+        "time": "SUN 12:00:00-13:20:00 | TUE 12:00:00-13:20:00",
+        "room": "F12",
+        "exam": "26/05/2026 TUE 11:30:00 - 14:30:00"
+      },
+      {
+        "section": "04",
+        "instructor": "To Be announced",
+        "time": "MON 12:00:00-13:20:00 | WED 12:00:00-13:20:00",
+        "room": "F27",
+        "exam": "26/05/2026 TUE 11:30:00 - 14:30:00"
+      }
+    ]
+  },
+  {
+    "id": "ARAB3349",
+    "code": "ARAB3349",
+    "name": "Literature of Andalusia and Maghrib",
+    "sections": [
+      {
+        "section": "01",
+        "instructor": "MOHAMED MOUSTAFA ALI HASSANEIN",
+        "time": "SUN 10:00:00-11:20:00 | THU 10:00:00-11:20:00",
+        "room": "F10",
+        "exam": "17/05/2026 SUN 15:00:00 - 18:00:00"
+      },
+      {
+        "section": "02",
+        "instructor": "AHMED YOUCEF",
+        "time": "MON 08:00:00-09:20:00 | WED 08:00:00-09:20:00",
+        "room": "F18",
+        "exam": "17/05/2026 SUN 15:00:00 - 18:00:00"
+      },
+      {
+        "section": "03",
+        "instructor": "To Be announced",
+        "time": "MON 12:00:00-13:20:00 | WED 12:00:00-13:20:00",
+        "room": "F06",
+        "exam": "17/05/2026 SUN 15:00:00 - 18:00:00"
+      }
+    ]
+  },
+  {
+    "id": "ARAB3662",
+    "code": "ARAB3662",
+    "name": "Modern Narratives",
+    "sections": [
+      {
+        "section": "01",
+        "instructor": "MAHROUS MHUMOOD ABD ALWAHAB ALQALILI",
+        "time": "MON 12:00:00-13:20:00 | WED 12:00:00-13:20:00",
+        "room": "F23",
+        "exam": "27/05/2026 WED 08:00:00 - 11:00:00"
+      }
+    ]
+  },
+  {
+    "id": "ARAB3682",
+    "code": "ARAB3682",
+    "name": "Thesaurus and Terminology",
+    "sections": [
+      {
+        "section": "01",
+        "instructor": "To Be announced",
+        "time": "SUN 14:15:00-15:35:00 | TUE 14:15:00-15:35:00",
+        "room": "F05",
+        "exam": "24/05/2026 SUN 08:00:00 - 11:00:00"
+      }
+    ]
+  },
+  {
+    "id": "ARAB3684",
+    "code": "ARAB3684",
+    "name": "Rhetoric (2)",
+    "sections": [
+      {
+        "section": "01",
+        "instructor": "EHSAN SADIQ MOHAMED AL ALAWATI",
+        "time": "THU 08:00:00-09:20:00 | TUE 10:00:00-11:20:00",
+        "room": "F16",
+        "exam": "23/05/2026 SAT 11:30:00 - 14:30:00"
+      },
+      {
+        "section": "02",
+        "instructor": "To Be announced",
+        "time": "SUN 10:00:00-11:20:00 | THU 10:00:00-11:20:00",
+        "room": "F17",
+        "exam": "23/05/2026 SAT 11:30:00 - 14:30:00"
+      },
+      {
+        "section": "03",
+        "instructor": "MOHAMED MOUSTAFA ALI HASSANEIN",
+        "time": "MON 16:15:00-17:35:00 | WED 16:15:00-17:35:00",
+        "room": "F07",
+        "exam": "23/05/2026 SAT 11:30:00 - 14:30:00"
+      }
+    ]
+  },
+  {
+    "id": "ARAB3685",
+    "code": "ARAB3685",
+    "name": "Grammar (1) - Nominatives",
+    "sections": [
+      {
+        "section": "01",
+        "instructor": "FAYZ SOBHY ABDELSALAM TORKY",
+        "time": "SUN 12:00:00-13:50:00 | TUE 12:00:00-13:50:00",
+        "room": "F52",
+        "exam": "23/05/2026 SAT 15:00:00 - 18:00:00"
+      }
+    ]
+  },
+  {
+    "id": "ARAB3686",
+    "code": "ARAB3686",
+    "name": "Morphology Science",
+    "sections": [
+      {
+        "section": "01",
+        "instructor": "MOHAMED SULAIMAN MOHAMED AL AMIRI",
+        "time": "MON 08:00:00-09:50:00 | WED 08:00:00-09:50:00",
+        "room": "F50",
+        "exam": "25/05/2026 MON 08:00:00 - 11:00:00"
+      }
+    ]
+  },
+  {
+    "id": "ARAB4121",
+    "code": "ARAB4121",
+    "name": "Syntactic and Morphological Applications",
+    "sections": [
+      {
+        "section": "01",
+        "instructor": "FAYZ SOBHY ABDELSALAM TORKY",
+        "time": "MON 16:15:00-17:35:00 | WED 16:15:00-17:35:00",
+        "room": "F15",
+        "exam": "20/05/2026 WED 11:30:00 - 14:30:00"
+      },
+      {
+        "section": "02",
+        "instructor": "To Be announced",
+        "time": "MON 12:00:00-13:20:00 | WED 12:00:00-13:20:00",
+        "room": "F33",
+        "exam": "20/05/2026 WED 11:30:00 - 14:30:00"
+      },
+      {
+        "section": "03",
+        "instructor": "MAHMOOD SULAIMAN ABDULLAH AL RIYAMI",
+        "time": "MON 16:15:00-17:35:00 | WED 16:15:00-17:35:00",
+        "room": "F28",
+        "exam": "20/05/2026 WED 11:30:00 - 14:30:00"
+      }
+    ]
+  },
+  {
+    "id": "ARAB4122",
+    "code": "ARAB4122",
+    "name": "Functional Grammar",
+    "sections": [
+      {
+        "section": "01",
+        "instructor": "MOHAMED SULAIMAN MOHAMED AL AMIRI",
+        "time": "SUN 08:00:00-09:20:00 | TUE 08:00:00-09:20:00",
+        "room": "F18",
+        "exam": "17/05/2026 SUN 08:00:00 - 11:00:00"
+      },
+      {
+        "section": "02",
+        "instructor": "To Be announced",
+        "time": "SUN 14:15:00-15:35:00 | TUE 14:15:00-15:35:00",
+        "room": "F18",
+        "exam": "17/05/2026 SUN 08:00:00 - 11:00:00"
+      },
+      {
+        "section": "03",
+        "instructor": "To Be announced",
+        "time": "SUN 16:15:00-17:35:00 | TUE 16:15:00-17:35:00",
+        "room": "F12",
+        "exam": "17/05/2026 SUN 08:00:00 - 11:00:00"
+      }
+    ]
+  },
+  {
+    "id": "ARAB4237",
+    "code": "ARAB4237",
+    "name": "Semantics",
+    "sections": [
+      {
+        "section": "01",
+        "instructor": "To Be announced",
+        "time": "MON 08:00:00-09:20:00 | WED 08:00:00-09:20:00",
+        "room": "F16",
+        "exam": "23/05/2026 SAT 08:00:00 - 11:00:00"
+      },
+      {
+        "section": "02",
+        "instructor": "To Be announced",
+        "time": "MON 16:15:00-17:35:00 | WED 16:15:00-17:35:00",
+        "room": "F27",
+        "exam": "23/05/2026 SAT 08:00:00 - 11:00:00"
+      },
+      {
+        "section": "03",
+        "instructor": "To Be announced",
+        "time": "SUN 10:00:00-11:20:00 | THU 10:00:00-11:20:00",
+        "room": "F18",
+        "exam": "23/05/2026 SAT 08:00:00 - 11:00:00"
+      },
+      {
+        "section": "04",
+        "instructor": "To Be announced",
+        "time": "THU 08:00:00-09:20:00 | TUE 10:00:00-11:20:00",
+        "room": "F18",
+        "exam": "23/05/2026 SAT 08:00:00 - 11:00:00"
+      }
+    ]
+  },
+  {
+    "id": "ARAB4352",
+    "code": "ARAB4352",
+    "name": "Contemporary Literature",
+    "sections": [
+      {
+        "section": "01",
+        "instructor": "ALI QASIM MUSABAH AL-KALBANI",
+        "time": "SUN 14:15:00-15:35:00 | TUE 14:15:00-15:35:00",
+        "room": "A13",
+        "exam": "17/05/2026 SUN 11:30:00 - 14:30:00"
+      },
+      {
+        "section": "02",
+        "instructor": "SANA TAHER ALI AL-JAMALI",
+        "time": "SUN 12:00:00-13:20:00 | TUE 12:00:00-13:20:00",
+        "room": "1169",
+        "exam": "17/05/2026 SUN 11:30:00 - 14:30:00"
+      },
+      {
+        "section": "03",
+        "instructor": "SANA TAHER ALI AL-JAMALI",
+        "time": "SUN 14:15:00-15:35:00 | TUE 14:15:00-15:35:00",
+        "room": "1169",
+        "exam": "17/05/2026 SUN 11:30:00 - 14:30:00"
+      },
+      {
+        "section": "04",
+        "instructor": "MAHROUS MHUMOOD ABD ALWAHAB ALQALILI",
+        "time": "MON 16:15:00-17:35:00 | WED 16:15:00-17:35:00",
+        "room": "F16",
+        "exam": "17/05/2026 SUN 11:30:00 - 14:30:00"
+      }
+    ]
+  },
+  {
+    "id": "ARAB4353",
+    "code": "ARAB4353",
+    "name": "Reading in Contemporary Literary Genres",
+    "sections": [
+      {
+        "section": "01",
+        "instructor": "SANA TAHER ALI AL-JAMALI",
+        "time": "MON 10:00:00-11:20:00 | WED 10:00:00-11:20:00",
+        "room": "0032",
+        "exam": "28/05/2026 THU 15:00:00 - 18:00:00"
+      },
+      {
+        "section": "02",
+        "instructor": "AHMED YOUCEF",
+        "time": "MON 12:00:00-13:20:00 | WED 12:00:00-13:20:00",
+        "room": "F19",
+        "exam": "28/05/2026 THU 15:00:00 - 18:00:00"
+      }
+    ]
+  },
+  {
+    "id": "ARAB4794",
+    "code": "ARAB4794",
+    "name": "Gradation Project",
+    "sections": [
+      {
+        "section": "01",
+        "instructor": "HAMOOD MOHAMMED ABDULLAH AL-RUMHI",
+        "time": "SUN 10:00:00-10:50:00",
+        "room": "F30",
+        "exam": ""
+      },
+      {
+        "section": "02",
+        "instructor": "JOKHA MOHAMMED KHALIFA AL-HARTHI",
+        "time": "MON 09:00:00-09:50:00",
+        "room": "0021",
+        "exam": ""
+      },
+      {
+        "section": "03",
+        "instructor": "SANA TAHER ALI AL-JAMALI",
+        "time": "SUN 10:00:00-10:50:00",
+        "room": "F36",
+        "exam": ""
+      },
+      {
+        "section": "04",
+        "instructor": "MAHROUS MHUMOOD ABD ALWAHAB ALQALILI",
+        "time": "TUE 10:00:00-10:50:00",
+        "room": "0020",
+        "exam": ""
+      },
+      {
+        "section": "05",
+        "instructor": "OMAR AHAMEED SDIQ",
+        "time": "THU 10:00:00-10:50:00",
+        "room": "F09",
+        "exam": ""
+      },
+      {
+        "section": "06",
+        "instructor": "TAREK SOLIMAN MOSTAFA SOLIMAN",
+        "time": "TUE 08:00:00-08:50:00",
+        "room": "F35",
+        "exam": ""
+      },
+      {
+        "section": "07",
+        "instructor": "MOHAMED SULAIMAN MOHAMED AL AMIRI",
+        "time": "THU 10:00:00-10:50:00",
+        "room": "F36",
+        "exam": ""
+      },
+      {
+        "section": "08",
+        "instructor": "MHD NOUREDDIN MHD EID ALMUNJED",
+        "time": "MON 14:15:00-15:05:00",
+        "room": "0019",
+        "exam": ""
+      }
+    ]
+  },
+  {
+    "id": "ENGL2101",
+    "code": "ENGL2101",
+    "name": "Grammar in Context",
+    "sections": [
+      {
+        "section": "01",
+        "instructor": "FAISAL SAEED ALI AL-MAAMARI",
+        "time": "MON 16:15:00-18:05:00 | WED 16:15:00-18:05:00",
+        "room": "F24",
+        "exam": "25/05/2026 MON 15:00:00 - 18:00:00"
+      },
+      {
+        "section": "02",
+        "instructor": "SARA BAKHIT OBAID AL SHEYADI",
+        "time": "SUN 14:15:00-16:05:00 | TUE 14:15:00-16:05:00",
+        "room": "F28",
+        "exam": "25/05/2026 MON 15:00:00 - 18:00:00"
+      },
+      {
+        "section": "03",
+        "instructor": "SAKINA MRANI ALAOUI",
+        "time": "MON 10:00:00-12:00:00 | WED 10:00:00-11:50:00",
+        "room": "F28",
+        "exam": "25/05/2026 MON 15:00:00 - 18:00:00"
+      },
+      {
+        "section": "04",
+        "instructor": "HAMMAL SALEH MOHAMED WALI MOHAMED AL BALUSHI",
+        "time": "MON 16:15:00-18:05:00 | WED 16:15:00-18:05:00",
+        "room": "F25",
+        "exam": "25/05/2026 MON 15:00:00 - 18:00:00"
+      },
+      {
+        "section": "05",
+        "instructor": "RASHID ALI RASHID AL-BALUSHI",
+        "time": "SUN 16:15:00-18:05:00 | TUE 16:15:00-18:05:00",
+        "room": "F24",
+        "exam": "25/05/2026 MON 15:00:00 - 18:00:00"
+      }
+    ]
+  },
+  {
+    "id": "ENGL2217",
+    "code": "ENGL2217",
+    "name": "Introduction to Poetry and Drama",
+    "sections": [
+      {
+        "section": "01",
+        "instructor": "MOUNIR BEN JILANI BEN ZID",
+        "time": "SUN 08:00:00-09:20:00 | TUE 08:00:00-09:20:00",
+        "room": "F20",
+        "exam": "18/05/2026 MON 11:30:00 - 14:30:00"
+      },
+      {
+        "section": "02",
+        "instructor": "GERARD JEREMIAH DINEEN",
+        "time": "SUN 12:00:00-13:20:00 | TUE 12:00:00-13:20:00",
+        "room": "F20",
+        "exam": "18/05/2026 MON 11:30:00 - 14:30:00"
+      },
+      {
+        "section": "03",
+        "instructor": "SANDHYA RAO MEHTA",
+        "time": "SUN 16:15:00-17:35:00 | TUE 16:15:00-17:35:00",
+        "room": "F20",
+        "exam": "18/05/2026 MON 11:30:00 - 14:30:00"
+      },
+      {
+        "section": "04",
+        "instructor": "KHALID MOHAMED BOUSAL AL-BULUSHI",
+        "time": "THU 08:00:00-09:20:00 | TUE 10:00:00-11:20:00",
+        "room": "F20",
+        "exam": "18/05/2026 MON 11:30:00 - 14:30:00"
+      }
+    ]
+  },
+  {
+    "id": "ENGL2320",
+    "code": "ENGL2320",
+    "name": "Introduction to the Study of Language and Phonetics",
+    "sections": [
+      {
+        "section": "01",
+        "instructor": "KHALSA HAMED SALIM AL-AGHBARI",
+        "time": "SUN 12:00:00-13:20:00 | TUE 12:00:00-13:20:00",
+        "room": "F21",
+        "exam": "20/05/2026 WED 11:30:00 - 14:30:00"
+      },
+      {
+        "section": "02",
+        "instructor": "SARA BAKHIT OBAID AL SHEYADI",
+        "time": "MON 10:00:00-11:20:00 | WED 10:00:00-11:20:00",
+        "room": "F20",
+        "exam": "20/05/2026 WED 11:30:00 - 14:30:00"
+      },
+      {
+        "section": "03",
+        "instructor": "HAMMAL SALEH MOHAMED WALI MOHAMED AL BALUSHI",
+        "time": "SUN 14:15:00-15:35:00 | TUE 14:15:00-15:35:00",
+        "room": "F20",
+        "exam": "20/05/2026 WED 11:30:00 - 14:30:00"
+      },
+      {
+        "section": "04",
+        "instructor": "HAMMAL SALEH MOHAMED WALI MOHAMED AL BALUSHI",
+        "time": "MON 14:15:00-15:35:00 | WED 14:15:00-15:35:00",
+        "room": "F20",
+        "exam": "20/05/2026 WED 11:30:00 - 14:30:00"
+      }
+    ]
+  },
+  {
+    "id": "ENGL2327",
+    "code": "ENGL2327",
+    "name": "Phonology and Morphology",
+    "sections": [
+      {
+        "section": "01",
+        "instructor": "AZZA NASSER SULAIMAN AL-KENDI",
+        "time": "MON 14:15:00-15:35:00 | WED 14:15:00-15:35:00",
+        "room": "F21",
+        "exam": "19/05/2026 TUE 08:00:00 - 11:00:00"
+      },
+      {
+        "section": "02",
+        "instructor": "AZZA NASSER SULAIMAN AL-KENDI",
+        "time": "SUN 12:00:00-13:20:00 | TUE 12:00:00-13:20:00",
+        "room": "F22",
+        "exam": "19/05/2026 TUE 08:00:00 - 11:00:00"
+      },
+      {
+        "section": "03",
+        "instructor": "KHALSA HAMED SALIM AL-AGHBARI",
+        "time": "SUN 14:15:00-15:35:00 | TUE 14:15:00-15:35:00",
+        "room": "F21",
+        "exam": "19/05/2026 TUE 08:00:00 - 11:00:00"
+      },
+      {
+        "section": "04",
+        "instructor": "SAID HUMAID ZAHRAN AL-JAHDHAMI",
+        "time": "SUN 08:00:00-09:20:00 | TUE 08:00:00-09:20:00",
+        "room": "F21",
+        "exam": "19/05/2026 TUE 08:00:00 - 11:00:00"
+      },
+      {
+        "section": "05",
+        "instructor": "To Be announced",
+        "time": "MON 08:00:00-09:20:00 | WED 08:00:00-09:20:00",
+        "room": "F25",
+        "exam": "19/05/2026 TUE 08:00:00 - 11:00:00"
+      }
+    ]
+  },
+  {
+    "id": "ENGL3127",
+    "code": "ENGL3127",
+    "name": "Academic Writing",
+    "sections": [
+      {
+        "section": "01",
+        "instructor": "MARYAM ALI ZAHIR AL-HINAI",
+        "time": "MON 16:15:00-18:05:00 | WED 16:15:00-18:05:00",
+        "room": "F35",
+        "exam": ""
+      },
+      {
+        "section": "02",
+        "instructor": "MARYAM ALI ZAHIR AL-HINAI",
+        "time": "MON 14:15:00-16:05:00 | WED 14:15:00-16:05:00",
+        "room": "F35",
+        "exam": ""
+      },
+      {
+        "section": "03",
+        "instructor": "To Be announced",
+        "time": "MON 12:00:00-13:50:00 | WED 12:00:00-13:50:00",
+        "room": "F35",
+        "exam": ""
+      },
+      {
+        "section": "04",
+        "instructor": "To Be announced",
+        "time": "MON 08:00:00-09:50:00 | WED 08:00:00-09:50:00",
+        "room": "F35",
+        "exam": ""
+      },
+      {
+        "section": "05",
+        "instructor": "To Be announced",
+        "time": "MON 10:00:00-11:50:00 | WED 10:00:00-11:50:00",
+        "room": "F35",
+        "exam": ""
+      }
+    ]
+  },
+  {
+    "id": "ENGL3128",
+    "code": "ENGL3128",
+    "name": "Speaking",
+    "sections": [
+      {
+        "section": "01",
+        "instructor": "KHALSA HAMED SALIM AL-AGHBARI",
+        "time": "MON 14:15:00-16:05:00 | WED 14:15:00-16:05:00",
+        "room": "F36",
+        "exam": ""
+      },
+      {
+        "section": "02",
+        "instructor": "AZZA NASSER SULAIMAN AL-KENDI",
+        "time": "MON 10:00:00-11:50:00 | WED 10:00:00-11:50:00",
+        "room": "F36",
+        "exam": ""
+      },
+      {
+        "section": "03",
+        "instructor": "SAID HUMAID ZAHRAN AL-JAHDHAMI",
+        "time": "SUN 12:00:00-13:50:00 | TUE 12:00:00-13:50:00",
+        "room": "F36",
+        "exam": ""
+      },
+      {
+        "section": "04",
+        "instructor": "HAMMAL SALEH MOHAMED WALI MOHAMED AL BALUSHI",
+        "time": "SUN 08:00:00-09:50:00 | TUE 08:00:00-09:50:00",
+        "room": "F36",
+        "exam": ""
+      },
+      {
+        "section": "05",
+        "instructor": "SAID HUMAID ZAHRAN AL-JAHDHAMI",
+        "time": "MON 12:00:00-13:50:00 | WED 12:00:00-13:50:00",
+        "room": "F36",
+        "exam": ""
+      },
+      {
+        "section": "06",
+        "instructor": "To Be announced",
+        "time": "SUN 12:00:00-13:50:00 | TUE 12:00:00-13:50:00",
+        "room": "NOR",
+        "exam": ""
+      }
+    ]
+  },
+  {
+    "id": "ENGL3129",
+    "code": "ENGL3129",
+    "name": "Research  Project",
+    "sections": [
+      {
+        "section": "01",
+        "instructor": "SAKINA MRANI ALAOUI",
+        "time": "SUN 10:00:00-11:50:00 | TUE 10:00:00-11:50:00 | THU 10:00:00-11:50:00",
+        "room": "0018",
+        "exam": ""
+      },
+      {
+        "section": "02",
+        "instructor": "MARYAM ALI ZAHIR AL-HINAI",
+        "time": "MON 10:00:00-11:50:00 | WED 10:00:00-11:50:00 | TUE 14:15:00-16:05:00",
+        "room": "0018",
+        "exam": ""
+      },
+      {
+        "section": "03",
+        "instructor": "FAISAL SAIF ALI AL SAIDI",
+        "time": "MON 08:00:00-09:50:00 | TUE 10:00:00-11:50:00 | WED 12:00:00-13:50:00",
+        "room": "0018 / 0033",
+        "exam": ""
+      },
+      {
+        "section": "04",
+        "instructor": "MOHAMMED ALI KHALIFA AL-ALAWI",
+        "time": "MON 08:00:00-09:50:00 | TUE 10:00:00-11:50:00 | WED 12:00:00-13:50:00",
+        "room": "0020 / 1167",
+        "exam": ""
+      },
+      {
+        "section": "05",
+        "instructor": "To Be announced",
+        "time": "SUN 16:15:00-18:05:00 | TUE 16:15:00-18:05:00 | WED 16:15:00-18:05:00",
+        "room": "0018 / 0019",
+        "exam": ""
+      },
+      {
+        "section": "06",
+        "instructor": "ADEL SALEEM M. ABURADWAN",
+        "time": "SUN 10:00:00-11:50:00 | THU 10:00:00-11:50:00 | TUE 10:00:00-11:50:00",
+        "room": "0021 / 0019",
+        "exam": ""
+      },
+      {
+        "section": "07",
+        "instructor": "FAISAL SAEED ALI AL-MAAMARI",
+        "time": "MON 14:15:00-16:05:00 | TUE 14:15:00-16:05:00 | WED 14:15:00-16:05:00",
+        "room": "0018",
+        "exam": ""
+      },
+      {
+        "section": "08",
+        "instructor": "CHANDRIKA KATRINA BALASUBRAMANIAN",
+        "time": "MON 10:00:00-11:50:00 | WED 10:00:00-11:50:00 | TUE 14:15:00-16:05:00",
+        "room": "0020",
+        "exam": ""
+      }
+    ]
+  },
+  {
+    "id": "ENGL3215",
+    "code": "ENGL3215",
+    "name": "American Survey (2)",
+    "sections": [
+      {
+        "section": "01",
+        "instructor": "SUSANNE SHUNNAQ",
+        "time": "SUN 14:15:00-15:35:00 | TUE 14:15:00-15:35:00",
+        "room": "F22",
+        "exam": "26/05/2026 TUE 11:30:00 - 14:30:00"
+      },
+      {
+        "section": "02",
+        "instructor": "MAJDA RAMADAN ATIEH",
+        "time": "MON 10:00:00-11:20:00 | WED 10:00:00-11:20:00",
+        "room": "F21",
+        "exam": "26/05/2026 TUE 11:30:00 - 14:30:00"
+      },
+      {
+        "section": "03",
+        "instructor": "KHALID MOHAMED BOUSAL AL-BULUSHI",
+        "time": "MON 16:15:00-17:35:00 | WED 16:15:00-17:35:00",
+        "room": "F20",
+        "exam": "26/05/2026 TUE 11:30:00 - 14:30:00"
+      },
+      {
+        "section": "04",
+        "instructor": "MAJDA RAMADAN ATIEH",
+        "time": "MON 14:15:00-15:35:00 | WED 14:15:00-15:35:00",
+        "room": "F22",
+        "exam": "26/05/2026 TUE 11:30:00 - 14:30:00"
+      }
+    ]
+  },
+  {
+    "id": "ENGL3217",
+    "code": "ENGL3217",
+    "name": "Children's Literature",
+    "sections": [
+      {
+        "section": "01",
+        "instructor": "AYA WALID FAYYAD AKKAWI",
+        "time": "SUN 10:00:00-11:20:00 | THU 10:00:00-11:20:00",
+        "room": "F20",
+        "exam": "23/05/2026 SAT 08:00:00 - 11:00:00"
+      },
+      {
+        "section": "02",
+        "instructor": "AYA WALID FAYYAD AKKAWI",
+        "time": "MON 10:00:00-11:20:00 | WED 10:00:00-11:20:00",
+        "room": "F22",
+        "exam": "23/05/2026 SAT 08:00:00 - 11:00:00"
+      },
+      {
+        "section": "03",
+        "instructor": "MOUNIR BEN JILANI BEN ZID",
+        "time": "MON 14:15:00-15:35:00 | WED 14:15:00-15:35:00",
+        "room": "F23",
+        "exam": "23/05/2026 SAT 08:00:00 - 11:00:00"
+      }
+    ]
+  },
+  {
+    "id": "ENGL3219",
+    "code": "ENGL3219",
+    "name": "British Survey (2)",
+    "sections": [
+      {
+        "section": "01",
+        "instructor": "MOUNIR BEN JILANI BEN ZID",
+        "time": "SUN 12:00:00-13:20:00 | TUE 12:00:00-13:20:00",
+        "room": "F23",
+        "exam": "21/05/2026 THU 08:00:00 - 11:00:00"
+      },
+      {
+        "section": "02",
+        "instructor": "MOUNIR BEN JILANI BEN ZID",
+        "time": "SUN 14:15:00-15:35:00 | TUE 14:15:00-15:35:00",
+        "room": "F23",
+        "exam": "21/05/2026 THU 08:00:00 - 11:00:00"
+      },
+      {
+        "section": "03",
+        "instructor": "Dr. Patricia McManus",
+        "time": "SUN 12:00:00-13:20:00 | TUE 12:00:00-13:20:00",
+        "room": "F24",
+        "exam": "21/05/2026 THU 08:00:00 - 11:00:00"
+      },
+      {
+        "section": "04",
+        "instructor": "AYA WALID FAYYAD AKKAWI",
+        "time": "MON 16:15:00-17:35:00 | WED 16:15:00-17:35:00",
+        "room": "F21",
+        "exam": "21/05/2026 THU 08:00:00 - 11:00:00"
+      }
+    ]
+  },
+  {
+    "id": "ENGL3220",
+    "code": "ENGL3220",
+    "name": "Modern Drama",
+    "sections": [
+      {
+        "section": "01",
+        "instructor": "To Be announced",
+        "time": "MON 10:00:00-11:20:00 | WED 10:00:00-11:20:00",
+        "room": "F23",
+        "exam": "24/05/2026 SUN 11:30:00 - 14:30:00"
+      },
+      {
+        "section": "02",
+        "instructor": "AYA WALID FAYYAD AKKAWI",
+        "time": "MON 14:15:00-15:35:00 | WED 14:15:00-15:35:00",
+        "room": "F24",
+        "exam": "24/05/2026 SUN 11:30:00 - 14:30:00"
+      },
+      {
+        "section": "03",
+        "instructor": "GERARD JEREMIAH DINEEN",
+        "time": "SUN 10:00:00-11:20:00 | THU 10:00:00-11:20:00",
+        "room": "F21",
+        "exam": "24/05/2026 SUN 11:30:00 - 14:30:00"
+      },
+      {
+        "section": "04",
+        "instructor": "GERARD JEREMIAH DINEEN",
+        "time": "SUN 14:15:00-15:35:00 | TUE 14:15:00-15:35:00",
+        "room": "F24",
+        "exam": "24/05/2026 SUN 11:30:00 - 14:30:00"
+      }
+    ]
+  },
+  {
+    "id": "ENGL3328",
+    "code": "ENGL3328",
+    "name": "Language in Society",
+    "sections": [
+      {
+        "section": "01",
+        "instructor": "SARA BAKHIT OBAID AL SHEYADI",
+        "time": "MON 14:15:00-15:35:00 | WED 14:15:00-15:35:00",
+        "room": "F25",
+        "exam": "17/05/2026 SUN 15:00:00 - 18:00:00"
+      },
+      {
+        "section": "02",
+        "instructor": "SARA BAKHIT OBAID AL SHEYADI",
+        "time": "SUN 12:00:00-13:20:00 | TUE 12:00:00-13:20:00",
+        "room": "F25",
+        "exam": "17/05/2026 SUN 15:00:00 - 18:00:00"
+      },
+      {
+        "section": "03",
+        "instructor": "SUAAD ALI SAUD AMBU-SAIDI",
+        "time": "MON 08:00:00-09:20:00 | WED 08:00:00-09:20:00",
+        "room": "F20",
+        "exam": "17/05/2026 SUN 15:00:00 - 18:00:00"
+      },
+      {
+        "section": "04",
+        "instructor": "SUAAD ALI SAUD AMBU-SAIDI",
+        "time": "MON 10:00:00-11:20:00 | WED 10:00:00-11:20:00",
+        "room": "F24",
+        "exam": "17/05/2026 SUN 15:00:00 - 18:00:00"
+      }
+    ]
+  },
+  {
+    "id": "ENGL3329",
+    "code": "ENGL3329",
+    "name": "Syntax and Semantics",
+    "sections": [
+      {
+        "section": "01",
+        "instructor": "RASHID ALI RASHID AL-BALUSHI",
+        "time": "MON 16:15:00-17:35:00 | WED 16:15:00-17:35:00",
+        "room": "F22",
+        "exam": "19/05/2026 TUE 11:30:00 - 14:30:00"
+      },
+      {
+        "section": "02",
+        "instructor": "RASHID ALI RASHID AL-BALUSHI",
+        "time": "SUN 14:15:00-15:35:00 | TUE 14:15:00-15:35:00",
+        "room": "F19",
+        "exam": "19/05/2026 TUE 11:30:00 - 14:30:00"
+      },
+      {
+        "section": "03",
+        "instructor": "SAID HUMAID ZAHRAN AL-JAHDHAMI",
+        "time": "SUN 14:15:00-15:35:00 | TUE 14:15:00-15:35:00",
+        "room": "F25",
+        "exam": "19/05/2026 TUE 11:30:00 - 14:30:00"
+      },
+      {
+        "section": "04",
+        "instructor": "SAKINA MRANI ALAOUI",
+        "time": "SUN 08:00:00-09:20:00 | TUE 08:00:00-09:20:00",
+        "room": "F22",
+        "exam": "19/05/2026 TUE 11:30:00 - 14:30:00"
+      },
+      {
+        "section": "05",
+        "instructor": "To Be announced",
+        "time": "THU 08:00:00-09:20:00 | TUE 10:00:00-11:20:00",
+        "room": "F22 / F28",
+        "exam": "19/05/2026 TUE 11:30:00 - 14:30:00"
+      }
+    ]
+  },
+  {
+    "id": "ENGL3419",
+    "code": "ENGL3419",
+    "name": "Translation (3)",
+    "sections": [
+      {
+        "section": "01",
+        "instructor": "Dr. Abdulkarim M. Allabneh",
+        "time": "MON 08:00:00-09:20:00 | WED 08:00:00-09:20:00",
+        "room": "F22",
+        "exam": "27/05/2026 WED 15:00:00 - 18:00:00"
+      },
+      {
+        "section": "02",
+        "instructor": "Dr. Abdulkarim M. Allabneh",
+        "time": "MON 12:00:00-13:20:00 | WED 12:00:00-13:20:00",
+        "room": "F20",
+        "exam": "27/05/2026 WED 15:00:00 - 18:00:00"
+      },
+      {
+        "section": "03",
+        "instructor": "To Be announced",
+        "time": "SUN 16:15:00-17:35:00 | TUE 16:15:00-17:35:00",
+        "room": "F21",
+        "exam": "27/05/2026 WED 15:00:00 - 18:00:00"
+      }
+    ]
+  },
+  {
+    "id": "ENGL4222",
+    "code": "ENGL4222",
+    "name": "Modern Poetry",
+    "sections": [
+      {
+        "section": "01",
+        "instructor": "SUSANNE SHUNNAQ",
+        "time": "SUN 16:15:00-17:35:00 | TUE 16:15:00-17:35:00",
+        "room": "F22",
+        "exam": "26/05/2026 TUE 08:00:00 - 11:00:00"
+      },
+      {
+        "section": "02",
+        "instructor": "SUSANNE SHUNNAQ",
+        "time": "SUN 12:00:00-13:20:00 | TUE 12:00:00-13:20:00",
+        "room": "F26",
+        "exam": "26/05/2026 TUE 08:00:00 - 11:00:00"
+      },
+      {
+        "section": "03",
+        "instructor": "KHALID MOHAMED BOUSAL AL-BULUSHI",
+        "time": "MON 14:15:00-15:35:00 | WED 14:15:00-15:35:00",
+        "room": "F26",
+        "exam": "26/05/2026 TUE 08:00:00 - 11:00:00"
+      },
+      {
+        "section": "04",
+        "instructor": "GERARD JEREMIAH DINEEN",
+        "time": "MON 10:00:00-11:20:00 | WED 10:00:00-11:20:00",
+        "room": "F25",
+        "exam": "26/05/2026 TUE 08:00:00 - 11:00:00"
+      }
+    ]
+  },
+  {
+    "id": "ENGL4230",
+    "code": "ENGL4230",
+    "name": "Shakespeare",
+    "sections": [
+      {
+        "section": "01",
+        "instructor": "Dr. Patricia McManus",
+        "time": "MON 08:00:00-09:20:00 | WED 08:00:00-09:20:00",
+        "room": "F23",
+        "exam": "24/05/2026 SUN 15:00:00 - 18:00:00"
+      },
+      {
+        "section": "02",
+        "instructor": "Dr. Patricia McManus",
+        "time": "MON 12:00:00-13:20:00 | WED 12:00:00-13:20:00",
+        "room": "F21",
+        "exam": "24/05/2026 SUN 15:00:00 - 18:00:00"
+      },
+      {
+        "section": "03",
+        "instructor": "SUSANNE SHUNNAQ",
+        "time": "MON 14:15:00-15:35:00 | WED 14:15:00-15:35:00",
+        "room": "F27",
+        "exam": "24/05/2026 SUN 15:00:00 - 18:00:00"
+      },
+      {
+        "section": "04",
+        "instructor": "SANDHYA RAO MEHTA",
+        "time": "SUN 12:00:00-13:20:00 | TUE 12:00:00-13:20:00",
+        "room": "F27",
+        "exam": "24/05/2026 SUN 15:00:00 - 18:00:00"
+      }
+    ]
+  },
+  {
+    "id": "ENGL4235",
+    "code": "ENGL4235",
+    "name": "World Literature in English",
+    "sections": [
+      {
+        "section": "01",
+        "instructor": "Dr. Patricia McManus",
+        "time": "SUN 14:15:00-15:35:00 | TUE 14:15:00-15:35:00",
+        "room": "F26",
+        "exam": "28/05/2026 THU 11:30:00 - 14:30:00"
+      },
+      {
+        "section": "02",
+        "instructor": "AYA WALID FAYYAD AKKAWI",
+        "time": "THU 08:00:00-09:20:00 | TUE 10:00:00-11:20:00",
+        "room": "F21",
+        "exam": "28/05/2026 THU 11:30:00 - 14:30:00"
+      },
+      {
+        "section": "03",
+        "instructor": "SANDHYA RAO MEHTA",
+        "time": "MON 08:00:00-09:20:00 | WED 08:00:00-09:20:00",
+        "room": "F24",
+        "exam": "28/05/2026 THU 11:30:00 - 14:30:00"
+      },
+      {
+        "section": "04",
+        "instructor": "SANDHYA RAO MEHTA",
+        "time": "MON 10:00:00-11:20:00 | WED 10:00:00-11:20:00",
+        "room": "F26",
+        "exam": "28/05/2026 THU 11:30:00 - 14:30:00"
+      }
+    ]
+  },
+  {
+    "id": "ENGL4329",
+    "code": "ENGL4329",
+    "name": "Discourse Analysis and Pragmatics",
+    "sections": [
+      {
+        "section": "01",
+        "instructor": "FATEMA SULAIMAN MOHAMMED ALRUBAI'EY",
+        "time": "MON 10:00:00-11:20:00 | WED 10:00:00-11:20:00",
+        "room": "F27",
+        "exam": "17/05/2026 SUN 08:00:00 - 11:00:00"
+      },
+      {
+        "section": "02",
+        "instructor": "FATEMA SULAIMAN MOHAMMED ALRUBAI'EY",
+        "time": "MON 14:15:00-15:35:00 | WED 14:15:00-15:35:00",
+        "room": "F28",
+        "exam": "17/05/2026 SUN 08:00:00 - 11:00:00"
+      },
+      {
+        "section": "03",
+        "instructor": "CHANDRIKA KATRINA BALASUBRAMANIAN",
+        "time": "SUN 12:00:00-13:20:00 | TUE 12:00:00-13:20:00",
+        "room": "F28",
+        "exam": "17/05/2026 SUN 08:00:00 - 11:00:00"
+      },
+      {
+        "section": "04",
+        "instructor": "CHANDRIKA KATRINA BALASUBRAMANIAN",
+        "time": "SUN 16:15:00-17:35:00 | TUE 16:15:00-17:35:00",
+        "room": "F23",
+        "exam": "17/05/2026 SUN 08:00:00 - 11:00:00"
+      }
+    ]
+  },
+  {
+    "id": "ENGL4421",
+    "code": "ENGL4421",
+    "name": "Language  Acquisition",
+    "sections": [
+      {
+        "section": "01",
+        "instructor": "ADEL SALEEM M. ABURADWAN",
+        "time": "MON 16:15:00-17:35:00 | WED 16:15:00-17:35:00",
+        "room": "F23",
+        "exam": "19/05/2026 TUE 08:00:00 - 11:00:00"
+      },
+      {
+        "section": "02",
+        "instructor": "FAISAL SAEED ALI AL-MAAMARI",
+        "time": "SUN 12:00:00-13:20:00 | TUE 12:00:00-13:20:00",
+        "room": "F29",
+        "exam": "19/05/2026 TUE 08:00:00 - 11:00:00"
+      },
+      {
+        "section": "03",
+        "instructor": "AZZA NASSER SULAIMAN AL-KENDI",
+        "time": "SUN 08:00:00-09:20:00 | TUE 08:00:00-09:20:00",
+        "room": "F23",
+        "exam": "19/05/2026 TUE 08:00:00 - 11:00:00"
+      }
+    ]
+  },
+  {
+    "id": "ENGL4560",
+    "code": "ENGL4560",
+    "name": "Period Study",
+    "sections": [
+      {
+        "section": "01",
+        "instructor": "SANDHYA RAO MEHTA",
+        "time": "SUN 10:00:00-11:20:00 | THU 10:00:00-11:20:00",
+        "room": "F22",
+        "exam": "20/05/2026 WED 08:00:00 - 11:00:00"
+      }
+    ]
+  },
+  {
+    "id": "ENGL4569",
+    "code": "ENGL4569",
+    "name": "Modern Literary Criticism",
+    "sections": [
+      {
+        "section": "01",
+        "instructor": "MAJDA RAMADAN ATIEH",
+        "time": "SUN 14:15:00-15:35:00 | TUE 14:15:00-15:35:00",
+        "room": "F27",
+        "exam": "24/05/2026 SUN 08:00:00 - 11:00:00"
+      }
+    ]
+  },
+  {
+    "id": "ENGL4571",
+    "code": "ENGL4571",
+    "name": "Aspects of Psycholinguistics",
+    "sections": [
+      {
+        "section": "01",
+        "instructor": "RASHID ALI RASHID AL-BALUSHI",
+        "time": "MON 12:00:00-13:20:00 | WED 12:00:00-13:20:00",
+        "room": "F22",
+        "exam": ""
+      }
+    ]
+  },
+  {
+    "id": "ENGL4577",
+    "code": "ENGL4577",
+    "name": "Language and Culture",
+    "sections": [
+      {
+        "section": "01",
+        "instructor": "SUAAD ALI SAUD AMBU-SAIDI",
+        "time": "MON 14:15:00-15:35:00 | WED 14:15:00-15:35:00",
+        "room": "0021",
+        "exam": "28/05/2026 THU 08:00:00 - 11:00:00"
+      }
+    ]
+  },
+  {
+    "id": "ENGL4580",
+    "code": "ENGL4580",
+    "name": "Special Topic in Linguistics",
+    "sections": [
+      {
+        "section": "01",
+        "instructor": "ADEL SALEEM M. ABURADWAN",
+        "time": "MON 14:15:00-15:35:00 | WED 14:15:00-15:35:00",
+        "room": "F19",
+        "exam": "28/05/2026 THU 08:00:00 - 11:00:00"
+      }
+    ]
+  },
+  {
+    "id": "ENGL4595",
+    "code": "ENGL4595",
+    "name": "Creative Writing",
+    "sections": [
+      {
+        "section": "01",
+        "instructor": "Dr. Patricia McManus",
+        "time": "THU 08:00:00-09:20:00 | TUE 10:00:00-11:20:00",
+        "room": "F21 / F22",
+        "exam": ""
+      }
+    ]
+  },
+  {
+    "id": "TRAN2032",
+    "code": "TRAN2032",
+    "name": "Arabic Syntax",
+    "sections": [
+      {
+        "section": "01",
+        "instructor": "MOHAMED HABIB BEN MOHAMED KAHLAOUI",
+        "time": "SUN 10:00:00-11:50:00 | THU 10:00:00-11:50:00",
+        "room": "F23",
+        "exam": "20/05/2026 WED 08:00:00 - 11:00:00"
+      }
+    ]
+  },
+  {
+    "id": "TRAN2220",
+    "code": "TRAN2220",
+    "name": "English Morphology",
+    "sections": [
+      {
+        "section": "01",
+        "instructor": "MOHAMED HABIB BEN MOHAMED KAHLAOUI",
+        "time": "SUN 14:15:00-15:35:00 | TUE 14:15:00-15:35:00",
+        "room": "NOR",
+        "exam": "24/05/2026 SUN 08:00:00 - 11:00:00"
+      }
+    ]
+  },
+  {
+    "id": "TRAN2222",
+    "code": "TRAN2222",
+    "name": "Contrastive Linguistics",
+    "sections": [
+      {
+        "section": "01",
+        "instructor": "MOHAMED HABIB BEN MOHAMED KAHLAOUI",
+        "time": "THU 08:00:00-09:20:00 | TUE 10:00:00-11:20:00",
+        "room": "F23",
+        "exam": "19/05/2026 TUE 15:00:00 - 18:00:00"
+      }
+    ]
+  },
+  {
+    "id": "TRAN2322",
+    "code": "TRAN2322",
+    "name": "Introduction to Translation (2): Arabic-English",
+    "sections": [
+      {
+        "section": "01",
+        "instructor": "To Be announced",
+        "time": "SUN 10:00:00-11:50:00 | THU 10:00:00-11:50:00",
+        "room": "F24",
+        "exam": "28/05/2026 THU 11:30:00 - 14:30:00"
+      },
+      {
+        "section": "02",
+        "instructor": "To Be announced",
+        "time": "MON 16:15:00-18:05:00 | WED 16:15:00-18:05:00",
+        "room": "F26",
+        "exam": "28/05/2026 THU 11:30:00 - 14:30:00"
+      },
+      {
+        "section": "03",
+        "instructor": "To Be announced",
+        "time": "THU 08:00:00-09:50:00 | TUE 10:00:00-11:50:00",
+        "room": "F24",
+        "exam": "28/05/2026 THU 11:30:00 - 14:30:00"
+      },
+      {
+        "section": "04",
+        "instructor": "Al-qasim Moosa Jaafar Dawood Al-kashri",
+        "time": "SUN 16:15:00-18:05:00 | TUE 16:15:00-18:05:00",
+        "room": "F25",
+        "exam": "28/05/2026 THU 11:30:00 - 14:30:00"
+      }
+    ]
+  },
+  {
+    "id": "TRAN3032",
+    "code": "TRAN3032",
+    "name": "Arabic Skills for Translators",
+    "sections": [
+      {
+        "section": "01",
+        "instructor": "MOHAMED HABIB BEN MOHAMED KAHLAOUI",
+        "time": "SUN 08:00:00-09:20:00 | TUE 08:00:00-09:20:00",
+        "room": "F24",
+        "exam": "18/05/2026 MON 08:00:00 - 11:00:00"
+      }
+    ]
+  },
+  {
+    "id": "TRAN3123",
+    "code": "TRAN3123",
+    "name": "Literary Translation",
+    "sections": [
+      {
+        "section": "01",
+        "instructor": "KHALID MOHAMED BOUSAL AL-BULUSHI",
+        "time": "SUN 14:15:00-16:05:00 | TUE 14:15:00-16:05:00",
+        "room": "NOR",
+        "exam": "24/05/2026 SUN 08:00:00 - 11:00:00"
+      }
+    ]
+  },
+  {
+    "id": "TRAN3223",
+    "code": "TRAN3223",
+    "name": "Lexicography and Terminology",
+    "sections": [
+      {
+        "section": "01",
+        "instructor": "Ahd Mohammad Shaker Othman",
+        "time": "SUN 14:15:00-15:35:00 | TUE 14:15:00-15:35:00",
+        "room": "NOR",
+        "exam": "24/05/2026 SUN 08:00:00 - 11:00:00"
+      }
+    ]
+  },
+  {
+    "id": "TRAN3422",
+    "code": "TRAN3422",
+    "name": "Translation: Commercial and Advertising",
+    "sections": [
+      {
+        "section": "01",
+        "instructor": "Dr. Abdulkarim M. Allabneh",
+        "time": "SUN 08:00:00-09:50:00 | TUE 08:00:00-09:50:00",
+        "room": "1165",
+        "exam": "18/05/2026 MON 08:00:00 - 11:00:00"
+      }
+    ]
+  },
+  {
+    "id": "TRAN4422",
+    "code": "TRAN4422",
+    "name": "Translation: Scientific and Technical",
+    "sections": [
+      {
+        "section": "01",
+        "instructor": "Dr. Abdulkarim M. Allabneh",
+        "time": "SUN 14:15:00-16:05:00 | TUE 14:15:00-16:05:00",
+        "room": "1165",
+        "exam": "24/05/2026 SUN 08:00:00 - 11:00:00"
+      }
+    ]
+  },
+  {
+    "id": "TRAN4424",
+    "code": "TRAN4424",
+    "name": "Translation Critique",
+    "sections": [
+      {
+        "section": "01",
+        "instructor": "ABDULGABBAR MOHAMED AL-SHARAFI",
+        "time": "SUN 12:00:00-13:20:00 | TUE 12:00:00-13:20:00",
+        "room": "1165",
+        "exam": "23/05/2026 SAT 15:00:00 - 18:00:00"
+      }
+    ]
+  },
+  {
+    "id": "TRAN4622",
+    "code": "TRAN4622",
+    "name": "Introduction to Interpreting (2): Arabic -English",
+    "sections": [
+      {
+        "section": "01",
+        "instructor": "Ahd Mohammad Shaker Othman",
+        "time": "SUN 16:15:00-18:05:00 | TUE 16:15:00-18:05:00",
+        "room": "1165 / F15",
+        "exam": "18/05/2026 MON 15:00:00 - 18:00:00"
+      }
+    ]
+  },
+  {
+    "id": "ANVS2000",
+    "code": "ANVS2000",
+    "name": "Omani Wildlife Wonders (Arabic) (UE)",
+    "sections": [
+      {
+        "section": "01",
+        "instructor": "AHMED SALEH ALI AL ANSARI",
+        "time": "THU 12:00:00-13:50:00",
+        "room": "DLR",
+        "exam": ""
+      }
+    ]
+  },
+  {
+    "id": "CHEM1200",
+    "code": "CHEM1200",
+    "name": "Chemistry for a Better Life (UE)",
+    "sections": [
+      {
+        "section": "01",
+        "instructor": "SULTAN MOHAMED HILAL AL-SAADI",
+        "time": "TUE 14:15:00-16:05:00",
+        "room": "DLR",
+        "exam": ""
+      }
+    ]
+  },
+  {
+    "id": "CHEM1300",
+    "code": "CHEM1300",
+    "name": "Introduction to Health, Safety, and Environment Practices (UE)",
+    "sections": [
+      {
+        "section": "01",
+        "instructor": "SULTAN MOHAMED HILAL AL-SAADI",
+        "time": "WED 14:15:00-16:05:00",
+        "room": "DLR",
+        "exam": ""
+      }
+    ]
+  },
+  {
+    "id": "COMP1003",
+    "code": "COMP1003",
+    "name": "Python Programming for Everyone (U.E)",
+    "sections": [
+      {
+        "section": "01",
+        "instructor": "To Be announced",
+        "time": "SUN 10:00:00-11:50:00",
+        "room": "DLR",
+        "exam": ""
+      },
+      {
+        "section": "02",
+        "instructor": "To Be announced",
+        "time": "TUE 10:00:00-11:50:00",
+        "room": "DLR",
+        "exam": ""
+      }
+    ]
+  },
+  {
+    "id": "COMP1007",
+    "code": "COMP1007",
+    "name": "Amazing Applications of AI (U.E.)",
+    "sections": [
+      {
+        "section": "01",
+        "instructor": "To Be announced",
+        "time": "SUN 14:15:00-16:05:00",
+        "room": "DLR",
+        "exam": ""
+      },
+      {
+        "section": "02",
+        "instructor": "To Be announced",
+        "time": "MON 14:15:00-16:05:00",
+        "room": "DLR",
+        "exam": ""
+      }
+    ]
+  },
+  {
+    "id": "CSAI1007",
+    "code": "CSAI1007",
+    "name": "The GPT Revolution (UE)",
+    "sections": [
+      {
+        "section": "01",
+        "instructor": "FATMA TALIB MIRAN AL RAISI",
+        "time": "MON 14:15:00-16:05:00",
+        "room": "DLR",
+        "exam": ""
+      }
+    ]
+  },
+  {
+    "id": "CUTM1003",
+    "code": "CUTM1003",
+    "name": "Principles of Teaching (UE)",
+    "sections": [
+      {
+        "section": "01",
+        "instructor": "ASMAA ABDELSABOUR MOHAMED HUSSEIN",
+        "time": "MON 12:00:00-13:50:00",
+        "room": "DLR",
+        "exam": ""
+      }
+    ]
+  },
+  {
+    "id": "DEFE1504",
+    "code": "DEFE1504",
+    "name": "Analysis of internationa conflicts (UE)",
+    "sections": [
+      {
+        "section": "01",
+        "instructor": "ABDALWAHAB KAREEM HAMED",
+        "time": "MON 14:15:00-16:05:00",
+        "room": "DLR",
+        "exam": ""
+      }
+    ]
+  },
+  {
+    "id": "ECCE2000",
+    "code": "ECCE2000",
+    "name": "Introduction to Artificial Intelligence",
+    "sections": [
+      {
+        "section": "01",
+        "instructor": "ABDULNASIR YAHYA HOSSEN",
+        "time": "WED 14:15:00-16:05:00",
+        "room": "C13",
+        "exam": ""
+      }
+    ]
+  },
+  {
+    "id": "ECED1020",
+    "code": "ECED1020",
+    "name": "Child's Upbringing, Health and Safety(U.E.)",
+    "sections": [
+      {
+        "section": "01",
+        "instructor": "IBRAHIM AMIN IBRAHIM AZEM",
+        "time": "SUN 10:00:00-11:50:00",
+        "room": "DLR",
+        "exam": ""
+      },
+      {
+        "section": "02",
+        "instructor": "AMUR MOHAMED AMUR ALAISARI",
+        "time": "MON 10:00:00-11:50:00",
+        "room": "DLR",
+        "exam": ""
+      }
+    ]
+  },
+  {
+    "id": "EDUC2010",
+    "code": "EDUC2010",
+    "name": "Professional Ethics (Arabic) (UE)",
+    "sections": [
+      {
+        "section": "01",
+        "instructor": "Muna Mohammed Hamed Al Salmi",
+        "time": "SUN 08:00:00-09:50:00",
+        "room": "DLR",
+        "exam": ""
+      },
+      {
+        "section": "02",
+        "instructor": "Mona Abdultawab Abdraboh Eldaly",
+        "time": "TUE 08:00:00-09:50:00",
+        "room": "DLR",
+        "exam": ""
+      }
+    ]
+  },
+  {
+    "id": "EDUC2023",
+    "code": "EDUC2023",
+    "name": "Education for Global Citizenship (UE)",
+    "sections": [
+      {
+        "section": "01",
+        "instructor": "Rashid Moosa Rashid Al Sawafi",
+        "time": "TUE 08:00:00-09:50:00",
+        "room": "DLR",
+        "exam": ""
+      },
+      {
+        "section": "02",
+        "instructor": "Dalal Hamdan Ali Al Hinai",
+        "time": "SUN 08:00:00-09:50:00",
+        "room": "DLR",
+        "exam": ""
+      }
+    ]
+  },
+  {
+    "id": "ERSC1005",
+    "code": "ERSC1005",
+    "name": "Water Resources in Oman : Present and Future (Arabic) (UE)",
+    "sections": [
+      {
+        "section": "01",
+        "instructor": "OSMAN ABDALKHALIG ABDALLA",
+        "time": "TUE 10:00:00-11:50:00",
+        "room": "DLR",
+        "exam": ""
+      }
+    ]
+  },
+  {
+    "id": "ISLM1140",
+    "code": "ISLM1140",
+    "name": "Quran Recitation (UE)",
+    "sections": [
+      {
+        "section": "01",
+        "instructor": "ABDULLA SALIM HAMED AL-HINAEI",
+        "time": "TUE 10:00:00-11:50:00",
+        "room": "DLR",
+        "exam": ""
+      },
+      {
+        "section": "02",
+        "instructor": "ABDULLA SALIM HAMED AL-HINAEI",
+        "time": "SUN 08:00:00-09:50:00",
+        "room": "DLR",
+        "exam": ""
+      }
+    ]
+  },
+  {
+    "id": "ISLM2010",
+    "code": "ISLM2010",
+    "name": "Prophet's Biography (UE)",
+    "sections": [
+      {
+        "section": "01",
+        "instructor": "ZIAD AWWAD A. ABU HAMMAD",
+        "time": "MON 10:00:00-11:50:00",
+        "room": "DLR",
+        "exam": ""
+      },
+      {
+        "section": "02",
+        "instructor": "IMAN MOHAMMED 'AMUR AL-RAJAIBI",
+        "time": "MON 12:00:00-13:50:00",
+        "room": "DLR",
+        "exam": ""
+      }
+    ]
+  },
+  {
+    "id": "ISLM2030",
+    "code": "ISLM2030",
+    "name": "The Miracle Of the Holy Quran (UE)",
+    "sections": [
+      {
+        "section": "01",
+        "instructor": "SAID RASHID SAID AL-SAWAFI",
+        "time": "SUN 10:00:00-11:50:00",
+        "room": "DLR",
+        "exam": ""
+      }
+    ]
+  },
+  {
+    "id": "ISLM2060",
+    "code": "ISLM2060",
+    "name": "Family Systems in Islam (UE)",
+    "sections": [
+      {
+        "section": "01",
+        "instructor": "ANKE SANDRA BOUZENITA",
+        "time": "SUN 12:00:00-13:50:00",
+        "room": "DLR",
+        "exam": ""
+      }
+    ]
+  },
+  {
+    "id": "ISLM2070",
+    "code": "ISLM2070",
+    "name": "Stories (UE)",
+    "sections": [
+      {
+        "section": "01",
+        "instructor": "SULAIMAN ALI AMUR AL-SHUEILY",
+        "time": "TUE 08:00:00-09:50:00",
+        "room": "DLR",
+        "exam": ""
+      },
+      {
+        "section": "02",
+        "instructor": "SULAIMAN ALI AMUR AL-SHUEILY",
+        "time": "TUE 12:00:00-13:50:00",
+        "room": "DLR",
+        "exam": ""
+      }
+    ]
+  },
+  {
+    "id": "ISLM2190",
+    "code": "ISLM2190",
+    "name": "Woman in Islam (UE)",
+    "sections": [
+      {
+        "section": "01",
+        "instructor": "IMAN MOHAMMED 'AMUR AL-RAJAIBI",
+        "time": "WED 12:00:00-13:50:00",
+        "room": "DLR",
+        "exam": ""
+      }
+    ]
+  },
+  {
+    "id": "MEDI2003",
+    "code": "MEDI2003",
+    "name": "Evolution of Modern Day Medicine (UE)",
+    "sections": [
+      {
+        "section": "01",
+        "instructor": "To Be announced",
+        "time": "WED 14:15:00-16:05:00",
+        "room": "A13",
+        "exam": ""
+      }
+    ]
+  },
+  {
+    "id": "MNGT2501",
+    "code": "MNGT2501",
+    "name": "Entrepreneurship: Innovation and Creativity (Arabic) (UE)",
+    "sections": [
+      {
+        "section": "01",
+        "instructor": "DR Issa Salim Saoud   Al Shabibi",
+        "time": "MON 16:15:00-18:05:00",
+        "room": "DLR",
+        "exam": ""
+      }
+    ]
+  },
+  {
+    "id": "PHED1260",
+    "code": "PHED1260",
+    "name": "Health Education and Physique (UE)",
+    "sections": [
+      {
+        "section": "01",
+        "instructor": "KHALIFA MUBARAK MASAAOD AL-JADEEDI",
+        "time": "SUN 10:00:00-11:50:00",
+        "room": "DLR",
+        "exam": ""
+      }
+    ]
+  },
+  {
+    "id": "PHIL2030",
+    "code": "PHIL2030",
+    "name": "Philosophy and Society (UE)",
+    "sections": [
+      {
+        "section": "01",
+        "instructor": "NOUREDDINE CHEBBI",
+        "time": "MON 14:15:00-16:05:00",
+        "room": "DLR",
+        "exam": ""
+      }
+    ]
+  },
+  {
+    "id": "PHYS2801",
+    "code": "PHYS2801",
+    "name": "Astronomy (Arabic) (UE)",
+    "sections": [
+      {
+        "section": "01",
+        "instructor": "KAWTHAR MOHAMED NASSER AL-RASBI",
+        "time": "MON 14:15:00-16:05:00",
+        "room": "DLR",
+        "exam": ""
+      }
+    ]
+  },
+  {
+    "id": "PHYS2802",
+    "code": "PHYS2802",
+    "name": "Exploring the Universe (Arabic) (UE)",
+    "sections": [
+      {
+        "section": "01",
+        "instructor": "ZAMZAM AHMED HILAL AL-KHALILI",
+        "time": "WED 14:15:00-16:05:00",
+        "room": "DLR",
+        "exam": ""
+      }
+    ]
+  },
+  {
+    "id": "PHYS2830",
+    "code": "PHYS2830",
+    "name": "Nuclear Energy and Radiation (UE)",
+    "sections": [
+      {
+        "section": "01",
+        "instructor": "RAHMA SULAIMAN ABDULLAH AL-HARTHY",
+        "time": "SUN 14:15:00-16:05:00",
+        "room": "DLR",
+        "exam": ""
+      }
+    ]
+  },
+  {
+    "id": "PLNT2020",
+    "code": "PLNT2020",
+    "name": "LABORATORY SAFETY: PRINCIPLES AND PRACTICES (UE)",
+    "sections": [
+      {
+        "section": "01",
+        "instructor": "MUHAMMAD SHAFIQ SHAHID",
+        "time": "WED 14:15:00-16:05:00",
+        "room": "DLR",
+        "exam": ""
+      }
+    ]
+  },
+  {
+    "id": "STAT2100",
+    "code": "STAT2100",
+    "name": "Discovering Statistics Using R (UE)",
+    "sections": [
+      {
+        "section": "01",
+        "instructor": "Ahmed Yahya Salim Al-Hadhrami",
+        "time": "SUN 10:00:00-11:50:00",
+        "room": "DLR",
+        "exam": ""
+      }
+    ]
+  },
+  {
+    "id": "SWAE2003",
+    "code": "SWAE2003",
+    "name": "Water in Arid Environments (UE)",
+    "sections": [
+      {
+        "section": "01",
+        "instructor": "AHMED SALIM ABDULLAH AL-BUSAIDI",
+        "time": "TUE 14:15:00-16:05:00",
+        "room": "DLR",
+        "exam": ""
+      },
+      {
+        "section": "02",
+        "instructor": "MANSOOR HAMED SULTAN AL-HADDABI",
+        "time": "WED 14:15:00-16:05:00",
+        "room": "DLR",
+        "exam": ""
+      }
+    ]
+  },
+  {
+    "id": "THAR1011",
+    "code": "THAR1011",
+    "name": "Theatrical Appreciation (UE)",
+    "sections": [
+      {
+        "section": "01",
+        "instructor": "MOHAMED SAIF RASHID AL-HABSI",
+        "time": "SUN 10:00:00-11:50:00",
+        "room": "DLR",
+        "exam": ""
+      },
+      {
+        "section": "02",
+        "instructor": "MOHAMED SAIF RASHID AL-HABSI",
+        "time": "SUN 12:00:00-13:50:00",
+        "room": "DLR",
+        "exam": ""
+      },
+      {
+        "section": "03",
+        "instructor": "MOHAMED SAIF RASHID AL-HABSI",
+        "time": "TUE 10:00:00-11:50:00",
+        "room": "DLR",
+        "exam": ""
+      }
+    ]
+  },
+  {
+    "id": "THAR1016",
+    "code": "THAR1016",
+    "name": "Child's Theatre (UE)",
+    "sections": [
+      {
+        "section": "01",
+        "instructor": "SAID MOHAMED MUBARAK AL-SIYABI",
+        "time": "MON 10:00:00-11:50:00",
+        "room": "DLR",
+        "exam": ""
+      },
+      {
+        "section": "02",
+        "instructor": "SAID MOHAMED MUBARAK AL-SIYABI",
+        "time": "MON 12:00:00-13:50:00",
+        "room": "DLR",
+        "exam": ""
+      },
+      {
+        "section": "03",
+        "instructor": "SAID MOHAMED MUBARAK AL-SIYABI",
+        "time": "WED 10:00:00-11:50:00",
+        "room": "DLR",
+        "exam": ""
+      }
+    ]
+  },
+  {
+    "id": "TOUR1051",
+    "code": "TOUR1051",
+    "name": "French for Beginners (UE)",
+    "sections": [
+      {
+        "section": "01",
+        "instructor": "SAMIRA AHARRANE BERDOUZ",
+        "time": "MON 08:00:00-09:50:00",
+        "room": "0033",
+        "exam": ""
+      },
+      {
+        "section": "02",
+        "instructor": "AGNES SIMONE RAYMONDE BOURGEOIS",
+        "time": "WED 08:00:00-09:50:00",
+        "room": "1167",
+        "exam": ""
+      },
+      {
+        "section": "03",
+        "instructor": "SAMIRA AHARRANE BERDOUZ",
+        "time": "SUN 10:00:00-11:50:00",
+        "room": "F25",
+        "exam": ""
+      },
+      {
+        "section": "04",
+        "instructor": "AGNES SIMONE RAYMONDE BOURGEOIS",
+        "time": "TUE 10:00:00-11:50:00",
+        "room": "0032",
+        "exam": ""
+      },
+      {
+        "section": "05",
+        "instructor": "AGNES SIMONE RAYMONDE BOURGEOIS",
+        "time": "WED 12:00:00-13:50:00",
+        "room": "0032",
+        "exam": ""
+      }
+    ]
+  },
+  {
+    "id": "TOUR1058",
+    "code": "TOUR1058",
+    "name": "Chinese Language for Beginners (UE)",
+    "sections": [
+      {
+        "section": "01",
+        "instructor": "To Be announced",
+        "time": "MON 12:00:00-13:50:00",
+        "room": "0033",
+        "exam": ""
+      },
+      {
+        "section": "02",
+        "instructor": "To Be announced",
+        "time": "TUE 12:00:00-13:50:00",
+        "room": "0033",
+        "exam": ""
+      }
+    ]
+  },
+  {
+    "id": "TOUR1061",
+    "code": "TOUR1061",
+    "name": "Spanish for Beginners 1(UE)",
+    "sections": [
+      {
+        "section": "01",
+        "instructor": "Laura Sanchez Mesas",
+        "time": "MON 08:00:00-09:50:00",
+        "room": "1169",
+        "exam": ""
+      },
+      {
+        "section": "02",
+        "instructor": "Laura Sanchez Mesas",
+        "time": "SUN 10:00:00-11:50:00",
+        "room": "1167",
+        "exam": ""
+      },
+      {
+        "section": "03",
+        "instructor": "Laura Sanchez Mesas",
+        "time": "SUN 14:15:00-16:05:00",
+        "room": "F40",
+        "exam": ""
+      }
+    ]
+  },
+  {
+    "id": "TOUR2051",
+    "code": "TOUR2051",
+    "name": "French for Beginners 2 (UE)",
+    "sections": [
+      {
+        "section": "01",
+        "instructor": "AGNES SIMONE RAYMONDE BOURGEOIS",
+        "time": "MON 14:15:00-16:05:00",
+        "room": "0032",
+        "exam": ""
+      }
+    ]
+  }
+]

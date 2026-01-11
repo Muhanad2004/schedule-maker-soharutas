@@ -1,0 +1,3579 @@
+[
+  {
+    "id": "BSCR3001",
+    "code": "BSCR3001",
+    "name": "Entrepreneurship",
+    "sections": [
+      {
+        "section": "10",
+        "instructor": "Naktal Al Kharousi",
+        "time": "MON 13:00-13:50 | WED 15:00-16:50",
+        "room": "T/T002 / T/T001",
+        "exam": ""
+      }
+    ]
+  },
+  {
+    "id": "MTDR3107",
+    "code": "MTDR3107",
+    "name": "Numerical Methods fo",
+    "sections": [
+      {
+        "section": "10",
+        "instructor": "Sankar Sagi",
+        "time": "WED 08:00-09:50 | THU 12:00-13:50",
+        "room": "F/F005 / T/T005",
+        "exam": ""
+      }
+    ]
+  },
+  {
+    "id": "UNAB4105",
+    "code": "UNAB4105",
+    "name": "Arabic Language Skil",
+    "sections": [
+      {
+        "section": "10",
+        "instructor": "Ali Al Riyami",
+        "time": "TUE 09:00-09:50 | WED 10:00-11:50",
+        "room": "D/D106 / A/A52",
+        "exam": ""
+      },
+      {
+        "section": "20",
+        "instructor": "Ali Al Riyami",
+        "time": "MON 13:00-14:50 | THU 12:00-12:50",
+        "room": "D/D111 / A/A49",
+        "exam": ""
+      }
+    ]
+  },
+  {
+    "id": "UNEN1102",
+    "code": "UNEN1102",
+    "name": "English for Academic",
+    "sections": [
+      {
+        "section": "10",
+        "instructor": "Ali AL-Ajmi",
+        "time": "WED 13:00-14:50 | THU 10:00-11:50",
+        "room": "A/A123 / D/D110",
+        "exam": ""
+      },
+      {
+        "section": "20",
+        "instructor": "Nadia Al Issai",
+        "time": "SUN 13:00-14:50 | TUE 10:00-11:50",
+        "room": "A/A123 / T/T001",
+        "exam": ""
+      },
+      {
+        "section": "30",
+        "instructor": "Aboubaidah",
+        "time": "SUN 10:00-11:50 | MON 14:00-15:50",
+        "room": "D/D112 / A/A122",
+        "exam": ""
+      },
+      {
+        "section": "40",
+        "instructor": "Nadia Al Issai",
+        "time": "MON 14:00-15:50 | WED 10:00-11:50",
+        "room": "A/A51 / A/A121",
+        "exam": ""
+      },
+      {
+        "section": "50",
+        "instructor": "Ali AL-Ajmi",
+        "time": "SUN 13:00-14:50 | TUE 10:00-11:50",
+        "room": "F/F003 / D/D6",
+        "exam": ""
+      },
+      {
+        "section": "60",
+        "instructor": "Nadia Al Issai",
+        "time": "MON 16:00-17:50 | WED 13:00-14:50",
+        "room": "T/T004 / T/T003",
+        "exam": ""
+      },
+      {
+        "section": "70",
+        "instructor": "Ali AL-Ajmi",
+        "time": "MON 14:00-15:50 | WED 15:00-16:50",
+        "room": "A/A121 / D/D106",
+        "exam": ""
+      },
+      {
+        "section": "80",
+        "instructor": "Aboubaidah",
+        "time": "TUE 10:00-11:50 | WED 15:00-16:50",
+        "room": "D/D10 / D/D110",
+        "exam": ""
+      }
+    ]
+  },
+  {
+    "id": "UNEN1203",
+    "code": "UNEN1203",
+    "name": "Technical Writing",
+    "sections": [
+      {
+        "section": "10",
+        "instructor": "Khaled AL-Belushi",
+        "time": "SUN 10:00-11:50 | THU 10:00-11:50",
+        "room": "A/A123 / T/T004",
+        "exam": ""
+      },
+      {
+        "section": "20",
+        "instructor": "Darwish Al Kalbani",
+        "time": "MON 14:00-15:50 | WED 10:00-11:50",
+        "room": "D/D104 / A/A151",
+        "exam": ""
+      },
+      {
+        "section": "30",
+        "instructor": "Fatin Al Haj",
+        "time": "MON 14:00-15:50 | WED 08:00-09:50",
+        "room": "F/F001 / T/T003",
+        "exam": ""
+      },
+      {
+        "section": "40",
+        "instructor": "Darwish Al Kalbani",
+        "time": "SUN 08:00-09:50 | TUE 10:00-11:50",
+        "room": "T/T004 / A/A123",
+        "exam": ""
+      },
+      {
+        "section": "50",
+        "instructor": "Fatin Al Haj",
+        "time": "WED 15:00-16:50 | THU 12:00-13:50",
+        "room": "T/T003 / D/D111",
+        "exam": ""
+      },
+      {
+        "section": "60",
+        "instructor": "Khaled AL-Belushi",
+        "time": "SUN 13:00-14:50 | TUE 08:00-09:50",
+        "room": "D/D111 / D/D107",
+        "exam": ""
+      },
+      {
+        "section": "70",
+        "instructor": "Darwish Al Kalbani",
+        "time": "SUN 13:00-14:50 | MON 08:00-09:50",
+        "room": "D/D103 / F/F006",
+        "exam": ""
+      },
+      {
+        "section": "80",
+        "instructor": "Fatin Al Haj",
+        "time": "SUN 14:00-15:50 | TUE 10:00-11:50",
+        "room": "F/F004 / F/F006",
+        "exam": ""
+      },
+      {
+        "section": "90",
+        "instructor": "Darwish Al Kalbani",
+        "time": "TUE 16:00-17:50 | THU 08:00-09:50",
+        "room": "D/D106 / A/A49",
+        "exam": ""
+      }
+    ]
+  },
+  {
+    "id": "UNEP2109",
+    "code": "UNEP2109",
+    "name": "Entrepreneurship: Cr",
+    "sections": [
+      {
+        "section": "10",
+        "instructor": "Faisal Al Shihi",
+        "time": "SUN 14:00-15:50 | TUE 08:00-09:50",
+        "room": "T/T102 / T/T005",
+        "exam": ""
+      },
+      {
+        "section": "20",
+        "instructor": "Faisal",
+        "time": "MON 13:00-14:50 | WED 10:00-11:50",
+        "room": "A/A47 / D/D109",
+        "exam": ""
+      },
+      {
+        "section": "30",
+        "instructor": "Faisal Al Shihi",
+        "time": "WED 16:00-17:50 | THU 08:00-09:50",
+        "room": "D/D108 / T/T004",
+        "exam": ""
+      },
+      {
+        "section": "40",
+        "instructor": "Faisal Al Shihi",
+        "time": "SUN 08:00-09:50 | THU 12:00-13:50",
+        "room": "A/A52 / T/T003",
+        "exam": ""
+      },
+      {
+        "section": "50",
+        "instructor": "Faisal",
+        "time": "TUE 10:00-11:50 | WED 13:00-14:50",
+        "room": "A/A51 / A/A121",
+        "exam": ""
+      },
+      {
+        "section": "60",
+        "instructor": "Faisal",
+        "time": "TUE 16:00-17:50 | THU 10:00-11:50",
+        "room": "F/F004 / A/A151",
+        "exam": ""
+      },
+      {
+        "section": "70",
+        "instructor": "Faisal Al Shihi",
+        "time": "MON 14:00-15:50 | WED 10:00-11:50",
+        "room": "T/T103 / T/T101",
+        "exam": ""
+      },
+      {
+        "section": "80",
+        "instructor": "Faisal",
+        "time": "SUN 10:00-11:50 | THU 12:00-13:50",
+        "room": "D/D9 / T/T101",
+        "exam": ""
+      }
+    ]
+  },
+  {
+    "id": "UNIS2206",
+    "code": "UNIS2206",
+    "name": "Islamic Culture",
+    "sections": [
+      {
+        "section": "10",
+        "instructor": "Osama AlRandi",
+        "time": "SUN 14:00-15:50 | TUE 16:00-16:50",
+        "room": "T/T103 / A/A51",
+        "exam": ""
+      },
+      {
+        "section": "20",
+        "instructor": "Osama AlRandi",
+        "time": "TUE 11:00-11:50 | WED 10:00-11:50",
+        "room": "D/D110 / T/T103",
+        "exam": ""
+      },
+      {
+        "section": "30",
+        "instructor": "Osama AlRandi",
+        "time": "MON 08:00-09:50 | THU 11:00-11:50",
+        "room": "T/T103 / A/A48",
+        "exam": ""
+      }
+    ]
+  },
+  {
+    "id": "UNOC2207",
+    "code": "UNOC2207",
+    "name": "Oman Civilization an",
+    "sections": [
+      {
+        "section": "10",
+        "instructor": "Said  Al Manai",
+        "time": "TUE 10:00-10:50 | THU 08:00-09:50",
+        "room": "F/F005 / D/D6",
+        "exam": ""
+      },
+      {
+        "section": "20",
+        "instructor": "Said  Al Manai",
+        "time": "SUN 10:00-11:50 | TUE 08:00-08:50",
+        "room": "F/F001 / F/F005",
+        "exam": ""
+      },
+      {
+        "section": "30",
+        "instructor": "Said  Al Manai",
+        "time": "MON 13:00-13:50 | WED 10:00-11:50",
+        "room": "F/F005 / F/F005",
+        "exam": ""
+      }
+    ]
+  },
+  {
+    "id": "MCCR4101",
+    "code": "MCCR4101",
+    "name": "Interpersonal Skills",
+    "sections": [
+      {
+        "section": "10",
+        "instructor": "Huda Al Hadhri",
+        "time": "THU 12:00-13:50",
+        "room": "D/D6",
+        "exam": ""
+      },
+      {
+        "section": "20",
+        "instructor": "Huda Al Hadhri",
+        "time": "WED 10:00-11:50",
+        "room": "T/T004",
+        "exam": ""
+      }
+    ]
+  },
+  {
+    "id": "CHEM1120",
+    "code": "CHEM1120",
+    "name": "Chemistry for Engine",
+    "sections": [
+      {
+        "section": "10",
+        "instructor": "Amna    Elyas Al Jadidi",
+        "time": "SUN 10:00-11:50 | MON 13:00-14:50 | TUE 14:00-16:50",
+        "room": "T/T102 / D/D103 / E/L108",
+        "exam": ""
+      },
+      {
+        "section": "20",
+        "instructor": "Amna    Asma AL-Kharusi",
+        "time": "MON 14:00-15:50 | TUE 10:00-11:50 | WED 09:00-11:50",
+        "room": "D/D102 / T/T103 / E/L108",
+        "exam": ""
+      },
+      {
+        "section": "30",
+        "instructor": "Amna    Elyas Al Jadidi",
+        "time": "MON 09:00-11:50 | WED 10:00-11:50 | THU 10:00-11:50",
+        "room": "E/L108 / D/D10 / D/D105",
+        "exam": ""
+      },
+      {
+        "section": "40",
+        "instructor": "Amna",
+        "time": "SUN 13:00-15:50 | WED 13:00-14:50 | THU 08:00-09:50",
+        "room": "E/L108 / A/A49 / T/T005",
+        "exam": ""
+      }
+    ]
+  },
+  {
+    "id": "EGCH2110",
+    "code": "EGCH2110",
+    "name": "CHEMICAL ENGINEERING",
+    "sections": [
+      {
+        "section": "10",
+        "instructor": "Govinda Lakshmanarao",
+        "time": "TUE 10:00-11:50 | WED 10:00-11:50",
+        "room": "D/D111 / F/F002",
+        "exam": ""
+      },
+      {
+        "section": "20",
+        "instructor": "Govinda Lakshmanarao",
+        "time": "MON 16:00-17:50 | THU 12:00-13:50",
+        "room": "D/D111 / A/A122",
+        "exam": ""
+      }
+    ]
+  },
+  {
+    "id": "EGCH2120",
+    "code": "EGCH2120",
+    "name": "CHEMICAL PROCESS CAL",
+    "sections": [
+      {
+        "section": "10",
+        "instructor": "Maitha Al Jabri",
+        "time": "MON 10:00-11:50 | TUE 16:00-17:50",
+        "room": "A/A121 / D/D108",
+        "exam": ""
+      },
+      {
+        "section": "20",
+        "instructor": "Maitha Al Jabri",
+        "time": "SUN 08:00-09:50 | WED 08:00-09:50",
+        "room": "F/F005 / D/D108",
+        "exam": ""
+      }
+    ]
+  },
+  {
+    "id": "EGCH2130",
+    "code": "EGCH2130",
+    "name": "FLUID MECHANICS",
+    "sections": [
+      {
+        "section": "10",
+        "instructor": "Senthil",
+        "time": "TUE 14:00-15:50 | THU 10:00-11:50",
+        "room": "D/D106 / A/A150",
+        "exam": ""
+      },
+      {
+        "section": "20",
+        "instructor": "Ahoud Al Hamdani",
+        "time": "MON 10:00-11:50 | WED 15:00-16:50",
+        "room": "T/T101 / A/A123",
+        "exam": ""
+      }
+    ]
+  },
+  {
+    "id": "EGCH2140",
+    "code": "EGCH2140",
+    "name": "ORGANIC CHEMISTRY",
+    "sections": [
+      {
+        "section": "10",
+        "instructor": "Elyas Al Jadidi",
+        "time": "SUN 15:00-16:50 | MON 08:00-09:50",
+        "room": "T/T004 / D/D112",
+        "exam": ""
+      },
+      {
+        "section": "20",
+        "instructor": "Sulaiman Al Issai",
+        "time": "SUN 14:00-15:50 | THU 10:00-11:50",
+        "room": "A/A51 / E/L102",
+        "exam": ""
+      }
+    ]
+  },
+  {
+    "id": "EGCH2210",
+    "code": "EGCH2210",
+    "name": "CHEMICAL REACTION EN",
+    "sections": [
+      {
+        "section": "10",
+        "instructor": "Mohammed",
+        "time": "SUN 16:00-17:50 | MON 08:00-09:50 | TUE 14:00-15:50",
+        "room": "D/D104 / D/D106 / T/T002",
+        "exam": ""
+      }
+    ]
+  },
+  {
+    "id": "EGCH2220",
+    "code": "EGCH2220",
+    "name": "HEAT TRANSFER",
+    "sections": [
+      {
+        "section": "10",
+        "instructor": "Afaf Ahmed",
+        "time": "WED 15:00-16:50 | THU 10:00-11:50",
+        "room": "D/D9 / D/D102",
+        "exam": ""
+      }
+    ]
+  },
+  {
+    "id": "EGCH2230",
+    "code": "EGCH2230",
+    "name": "PETROLEUM AND PETROC",
+    "sections": [
+      {
+        "section": "10",
+        "instructor": "Govinda Lakshmanarao",
+        "time": "SUN 14:00-15:50 | WED 08:00-09:50",
+        "room": "D/D105 / F/F006",
+        "exam": ""
+      }
+    ]
+  },
+  {
+    "id": "EGCH2240",
+    "code": "EGCH2240",
+    "name": "DIPLOMA PROJECT",
+    "sections": [
+      {
+        "section": "10",
+        "instructor": "Asma AL-Kharusi   Ahoud Al Hamdani   Eiman Al Futeisi   Sarvana Krishnan   Afaf Ahmed",
+        "time": "SUN 08:00-09:50 | MON 13:00-14:50 | MON 15:00-16:50 | TUE 08:00-09:50 | TUE 20:00-20:50 | WED 10:00-11:50 | WED 13:00-14:50",
+        "room": "A/A151 / A/A49 / A/A47 / A/A47 / T/T004 / A/A47 / T/T004",
+        "exam": ""
+      }
+    ]
+  },
+  {
+    "id": "EGCH3110",
+    "code": "EGCH3110",
+    "name": "ENVIRONMENTAL ENGINE",
+    "sections": [
+      {
+        "section": "10",
+        "instructor": "Eiman Al Futeisi",
+        "time": "WED 20:00-21:50 | THU 08:00-09:50",
+        "room": "A/A49 / D/D112",
+        "exam": ""
+      }
+    ]
+  },
+  {
+    "id": "EGCH3120",
+    "code": "EGCH3120",
+    "name": "CHEMICAL PROCESS IND",
+    "sections": [
+      {
+        "section": "10",
+        "instructor": "Eiman Al Futeisi",
+        "time": "SUN 14:00-15:50 | MON 10:00-11:50",
+        "room": "A/A48 / T/T103",
+        "exam": ""
+      }
+    ]
+  },
+  {
+    "id": "EGCH3130",
+    "code": "EGCH3130",
+    "name": "MECHANICAL OPERATION",
+    "sections": [
+      {
+        "section": "10",
+        "instructor": "Asma AL-Kharusi",
+        "time": "MON 16:00-17:50 | WED 08:00-09:50",
+        "room": "T/T002 / D/D103",
+        "exam": ""
+      }
+    ]
+  },
+  {
+    "id": "EGCH3140",
+    "code": "EGCH3140",
+    "name": "MASS TRANSFER OPERAT",
+    "sections": [
+      {
+        "section": "10",
+        "instructor": "Al Moatasem Al-Aufi",
+        "time": "TUE 14:00-15:50 | THU 10:00-11:50",
+        "room": "T/T004 / T/T002",
+        "exam": ""
+      }
+    ]
+  },
+  {
+    "id": "EGCH3150",
+    "code": "EGCH3150",
+    "name": "ENGINEERING MATERIAL",
+    "sections": [
+      {
+        "section": "10",
+        "instructor": "Asma AL-Kharusi",
+        "time": "SUN 08:00-09:50 | THU 12:00-13:50",
+        "room": "T/T001 / T/T103",
+        "exam": ""
+      }
+    ]
+  },
+  {
+    "id": "EGCH3210",
+    "code": "EGCH3210",
+    "name": "ENERGY ENGINEERING",
+    "sections": [
+      {
+        "section": "10",
+        "instructor": "Senthil",
+        "time": "SUN 10:00-11:50 | MON 13:00-14:50",
+        "room": "T/T003 / F/F006",
+        "exam": ""
+      }
+    ]
+  },
+  {
+    "id": "EGCH3220",
+    "code": "EGCH3220",
+    "name": "CHEMICAL PROCESS AND",
+    "sections": [
+      {
+        "section": "10",
+        "instructor": "Sarvana Krishnan",
+        "time": "SUN 08:00-09:50 | TUE 14:00-15:50 | THU 10:00-11:50",
+        "room": "T/T003 / D/D107 / T/T101",
+        "exam": ""
+      }
+    ]
+  },
+  {
+    "id": "EGCH3230",
+    "code": "EGCH3230",
+    "name": "ADVANCED DIPLOMA PRO",
+    "sections": [
+      {
+        "section": "10",
+        "instructor": "Asma AL-Kharusi   Ahoud Al Hamdani   Elyas Al Jadidi   Eiman Al Futeisi   Maitha Al Jabri",
+        "time": "TUE 08:00-09:50 | TUE 16:00-17:50 | WED 08:00-08:50 | WED 10:00-11:50 | THU 08:00-09:50",
+        "room": "T/T002 / A/A123 / D/D102 / D/D103 / T/T103",
+        "exam": ""
+      }
+    ]
+  },
+  {
+    "id": "EGCH3262",
+    "code": "EGCH3262",
+    "name": "TOTAL QUALITY MANAGE",
+    "sections": [
+      {
+        "section": "10",
+        "instructor": "Ahoud Al Hamdani",
+        "time": "SUN 14:00-15:50 | MON 17:00-17:50",
+        "room": "A/A122 / A/A123",
+        "exam": ""
+      }
+    ]
+  },
+  {
+    "id": "EGCH4110",
+    "code": "EGCH4110",
+    "name": "PROCESS MODELING AND",
+    "sections": [
+      {
+        "section": "10",
+        "instructor": "Sarvana Krishnan",
+        "time": "MON 10:00-11:50 | WED 14:00-15:50",
+        "room": "D/D111 / T/T102",
+        "exam": ""
+      }
+    ]
+  },
+  {
+    "id": "EGCH4120",
+    "code": "EGCH4120",
+    "name": "CHEMICAL PROCESS DYN",
+    "sections": [
+      {
+        "section": "10",
+        "instructor": "Senthil",
+        "time": "SUN 15:00-16:50 | MON 08:00-09:50",
+        "room": "T/T002 / A/A51",
+        "exam": ""
+      }
+    ]
+  },
+  {
+    "id": "EGCH4130",
+    "code": "EGCH4130",
+    "name": "BACHELOR PROJECT PHA",
+    "sections": [
+      {
+        "section": "10",
+        "instructor": "Al Moatasem Al-Aufi   Mohammed    Maitha Al Jabri   Senthil",
+        "time": "TUE 14:00-15:50 | TUE 16:00-17:50 | WED 08:00-09:50 | WED 20:00-20:50 | THU 08:00-09:50",
+        "room": "A/A123 / A/A49 / D/D106 / D/D110 / D/D9",
+        "exam": ""
+      }
+    ]
+  },
+  {
+    "id": "EGCH4140",
+    "code": "EGCH4140",
+    "name": "ENGINEERING MANAGEME",
+    "sections": [
+      {
+        "section": "10",
+        "instructor": "Eiman Al Futeisi",
+        "time": "TUE 10:00-11:50 | WED 13:00-13:50",
+        "room": "A/A47 / D/D103",
+        "exam": ""
+      }
+    ]
+  },
+  {
+    "id": "EGCH4161",
+    "code": "EGCH4161",
+    "name": "ADVANCED SEPARATION",
+    "sections": [
+      {
+        "section": "10",
+        "instructor": "Afaf Ahmed",
+        "time": "SUN 10:00-11:50 | MON 15:00-16:50",
+        "room": "D/D6 / A/A49",
+        "exam": ""
+      }
+    ]
+  },
+  {
+    "id": "EGCO2220",
+    "code": "EGCO2220",
+    "name": "MICROPROCESSORS AND",
+    "sections": [
+      {
+        "section": "10",
+        "instructor": "Majdi Abdulfattah",
+        "time": "SUN 08:00-09:50 | THU 10:00-11:50",
+        "room": "T/T101 / A/A47",
+        "exam": ""
+      }
+    ]
+  },
+  {
+    "id": "EGCP1130",
+    "code": "EGCP1130",
+    "name": "Computer Programming",
+    "sections": [
+      {
+        "section": "10",
+        "instructor": "Reham Al Bulushi   Basim Al-Sane",
+        "time": "SUN 08:00-09:50 | THU 08:00-09:50",
+        "room": "D/ITD3 / F/F001",
+        "exam": ""
+      },
+      {
+        "section": "20",
+        "instructor": "Mohammed AL-Haj  Hamed",
+        "time": "WED 16:00-17:50 | THU 08:00-09:50",
+        "room": "D/ITD3 / A/A123",
+        "exam": ""
+      },
+      {
+        "section": "30",
+        "instructor": "Basim Al-Sane",
+        "time": "MON 16:00-17:50 | WED 08:00-09:50",
+        "room": "H/L107 / D/D6",
+        "exam": ""
+      },
+      {
+        "section": "40",
+        "instructor": "Mohammed AL-Haj  Hamed",
+        "time": "MON 13:00-14:50 | TUE 16:00-17:50",
+        "room": "T/T004 / H/L106",
+        "exam": ""
+      }
+    ]
+  },
+  {
+    "id": "EGEC2220",
+    "code": "EGEC2220",
+    "name": "FUNDAMENTALS OF DIGI",
+    "sections": [
+      {
+        "section": "10",
+        "instructor": "Hamida Al Maamari",
+        "time": "WED 08:00-09:50 | THU 12:00-13:50",
+        "room": "T/T002 / D/D108",
+        "exam": ""
+      }
+    ]
+  },
+  {
+    "id": "EGEC2240",
+    "code": "EGEC2240",
+    "name": "INSTRUMENTATION AND",
+    "sections": [
+      {
+        "section": "10",
+        "instructor": "Sasidharan",
+        "time": "SUN 14:00-15:50 | TUE 10:00-11:50",
+        "room": "D/D104 / D/D105",
+        "exam": ""
+      }
+    ]
+  },
+  {
+    "id": "EGEC3140",
+    "code": "EGEC3140",
+    "name": "ELECTROMAGNETIC FIEL",
+    "sections": [
+      {
+        "section": "10",
+        "instructor": "ENGR2",
+        "time": "MON 09:00-09:50 | THU 10:00-11:50",
+        "room": "D/D105 / T/T102",
+        "exam": ""
+      }
+    ]
+  },
+  {
+    "id": "EGEL2110",
+    "code": "EGEL2110",
+    "name": "ELECTRIC CIRCUITS I",
+    "sections": [
+      {
+        "section": "10",
+        "instructor": "Salwa Al Mamari",
+        "time": "MON 08:00-09:50 | WED 10:00-11:50",
+        "room": "A/A150 / T/T002",
+        "exam": ""
+      },
+      {
+        "section": "20",
+        "instructor": "Salwa Al Mamari",
+        "time": "WED 08:00-09:50 | THU 10:00-11:50",
+        "room": "T/T103 / T/T103",
+        "exam": ""
+      }
+    ]
+  },
+  {
+    "id": "EGEL2120",
+    "code": "EGEL2120",
+    "name": "ELECTRONIC DEVICES A",
+    "sections": [
+      {
+        "section": "10",
+        "instructor": "Hamida Al Maamari",
+        "time": "MON 10:00-11:50 | TUE 14:00-15:50",
+        "room": "D/D108 / A/A49",
+        "exam": ""
+      },
+      {
+        "section": "20",
+        "instructor": "Hamida Al Maamari",
+        "time": "SUN 08:00-09:50 | TUE 16:00-17:50",
+        "room": "D/D112 / T/T003",
+        "exam": ""
+      }
+    ]
+  },
+  {
+    "id": "EGEL2130",
+    "code": "EGEL2130",
+    "name": "ELECTRICAL MACHINES",
+    "sections": [
+      {
+        "section": "10",
+        "instructor": "Parmal Solanki",
+        "time": "SUN 08:00-09:50 | THU 12:00-13:50",
+        "room": "A/A121 / T/T002",
+        "exam": ""
+      },
+      {
+        "section": "20",
+        "instructor": "Wedad Al Shibli",
+        "time": "TUE 14:00-15:50 | THU 08:00-09:50",
+        "room": "T/T101 / T/T101",
+        "exam": ""
+      }
+    ]
+  },
+  {
+    "id": "EGEL2210",
+    "code": "EGEL2210",
+    "name": "ELECTRICAL POWER SYS",
+    "sections": [
+      {
+        "section": "10",
+        "instructor": "Shaik Abdul Saleem",
+        "time": "MON 08:00-09:50 | WED 14:00-15:50",
+        "room": "D/D107 / F/F001",
+        "exam": ""
+      }
+    ]
+  },
+  {
+    "id": "EGEL2220",
+    "code": "EGEL2220",
+    "name": "ELECTRICAL SKILLS AN",
+    "sections": [
+      {
+        "section": "10",
+        "instructor": "Wedad Al Shibli",
+        "time": "SUN 08:00-09:50 | MON 14:00-15:50 | WED 13:00-13:50",
+        "room": "T/T102 / D/D9 / D/D107",
+        "exam": ""
+      }
+    ]
+  },
+  {
+    "id": "EGEL2230",
+    "code": "EGEL2230",
+    "name": "DIPLOMA PROJECT",
+    "sections": [
+      {
+        "section": "10",
+        "instructor": "Wedad Al Shibli   Salwa Al Mamari   Majdi Abdulfattah   Shaik Abdul Saleem",
+        "time": "SUN 13:00-13:50 | MON 16:00-17:50 | TUE 16:00-17:50 | WED 10:00-11:50 | THU 10:00-11:50",
+        "room": "D/D6 / T/T102 / D/D105 / D/D107 / F/F001",
+        "exam": ""
+      }
+    ]
+  },
+  {
+    "id": "EGEL3110",
+    "code": "EGEL3110",
+    "name": "ELECTRIC CIRCUITS II",
+    "sections": [
+      {
+        "section": "10",
+        "instructor": "Mohammed Mihuob",
+        "time": "MON 13:00-14:50 | WED 08:00-09:50",
+        "room": "T/T101 / A/A151",
+        "exam": ""
+      }
+    ]
+  },
+  {
+    "id": "EGEL3120",
+    "code": "EGEL3120",
+    "name": "ELECTRICAL MACHINES",
+    "sections": [
+      {
+        "section": "10",
+        "instructor": "Parmal Solanki",
+        "time": "MON 10:00-11:50 | TUE 14:00-15:50",
+        "room": "D/D109 / T/T102",
+        "exam": ""
+      }
+    ]
+  },
+  {
+    "id": "EGEL3130",
+    "code": "EGEL3130",
+    "name": "POWER STATIONS AND D",
+    "sections": [
+      {
+        "section": "10",
+        "instructor": "Salwa Al Mamari",
+        "time": "SUN 14:00-15:50 | TUE 10:00-11:50",
+        "room": "D/D110 / A/A48",
+        "exam": ""
+      }
+    ]
+  },
+  {
+    "id": "EGEL3210",
+    "code": "EGEL3210",
+    "name": "POWER ELECTRONICS AN",
+    "sections": [
+      {
+        "section": "10",
+        "instructor": "Majdi Abdulfattah",
+        "time": "MON 13:00-15:50 | WED 08:00-09:50",
+        "room": "T/T005 / D/D111",
+        "exam": ""
+      }
+    ]
+  },
+  {
+    "id": "EGEL3220",
+    "code": "EGEL3220",
+    "name": "CONTROL SYSTEMS",
+    "sections": [
+      {
+        "section": "10",
+        "instructor": "Mohammed Mihuob",
+        "time": "TUE 14:00-15:50 | THU 08:00-09:50",
+        "room": "D/D6 / T/T002",
+        "exam": ""
+      }
+    ]
+  },
+  {
+    "id": "EGEL3230",
+    "code": "EGEL3230",
+    "name": "POWER SYSTEM ANALYSI",
+    "sections": [
+      {
+        "section": "10",
+        "instructor": "Shaik Abdul Saleem",
+        "time": "SUN 10:00-11:50 | TUE 08:00-09:50",
+        "room": "T/T101 / D/D9",
+        "exam": ""
+      }
+    ]
+  },
+  {
+    "id": "EGEL3240",
+    "code": "EGEL3240",
+    "name": "ADVANCED DIPLOMA PRO",
+    "sections": [
+      {
+        "section": "10",
+        "instructor": "Parmal Solanki   Mohammed Mihuob",
+        "time": "SUN 20:00-20:50 | MON 16:00-17:50 | WED 10:00-11:50",
+        "room": "D/D6 / T/T101 / A/A150",
+        "exam": ""
+      }
+    ]
+  },
+  {
+    "id": "EGEL4110",
+    "code": "EGEL4110",
+    "name": "SWITCHGEAR AND PROTE",
+    "sections": [
+      {
+        "section": "10",
+        "instructor": "Parmal Solanki",
+        "time": "MON 16:00-17:50 | TUE 08:00-09:50",
+        "room": "D/D112 / A/A49",
+        "exam": ""
+      }
+    ]
+  },
+  {
+    "id": "EGEL4120",
+    "code": "EGEL4120",
+    "name": "HIGH VOLTAGE ENGINEE",
+    "sections": [
+      {
+        "section": "10",
+        "instructor": "Shaik Abdul Saleem",
+        "time": "SUN 16:00-17:50 | WED 16:00-17:50",
+        "room": "A/A151 / F/F001",
+        "exam": ""
+      }
+    ]
+  },
+  {
+    "id": "EGEL4130",
+    "code": "EGEL4130",
+    "name": "BACHELOR PROJECT PHA",
+    "sections": [
+      {
+        "section": "10",
+        "instructor": "Sasidharan    Majdi Abdulfattah   Mohammed Mihuob",
+        "time": "SUN 14:00-15:50 | TUE 10:00-11:50 | TUE 17:00-17:50 | WED 10:00-11:50",
+        "room": "A/A47 / A/A49 / T/T103 / D/D102",
+        "exam": ""
+      }
+    ]
+  },
+  {
+    "id": "EGEL4160",
+    "code": "EGEL4160",
+    "name": "UTILIZATION OF ELECT",
+    "sections": [
+      {
+        "section": "10",
+        "instructor": "ENGR4",
+        "time": "MON 10:00-11:50 | THU 13:00-13:50",
+        "room": "D/D112 / A/A49",
+        "exam": ""
+      }
+    ]
+  },
+  {
+    "id": "EGEW1210",
+    "code": "EGEW1210",
+    "name": "Engineering Workshop",
+    "sections": [
+      {
+        "section": "10",
+        "instructor": "George    Baskaran Krishnan",
+        "time": "SUN 09:00-11:50 | TUE 14:00-16:50",
+        "room": "E/L208 / ENG/N001",
+        "exam": ""
+      },
+      {
+        "section": "20",
+        "instructor": "George    Shihab Al Hasani",
+        "time": "MON 13:00-15:50 | THU 08:00-10:50",
+        "room": "E/L208 / ENG/N001",
+        "exam": ""
+      },
+      {
+        "section": "30",
+        "instructor": "George    Ekhlas",
+        "time": "SUN 15:00-17:50 | THU 11:00-13:50",
+        "room": "ENG/N001 / E/L208",
+        "exam": ""
+      },
+      {
+        "section": "40",
+        "instructor": "George    CHEN2",
+        "time": "WED 15:00-17:50 | THU 11:00-13:50",
+        "room": "E/L208 / ENG/N001",
+        "exam": ""
+      },
+      {
+        "section": "50",
+        "instructor": "George    CHEN3",
+        "time": "TUE 09:00-11:50 | WED 13:00-15:50",
+        "room": "E/L208 / ENG/N001",
+        "exam": ""
+      }
+    ]
+  },
+  {
+    "id": "EGGR1100",
+    "code": "EGGR1100",
+    "name": "Engineering Graphics",
+    "sections": [
+      {
+        "section": "10",
+        "instructor": "Azad Al Shibli",
+        "time": "MON 15:00-17:50 | WED 13:00-15:50",
+        "room": "E/L106 / E/L204",
+        "exam": ""
+      },
+      {
+        "section": "20",
+        "instructor": "Vishnu Priyan",
+        "time": "SUN 09:00-11:50 | TUE 14:00-16:50",
+        "room": "E/L204 / E/L106",
+        "exam": ""
+      },
+      {
+        "section": "30",
+        "instructor": "Azad Al Shibli",
+        "time": "SUN 13:00-15:50 | TUE 09:00-11:50",
+        "room": "E/L204 / E/L106",
+        "exam": ""
+      },
+      {
+        "section": "40",
+        "instructor": "Azad Al Shibli",
+        "time": "WED 08:00-10:50 | THU 11:00-13:50",
+        "room": "E/L106 / E/L204",
+        "exam": ""
+      }
+    ]
+  },
+  {
+    "id": "EGHS1140",
+    "code": "EGHS1140",
+    "name": "Health",
+    "sections": [
+      {
+        "section": "10",
+        "instructor": "45",
+        "time": "SUN 20:00-20:50 | TUE 08:00-09:50",
+        "room": "D/D105 / D/D109",
+        "exam": ""
+      },
+      {
+        "section": "20",
+        "instructor": "45",
+        "time": "THU 10:00-11:50",
+        "room": "D/D6",
+        "exam": ""
+      },
+      {
+        "section": "30",
+        "instructor": "45",
+        "time": "SUN 08:00-09:50",
+        "room": "F/F001",
+        "exam": ""
+      },
+      {
+        "section": "40",
+        "instructor": "45",
+        "time": "TUE 14:00-15:50",
+        "room": "D/D9",
+        "exam": ""
+      }
+    ]
+  },
+  {
+    "id": "EGME2110",
+    "code": "EGME2110",
+    "name": "ENGINEERING MECHANIC",
+    "sections": [
+      {
+        "section": "10",
+        "instructor": "Al Yaqadhan Al Lamki",
+        "time": "SUN 08:00-09:50 | THU 10:00-11:50",
+        "room": "D/D110 / A/A52",
+        "exam": ""
+      },
+      {
+        "section": "20",
+        "instructor": "Al Yaqadhan Al Lamki",
+        "time": "SUN 13:00-14:50 | WED 16:00-17:50",
+        "room": "A/A121 / D/D112",
+        "exam": ""
+      }
+    ]
+  },
+  {
+    "id": "EGME2120",
+    "code": "EGME2120",
+    "name": "ENGINEERING MATERIAL",
+    "sections": [
+      {
+        "section": "10",
+        "instructor": "Baskaran Krishnan",
+        "time": "SUN 14:00-15:50 | WED 08:00-09:50",
+        "room": "D/D112 / D/D9",
+        "exam": ""
+      },
+      {
+        "section": "20",
+        "instructor": "CHEN2",
+        "time": "SUN 08:00-09:50 | WED 10:00-11:50",
+        "room": "A/A51 / D/D112",
+        "exam": ""
+      }
+    ]
+  },
+  {
+    "id": "EGME2130",
+    "code": "EGME2130",
+    "name": "ELECTRICAL TECHNOLOG",
+    "sections": [
+      {
+        "section": "10",
+        "instructor": "ENGR3",
+        "time": "TUE 08:00-09:50 | THU 08:00-09:50",
+        "room": "T/T004 / T/T102",
+        "exam": ""
+      },
+      {
+        "section": "20",
+        "instructor": "ENGR3",
+        "time": "SUN 15:00-16:50 | MON 14:00-15:50",
+        "room": "T/T101 / D/D108",
+        "exam": ""
+      }
+    ]
+  },
+  {
+    "id": "EGME2140",
+    "code": "EGME2140",
+    "name": "MACHINE DRAWING",
+    "sections": [
+      {
+        "section": "10",
+        "instructor": "Khaled Al Hinai",
+        "time": "MON 09:00-11:50 | TUE 14:00-16:50",
+        "room": "E/L204 / E/L204",
+        "exam": ""
+      },
+      {
+        "section": "20",
+        "instructor": "Ekhlas",
+        "time": "TUE 09:00-11:50 | THU 08:00-10:50",
+        "room": "E/L204 / E/L204",
+        "exam": ""
+      }
+    ]
+  },
+  {
+    "id": "EGME2210",
+    "code": "EGME2210",
+    "name": "PRODUCTION TECHNOLOG",
+    "sections": [
+      {
+        "section": "10",
+        "instructor": "Mustafa Al Nabhani",
+        "time": "SUN 14:00-15:50 | MON 10:00-11:50 | WED 16:00-17:50",
+        "room": "F/F001 / T/T005 / T/T002",
+        "exam": ""
+      }
+    ]
+  },
+  {
+    "id": "EGME2220",
+    "code": "EGME2220",
+    "name": "FLUID MECHANICS",
+    "sections": [
+      {
+        "section": "10",
+        "instructor": "Faisal Al Qutaiti",
+        "time": "TUE 10:00-11:50 | WED 14:00-15:50",
+        "room": "T/T003 / T/T103",
+        "exam": ""
+      }
+    ]
+  },
+  {
+    "id": "EGME2230",
+    "code": "EGME2230",
+    "name": "ENGINEERING THERMODY",
+    "sections": [
+      {
+        "section": "10",
+        "instructor": "Khuloud Al Belushi",
+        "time": "SUN 08:00-09:50 | TUE 14:00-16:50",
+        "room": "T/T103 / F/F005",
+        "exam": ""
+      }
+    ]
+  },
+  {
+    "id": "EGME2240",
+    "code": "EGME2240",
+    "name": "DIPLOMA PROJECT",
+    "sections": [
+      {
+        "section": "10",
+        "instructor": "Al Yaqadhan Al Lamki   Faisal Al Qutaiti   Khaled Al Hinai   Baskaran Krishnan",
+        "time": "MON 20:00-20:50 | MON 00:00-00:00 | TUE 08:00-09:50 | THU 10:00-11:50 | THU 12:00-13:50",
+        "room": "T/T001 / E/L204 / D/D108 / T/T003 / T/T004",
+        "exam": ""
+      }
+    ]
+  },
+  {
+    "id": "EGME3110",
+    "code": "EGME3110",
+    "name": "THEORY OF MACHINES I",
+    "sections": [
+      {
+        "section": "10",
+        "instructor": "Faisal Al Qutaiti",
+        "time": "MON 13:00-14:50 | TUE 16:00-17:50",
+        "room": "D/D109 / D/D109",
+        "exam": ""
+      }
+    ]
+  },
+  {
+    "id": "EGME3120",
+    "code": "EGME3120",
+    "name": "HYDRAULICS AND PNEUM",
+    "sections": [
+      {
+        "section": "10",
+        "instructor": "Baskaran Krishnan",
+        "time": "SUN 08:00-09:50 | WED 14:00-15:50",
+        "room": "A/A122 / D/D107",
+        "exam": ""
+      }
+    ]
+  },
+  {
+    "id": "EGME3130",
+    "code": "EGME3130",
+    "name": "MECHANICS OF MATERIA",
+    "sections": [
+      {
+        "section": "10",
+        "instructor": "Saad AL-Jabri",
+        "time": "SUN 16:00-17:50 | TUE 10:00-11:50",
+        "room": "A/A52 / T/T002",
+        "exam": ""
+      }
+    ]
+  },
+  {
+    "id": "EGME3140",
+    "code": "EGME3140",
+    "name": "METROLOGY AND MEASUR",
+    "sections": [
+      {
+        "section": "10",
+        "instructor": "Mustafa Al Nabhani",
+        "time": "MON 15:00-16:50 | THU 08:00-09:50",
+        "room": "D/ITD3 / D/D107",
+        "exam": ""
+      }
+    ]
+  },
+  {
+    "id": "EGME3210",
+    "code": "EGME3210",
+    "name": "INDUSTRIAL OPERATION",
+    "sections": [
+      {
+        "section": "10",
+        "instructor": "Baskaran Krishnan",
+        "time": "TUE 10:00-11:50 | THU 10:00-11:50",
+        "room": "F/F002 / F/F006",
+        "exam": ""
+      }
+    ]
+  },
+  {
+    "id": "EGME3220",
+    "code": "EGME3220",
+    "name": "MACHINE DESIGN I",
+    "sections": [
+      {
+        "section": "10",
+        "instructor": "Saad AL-Jabri",
+        "time": "MON 08:00-09:50 | WED 14:00-15:50",
+        "room": "T/T002 / A/A150",
+        "exam": ""
+      }
+    ]
+  },
+  {
+    "id": "EGME3230",
+    "code": "EGME3230",
+    "name": "THERMAL ENGINEERING",
+    "sections": [
+      {
+        "section": "10",
+        "instructor": "CHEN3",
+        "time": "SUN 09:00-10:50 | MON 14:00-16:50",
+        "room": "F/F002 / T/T003",
+        "exam": ""
+      }
+    ]
+  },
+  {
+    "id": "EGME3240",
+    "code": "EGME3240",
+    "name": "ADVANCED DIPLOMA PRO",
+    "sections": [
+      {
+        "section": "10",
+        "instructor": "Al Yaqadhan Al Lamki   Shihab Al Hasani",
+        "time": "SUN 17:00-17:50 | TUE 16:00-17:50",
+        "room": "A/A48 / D/D104",
+        "exam": ""
+      }
+    ]
+  },
+  {
+    "id": "EGME3260",
+    "code": "EGME3260",
+    "name": "TURBOMACHINERY",
+    "sections": [
+      {
+        "section": "10",
+        "instructor": "Khaled Al Hinai",
+        "time": "SUN 14:00-15:50 | WED 08:00-09:50",
+        "room": "D/D108 / F/F007",
+        "exam": ""
+      }
+    ]
+  },
+  {
+    "id": "EGME4110",
+    "code": "EGME4110",
+    "name": "THEORY OF  MACHINES",
+    "sections": [
+      {
+        "section": "10",
+        "instructor": "Vishnu Priyan",
+        "time": "WED 14:00-15:50 | THU 08:00-09:50",
+        "room": "T/T005 / T/T001",
+        "exam": ""
+      }
+    ]
+  },
+  {
+    "id": "EGME4120",
+    "code": "EGME4120",
+    "name": "CONTROL ENGINEERING",
+    "sections": [
+      {
+        "section": "10",
+        "instructor": "Vishnu Priyan",
+        "time": "SUN 13:00-14:50 | WED 08:00-09:50",
+        "room": "A/A49 / A/A52",
+        "exam": ""
+      }
+    ]
+  },
+  {
+    "id": "EGME4140",
+    "code": "EGME4140",
+    "name": "BACHELOR PROJECT PHA",
+    "sections": [
+      {
+        "section": "10",
+        "instructor": "Shihab Al Hasani   Baskaran Krishnan   Saad AL-Jabri",
+        "time": "MON 13:00-14:50 | MON 20:00-20:50 | WED 10:00-11:50 | THU 10:00-11:50",
+        "room": "A/A123 / A/A49 / A/A49 / D/D106",
+        "exam": ""
+      }
+    ]
+  },
+  {
+    "id": "EGME4160",
+    "code": "EGME4160",
+    "name": "INTERNAL COMBUSTION",
+    "sections": [
+      {
+        "section": "10",
+        "instructor": "Al Yaqadhan Al Lamki",
+        "time": "MON 15:00-16:50 | TUE 10:00-11:50",
+        "room": "F/F004 / D/D108",
+        "exam": ""
+      }
+    ]
+  },
+  {
+    "id": "EGRE1230",
+    "code": "EGRE1230",
+    "name": "Introduction to Rene",
+    "sections": [
+      {
+        "section": "10",
+        "instructor": "Umayma Al Shibli   Sarvana Krishnan",
+        "time": "MON 20:00-21:50 | TUE 10:00-11:50",
+        "room": "T/T103 / T/T101",
+        "exam": ""
+      },
+      {
+        "section": "20",
+        "instructor": "Umayma Al Shibli",
+        "time": "WED 08:00-09:50",
+        "room": "D/D104",
+        "exam": ""
+      },
+      {
+        "section": "30",
+        "instructor": "Umayma Al Shibli",
+        "time": "TUE 16:00-17:50",
+        "room": "D/D9",
+        "exam": ""
+      },
+      {
+        "section": "40",
+        "instructor": "Umayma Al Shibli",
+        "time": "SUN 08:00-09:50",
+        "room": "D/D102",
+        "exam": ""
+      },
+      {
+        "section": "50",
+        "instructor": "Umayma Al Shibli",
+        "time": "THU 12:00-13:50",
+        "room": "D/D107",
+        "exam": ""
+      }
+    ]
+  },
+  {
+    "id": "ENCH4118",
+    "code": "ENCH4118",
+    "name": "Chemical Process",
+    "sections": [
+      {
+        "section": "10",
+        "instructor": "Maitha Al Jabri",
+        "time": "SUN 13:00-14:50 | MON 16:00-17:50",
+        "room": "T/T101 / T/T005",
+        "exam": ""
+      }
+    ]
+  },
+  {
+    "id": "ENCH4125",
+    "code": "ENCH4125",
+    "name": "Desalination",
+    "sections": [
+      {
+        "section": "10",
+        "instructor": "Al Moatasem Al-Aufi",
+        "time": "SUN 08:00-09:50 | WED 10:00-11:50",
+        "room": "D/D10 / T/T001",
+        "exam": ""
+      }
+    ]
+  },
+  {
+    "id": "ENEL3108",
+    "code": "ENEL3108",
+    "name": "Power System Analy.",
+    "sections": [
+      {
+        "section": "10",
+        "instructor": "Wedad Al Shibli",
+        "time": "MON 16:00-17:50 | TUE 10:00-11:50",
+        "room": "D/D106 / D/D9",
+        "exam": ""
+      }
+    ]
+  },
+  {
+    "id": "ENEL3113",
+    "code": "ENEL3113",
+    "name": "Signals and Systems",
+    "sections": [
+      {
+        "section": "10",
+        "instructor": "ENGR2",
+        "time": "SUN 16:00-17:50 | WED 14:00-15:50",
+        "room": "D/D107 / A/A47",
+        "exam": ""
+      }
+    ]
+  },
+  {
+    "id": "ENEL4018",
+    "code": "ENEL4018",
+    "name": "Electrical Design",
+    "sections": [
+      {
+        "section": "10",
+        "instructor": "Sasidharan",
+        "time": "MON 08:00-09:50 | THU 11:00-12:50",
+        "room": "F/F007 / T/T001",
+        "exam": ""
+      }
+    ]
+  },
+  {
+    "id": "ENGR1102",
+    "code": "ENGR1102",
+    "name": "Intro. to Engneering",
+    "sections": [
+      {
+        "section": "10",
+        "instructor": "Umayma Al Shibli",
+        "time": "TUE 09:00-09:50",
+        "room": "D/D6",
+        "exam": ""
+      }
+    ]
+  },
+  {
+    "id": "ENGR3105",
+    "code": "ENGR3105",
+    "name": "Professional Practic",
+    "sections": [
+      {
+        "section": "10",
+        "instructor": "Shihab Al Hasani",
+        "time": "MON 20:00-20:50",
+        "room": "T/T003",
+        "exam": ""
+      }
+    ]
+  },
+  {
+    "id": "ENME2107",
+    "code": "ENME2107",
+    "name": "Insturmentation",
+    "sections": [
+      {
+        "section": "10",
+        "instructor": "Faisal Al Qutaiti",
+        "time": "SUN 14:00-15:50 | WED 08:00-09:50",
+        "room": "F/F006 / F/F001",
+        "exam": ""
+      }
+    ]
+  },
+  {
+    "id": "ENME4118",
+    "code": "ENME4118",
+    "name": "Modern",
+    "sections": [
+      {
+        "section": "10",
+        "instructor": "Shihab Al Hasani",
+        "time": "SUN 08:00-09:50 | MON 14:00-15:50",
+        "room": "T/T002 / A/A150",
+        "exam": ""
+      }
+    ]
+  },
+  {
+    "id": "ENME4126",
+    "code": "ENME4126",
+    "name": "Applied Finite",
+    "sections": [
+      {
+        "section": "10",
+        "instructor": "Mustafa Al Nabhani",
+        "time": "SUN 08:00-09:50 | TUE 14:00-15:50",
+        "room": "A/A47 / A/A122",
+        "exam": ""
+      }
+    ]
+  },
+  {
+    "id": "MATH2110",
+    "code": "MATH2110",
+    "name": "CALCULUS II",
+    "sections": [
+      {
+        "section": "10",
+        "instructor": "Ihsan Al-Haaq",
+        "time": "WED 15:00-16:50 | THU 08:00-09:50",
+        "room": "T/T101 / A/A121",
+        "exam": ""
+      },
+      {
+        "section": "20",
+        "instructor": "Rajani",
+        "time": "MON 14:00-15:50 | TUE 16:00-17:50",
+        "room": "A/A48 / A/A52",
+        "exam": ""
+      },
+      {
+        "section": "30",
+        "instructor": "Ramar",
+        "time": "SUN 15:00-16:50 | WED 08:00-09:50",
+        "room": "D/D103 / A/A51",
+        "exam": ""
+      },
+      {
+        "section": "40",
+        "instructor": "Ihsan Al-Haaq",
+        "time": "SUN 14:00-15:50 | MON 10:00-11:50",
+        "room": "D/D6 / D/D9",
+        "exam": ""
+      },
+      {
+        "section": "50",
+        "instructor": "Ramar",
+        "time": "MON 16:00-17:50 | WED 10:00-11:50",
+        "room": "D/D6 / D/D105",
+        "exam": ""
+      },
+      {
+        "section": "60",
+        "instructor": "Rajani",
+        "time": "MON 08:00-09:50 | TUE 14:00-15:50",
+        "room": "F/F002 / T/T001",
+        "exam": ""
+      }
+    ]
+  },
+  {
+    "id": "MATH3121",
+    "code": "MATH3121",
+    "name": "ENGINEERING MATHEMAT",
+    "sections": [
+      {
+        "section": "10",
+        "instructor": "Sankar Sagi",
+        "time": "SUN 10:00-11:50 | TUE 08:00-09:50",
+        "room": "T/T001 / T/T001",
+        "exam": ""
+      },
+      {
+        "section": "20",
+        "instructor": "Sankar Sagi",
+        "time": "MON 16:00-17:50 | WED 10:00-11:50",
+        "room": "A/A52 / D/D110",
+        "exam": ""
+      }
+    ]
+  },
+  {
+    "id": "MTDR2106",
+    "code": "MTDR2106",
+    "name": "Discrete Mathematics",
+    "sections": [
+      {
+        "section": "10",
+        "instructor": "Rajinder Sharma",
+        "time": "SUN 14:00-15:50 | WED 16:00-17:50",
+        "room": "A/A151 / T/T005",
+        "exam": ""
+      }
+    ]
+  },
+  {
+    "id": "PHYS1110",
+    "code": "PHYS1110",
+    "name": "Engineering Physics",
+    "sections": [
+      {
+        "section": "10",
+        "instructor": "Ehab    Wasil",
+        "time": "WED 10:00-11:50 | THU 10:00-11:50",
+        "room": "D/D108 / E/L107",
+        "exam": ""
+      },
+      {
+        "section": "20",
+        "instructor": "Ousama Al Bahri",
+        "time": "SUN 13:00-14:50 | TUE 08:00-09:50",
+        "room": "E/L107 / T/T103",
+        "exam": ""
+      },
+      {
+        "section": "30",
+        "instructor": "Ehab",
+        "time": "TUE 14:00-15:50 | THU 12:00-13:50",
+        "room": "D/D112 / E/L107",
+        "exam": ""
+      },
+      {
+        "section": "40",
+        "instructor": "Ousama Al Bahri   Ehab",
+        "time": "SUN 08:00-09:50 | MON 15:00-16:50",
+        "room": "A/A48 / E/L107",
+        "exam": ""
+      }
+    ]
+  },
+  {
+    "id": "PHYS1220",
+    "code": "PHYS1220",
+    "name": "Engineering Physics",
+    "sections": [
+      {
+        "section": "10",
+        "instructor": "Ousama Al Bahri   Wasil",
+        "time": "SUN 16:00-17:50 | WED 10:00-11:50 | THU 10:00-11:50",
+        "room": "D/D102 / E/L107 / F/F007",
+        "exam": ""
+      },
+      {
+        "section": "20",
+        "instructor": "Ehab",
+        "time": "SUN 15:00-16:50 | MON 10:00-11:50 | WED 10:00-11:50",
+        "room": "D/D111 / E/L107 / D/D106",
+        "exam": ""
+      },
+      {
+        "section": "30",
+        "instructor": "Ousama Al Bahri",
+        "time": "MON 10:00-11:50 | WED 14:00-15:50 | THU 08:00-09:50",
+        "room": "F/F005 / D/D103 / E/L107",
+        "exam": ""
+      },
+      {
+        "section": "40",
+        "instructor": "Ehab    Wasil",
+        "time": "MON 08:00-09:50 | TUE 08:00-09:50 | TUE 14:00-15:50",
+        "room": "D/D9 / E/L107 / T/T005",
+        "exam": ""
+      },
+      {
+        "section": "50",
+        "instructor": "Ousama Al Bahri",
+        "time": "SUN 15:00-16:50 | TUE 14:00-15:50 | THU 10:00-11:50",
+        "room": "D/D9 / E/L107 / T/T005",
+        "exam": ""
+      }
+    ]
+  },
+  {
+    "id": "STAT4130",
+    "code": "STAT4130",
+    "name": "PROBABILITY AND  STA",
+    "sections": [
+      {
+        "section": "10",
+        "instructor": "Rajinder Sharma",
+        "time": "SUN 10:00-11:50 | TUE 14:00-15:50 | WED 13:00-13:50",
+        "room": "E/L105 / E/L105 / D/D109",
+        "exam": ""
+      }
+    ]
+  },
+  {
+    "id": "UNEN3104",
+    "code": "UNEN3104",
+    "name": "PUBLIC SPEAKING",
+    "sections": [
+      {
+        "section": "10",
+        "instructor": "Aboubaidah",
+        "time": "MON 08:00-09:50 | WED 13:00-14:50",
+        "room": "T/T003 / D/D105",
+        "exam": ""
+      },
+      {
+        "section": "20",
+        "instructor": "Salwa AlFarsi",
+        "time": "SUN 10:00-11:50 | TUE 08:00-09:50",
+        "room": "F/F007 / T/T003",
+        "exam": ""
+      },
+      {
+        "section": "30",
+        "instructor": "Fatin Al Haj",
+        "time": "TUE 16:00-17:50 | THU 10:00-11:50",
+        "room": "T/T002 / F/F004",
+        "exam": ""
+      },
+      {
+        "section": "40",
+        "instructor": "Salwa AlFarsi",
+        "time": "WED 16:00-17:50 | THU 08:00-09:50",
+        "room": "D/D109 / A/A47",
+        "exam": ""
+      },
+      {
+        "section": "50",
+        "instructor": "Aboubaidah",
+        "time": "SUN 14:00-15:50 | THU 10:00-11:50",
+        "room": "A/A52 / A/A121",
+        "exam": ""
+      },
+      {
+        "section": "60",
+        "instructor": "Salwa AlFarsi",
+        "time": "MON 14:00-15:50 | TUE 10:00-11:50",
+        "room": "D/D10 / D/D102",
+        "exam": ""
+      }
+    ]
+  },
+  {
+    "id": "ENIT2002",
+    "code": "ENIT2002",
+    "name": "English for (IT)",
+    "sections": [
+      {
+        "section": "10",
+        "instructor": "Ruqaya ALShezawi",
+        "time": "SUN 20:00-21:50 | MON 20:00-21:50 | TUE 20:00-21:50 | WED 20:00-21:50",
+        "room": "F/F005 / F/F005 / F/F005 / F/F005",
+        "exam": ""
+      }
+    ]
+  },
+  {
+    "id": "FPEL0001",
+    "code": "FPEL0001",
+    "name": "English level 1",
+    "sections": [
+      {
+        "section": "10",
+        "instructor": "ENGL11    ENGL10",
+        "time": "SUN 10:00-11:50 | MON 10:00-11:50 | MON 16:00-17:50 | TUE 08:00-09:50 | TUE 14:00-15:50 | WED 13:00-14:50 | WED 16:00-17:50 | THU 08:00-09:50 | THU 12:00-13:50",
+        "room": "D/D104 / T/EL104 / D/D109 / D/D105 / F/F001 / F/F003 / D/D107 / D/D106 / F/F001",
+        "exam": ""
+      },
+      {
+        "section": "20",
+        "instructor": "ENGL11    ENGL10",
+        "time": "SUN 10:00-11:50 | MON 10:00-11:50 | MON 16:00-17:50 | TUE 08:00-09:50 | TUE 14:00-15:50 | WED 13:00-14:50 | WED 16:00-17:50 | THU 08:00-09:50 | THU 12:00-13:50",
+        "room": "A/A52 / D/D110 / A/A51 / D/D112 / F/F004 / H/EL109 / F/F002 / D/D110 / T/EL104",
+        "exam": ""
+      },
+      {
+        "section": "30",
+        "instructor": "ENGL9    ENGL8",
+        "time": "SUN 10:00-11:50 | MON 10:00-11:50 | MON 16:00-17:50 | TUE 08:00-09:50 | TUE 14:00-15:50 | WED 13:00-14:50 | WED 16:00-17:50 | THU 08:00-09:50 | THU 12:00-13:50",
+        "room": "D/D10 / D/D102 / F/F003 / F/F004 / T/EL104 / A/A51 / A/A52 / D/D10 / D/D105",
+        "exam": ""
+      },
+      {
+        "section": "40",
+        "instructor": "ENGL9    ENGL8",
+        "time": "SUN 10:00-11:50 | MON 10:00-11:50 | MON 16:00-17:50 | TUE 08:00-09:50 | TUE 14:00-15:50 | WED 13:00-14:50 | WED 16:00-17:50 | THU 08:00-09:50 | THU 12:00-13:50",
+        "room": "A/A151 / F/F003 / D/D105 / D/D10 / F/F002 / F/F007 / T/EL104 / D/D102 / D/D103",
+        "exam": ""
+      },
+      {
+        "section": "50",
+        "instructor": "ENGL7    ENGL6    ENGL5",
+        "time": "SUN 10:00-11:50 | MON 10:00-11:50 | MON 16:00-17:50 | TUE 08:00-09:50 | TUE 14:00-15:50 | WED 13:00-14:50 | WED 16:00-17:50 | THU 08:00-09:50 | THU 12:00-13:50",
+        "room": "T/EL104 / F/F002 / F/F001 / F/F002 / H/EL105 / A/A52 / A/A48 / D/D103 / D/D102",
+        "exam": ""
+      },
+      {
+        "section": "60",
+        "instructor": "ENGL7    ENGL6    ENGL5",
+        "time": "SUN 10:00-11:50 | MON 10:00-11:50 | MON 16:00-17:50 | TUE 08:00-09:50 | TUE 14:00-15:50 | WED 13:00-14:50 | WED 16:00-17:50 | THU 08:00-09:50 | THU 12:00-13:50",
+        "room": "F/F004 / A/A48 / F/F002 / F/F003 / A/A52 / A/A151 / D/D105 / F/F002 / H/EL105",
+        "exam": ""
+      }
+    ]
+  },
+  {
+    "id": "FPEL0002",
+    "code": "FPEL0002",
+    "name": "English level 2",
+    "sections": [
+      {
+        "section": "10",
+        "instructor": "ENGL7    Ahmed AlQasmi",
+        "time": "SUN 10:00-11:50 | MON 10:00-11:50 | MON 16:00-17:50 | TUE 08:00-09:50 | TUE 14:00-15:50 | WED 13:00-14:50 | WED 16:00-17:50 | THU 08:00-09:50 | THU 12:00-13:50",
+        "room": "D/D102 / D/D104 / D/D104 / D/D104 / D/D104 / D/D102 / D/D103 / D/D105 / H/EL109",
+        "exam": ""
+      },
+      {
+        "section": "20",
+        "instructor": "Aasia AlSaidi   Khaled AL-Belushi",
+        "time": "SUN 10:00-11:50 | MON 10:00-11:50 | MON 16:00-17:50 | TUE 08:00-09:50 | TUE 14:00-15:50 | WED 13:00-14:50 | WED 16:00-17:50 | THU 08:00-09:50 | THU 12:00-13:50",
+        "room": "D/D103 / D/D10 / H/EL105 / D/D110 / F/F003 / F/F004 / F/F006 / F/F004 / F/F003",
+        "exam": ""
+      },
+      {
+        "section": "30",
+        "instructor": "Nouf Al Harrasi   Amira Al-Ajmi",
+        "time": "SUN 10:00-11:50 | MON 10:00-11:50 | MON 16:00-17:50 | TUE 08:00-09:50 | TUE 14:00-15:50 | WED 13:00-14:50 | WED 16:00-17:50 | THU 08:00-09:50 | THU 12:00-13:50",
+        "room": "F/F003 / F/F004 / T/EL104 / D/D102 / A/A51 / F/F002 / F/F004 / F/F007 / F/F006",
+        "exam": ""
+      },
+      {
+        "section": "40",
+        "instructor": "Nouf Al Harrasi   Amira Al-Ajmi   Ruqaya ALShezawi",
+        "time": "SUN 10:00-11:50 | MON 10:00-11:50 | MON 16:00-17:50 | TUE 08:00-09:50 | TUE 14:00-15:50 | WED 13:00-14:50 | WED 16:00-17:50 | THU 08:00-09:50 | THU 12:00-13:50",
+        "room": "A/A51 / A/A52 / F/F007 / D/D103 / F/F006 / F/F006 / H/EL105 / F/F006 / F/F004",
+        "exam": ""
+      },
+      {
+        "section": "50",
+        "instructor": "Samah AlRabiei   Ahmed AlMueini",
+        "time": "SUN 10:00-11:50 | MON 10:00-11:50 | MON 16:00-17:50 | TUE 08:00-09:50 | TUE 14:00-15:50 | WED 13:00-14:50 | WED 16:00-17:50 | THU 08:00-09:50 | THU 12:00-13:50",
+        "room": "T/T103 / F/F001 / D/D10 / F/F006 / H/EL109 / D/D104 / F/F007 / D/D104 / D/D10",
+        "exam": ""
+      },
+      {
+        "section": "60",
+        "instructor": "Samah AlRabiei   Ahmed AlQasmi   Ahmed AlMueini",
+        "time": "SUN 10:00-11:50 | MON 10:00-11:50 | MON 16:00-17:50 | TUE 08:00-09:50 | TUE 14:00-15:50 | WED 13:00-14:50 | WED 16:00-17:50 | THU 08:00-09:50 | THU 12:00-13:50",
+        "room": "A/A122 / A/A151 / D/D9 / A/A52 / D/D10 / D/D108 / A/A51 / H/EL105 / A/A52",
+        "exam": ""
+      },
+      {
+        "section": "70",
+        "instructor": "Tadeusz Lubanski   Asila AlMakhmari",
+        "time": "SUN 10:00-11:50 | MON 10:00-11:50 | MON 16:00-17:50 | TUE 08:00-09:50 | TUE 14:00-15:50 | WED 13:00-14:50 | WED 16:00-17:50 | THU 08:00-09:50 | THU 12:00-13:50",
+        "room": "D/D110 / H/EL105 / F/F005 / F/F007 / T/T103 / F/F005 / D/D102 / A/A151 / A/A51",
+        "exam": ""
+      },
+      {
+        "section": "80",
+        "instructor": "Tadeusz Lubanski   Asila AlMakhmari   Ibtisam AL-Badi",
+        "time": "SUN 10:00-11:50 | MON 10:00-11:50 | MON 16:00-17:50 | TUE 08:00-09:50 | TUE 14:00-15:50 | WED 13:00-14:50 | WED 16:00-17:50 | THU 08:00-09:50 | THU 12:00-13:50",
+        "room": "F/F006 / H/EL109 / D/D110 / F/F001 / F/F007 / A/A48 / D/D104 / A/A51 / A/A48",
+        "exam": ""
+      },
+      {
+        "section": "90",
+        "instructor": "Fatema Al Badi   Aasia AlSaidi   Ibtisam AL-Badi",
+        "time": "SUN 10:00-11:50 | MON 10:00-11:50 | MON 16:00-17:50 | TUE 08:00-09:50 | TUE 14:00-15:50 | WED 13:00-14:50 | WED 16:00-17:50 | THU 08:00-09:50 | THU 12:00-13:50",
+        "room": "F/F005 / D/D106 / D/D102 / D/D111 / D/D105 / H/EL105 / F/F003 / F/F003 / F/F005",
+        "exam": ""
+      }
+    ]
+  },
+  {
+    "id": "FPEL0003",
+    "code": "FPEL0003",
+    "name": "English  level 3",
+    "sections": [
+      {
+        "section": "10",
+        "instructor": "Muzna Al Moqbali   Slim",
+        "time": "SUN 10:00-11:50 | MON 10:00-11:50 | MON 16:00-17:50 | TUE 08:00-09:50 | TUE 14:00-15:50 | WED 13:00-14:50 | WED 16:00-17:50 | THU 08:00-09:50 | THU 12:00-13:50",
+        "room": "D/D105 / D/D103 / D/D103 / H/EL105 / D/D102 / D/D111 / D/D10 / D/D108 / F/F007",
+        "exam": ""
+      },
+      {
+        "section": "20",
+        "instructor": "Fatema Al Badi   Muzna Al Moqbali   Slim",
+        "time": "SUN 10:00-11:50 | MON 10:00-11:50 | MON 16:00-17:50 | TUE 08:00-09:50 | TUE 14:00-15:50 | WED 13:00-14:50 | WED 16:00-17:50 | THU 08:00-09:50 | THU 12:00-13:50",
+        "room": "D/D108 / T/T003 / D/D108 / H/EL109 / A/A151 / D/D10 / A/A151 / A/A150 / A/A150",
+        "exam": ""
+      },
+      {
+        "section": "30",
+        "instructor": "Ahmed AL-Kindi   Younus AL-Belushi",
+        "time": "SUN 10:00-11:50 | MON 10:00-11:50 | MON 16:00-17:50 | TUE 08:00-09:50 | TUE 14:00-15:50 | WED 13:00-14:50 | WED 16:00-17:50 | THU 08:00-09:50 | THU 12:00-13:50",
+        "room": "A/A150 / F/F006 / H/EL109 / A/A151 / D/D103 / D/D110 / H/EL109 / D/D109 / D/D104",
+        "exam": ""
+      },
+      {
+        "section": "40",
+        "instructor": "Salwa AlFarsi   Ahmed AL-Kindi   Younus AL-Belushi",
+        "time": "SUN 10:00-11:50 | MON 10:00-11:50 | MON 16:00-17:50 | TUE 08:00-09:50 | TUE 14:00-15:50 | WED 13:00-14:50 | WED 16:00-17:50 | THU 08:00-09:50 | THU 12:00-13:50",
+        "room": "D/D107 / D/D105 / F/F006 / A/A150 / D/D109 / D/D9 / A/A150 / F/F005 / F/F002",
+        "exam": ""
+      },
+      {
+        "section": "50",
+        "instructor": "Khadija AL-Ajmi   Hisham AL-Belushi   Nadia Al Issai",
+        "time": "SUN 10:00-11:50 | MON 10:00-11:50 | MON 16:00-17:50 | TUE 08:00-09:50 | TUE 14:00-15:50 | WED 13:00-14:50 | WED 16:00-17:50 | THU 08:00-09:50 | THU 12:00-13:50",
+        "room": "A/A48 / A/A51 / A/A151 / T/T102 / D/D108 / D/D106 / F/F005 / H/EL109 / D/D106",
+        "exam": ""
+      },
+      {
+        "section": "60",
+        "instructor": "Fatema Al Badi   Khadija AL-Ajmi   Hisham AL-Belushi",
+        "time": "SUN 10:00-11:50 | MON 10:00-11:50 | MON 16:00-17:50 | TUE 08:00-09:50 | TUE 14:00-15:50 | WED 13:00-14:50 | WED 16:00-17:50 | THU 08:00-09:50 | THU 12:00-13:50",
+        "room": "A/A121 / A/A122 / A/A48 / A/A48 / A/A48 / A/A122 / A/A121 / T/EL104 / A/A151",
+        "exam": ""
+      },
+      {
+        "section": "70",
+        "instructor": "Hussain Al Nofali   Huda Al Belushi   ENGL5",
+        "time": "SUN 10:00-11:50 | MON 10:00-11:50 | MON 16:00-17:50 | TUE 08:00-09:50 | TUE 14:00-15:50 | WED 13:00-14:50 | WED 16:00-17:50 | THU 08:00-09:50 | THU 12:00-13:50",
+        "room": "D/D109 / A/A150 / A/A150 / A/A51 / D/D110 / D/D112 / A/A122 / A/A122 / A/A121",
+        "exam": ""
+      },
+      {
+        "section": "80",
+        "instructor": "Hussain Al Nofali   Kawkab Al Belushi   Huda Al Belushi",
+        "time": "SUN 10:00-11:50 | MON 10:00-11:50 | MON 16:00-17:50 | TUE 08:00-09:50 | TUE 14:00-15:50 | WED 13:00-14:50 | WED 16:00-17:50 | THU 08:00-09:50 | THU 12:00-13:50",
+        "room": "D/D106 / F/F007 / A/A122 / A/A122 / A/A150 / T/T101 / T/T103 / A/A52 / D/D110",
+        "exam": ""
+      }
+    ]
+  },
+  {
+    "id": "CSCM1101",
+    "code": "CSCM1101",
+    "name": "Fundamentals of Comp",
+    "sections": [
+      {
+        "section": "10",
+        "instructor": "Sumaya Al Salhi",
+        "time": "TUE 16:00-17:50 | THU 12:00-13:50",
+        "room": "H/L107 / A/A47",
+        "exam": ""
+      },
+      {
+        "section": "20",
+        "instructor": "Balaqis Al Belushi",
+        "time": "MON 08:00-09:50 | TUE 16:00-17:50",
+        "room": "H/L107 / D/D103",
+        "exam": ""
+      },
+      {
+        "section": "30",
+        "instructor": "Fatema Al Harbi",
+        "time": "TUE 08:00-09:50 | WED 13:00-14:50",
+        "room": "T/T101 / H/L107",
+        "exam": ""
+      },
+      {
+        "section": "40",
+        "instructor": "Balaqis Al Belushi",
+        "time": "TUE 10:00-11:50 | WED 14:00-15:50",
+        "room": "A/A122 / H/L106",
+        "exam": ""
+      }
+    ]
+  },
+  {
+    "id": "CSCN1104",
+    "code": "CSCN1104",
+    "name": "Computer Network Fun",
+    "sections": [
+      {
+        "section": "10",
+        "instructor": "Lubna",
+        "time": "MON 08:00-09:50 | WED 08:00-09:50",
+        "room": "D/ITD1 / D/ITD1",
+        "exam": ""
+      },
+      {
+        "section": "20",
+        "instructor": "Tanveer",
+        "time": "SUN 08:00-09:50 | SUN 19:00-19:50 | WED 10:00-11:50",
+        "room": "D/ITD1 / A/A123 / D/ITD1",
+        "exam": ""
+      },
+      {
+        "section": "30",
+        "instructor": "Maan  Qadoora",
+        "time": "TUE 10:00-11:50 | THU 10:00-11:50",
+        "room": "D/ITD1 / D/ITD1",
+        "exam": ""
+      },
+      {
+        "section": "40",
+        "instructor": "Reham Al Bulushi",
+        "time": "TUE 08:00-09:50 | THU 08:00-09:50",
+        "room": "D/ITD1 / D/ITD1",
+        "exam": ""
+      }
+    ]
+  },
+  {
+    "id": "CSDB1102",
+    "code": "CSDB1102",
+    "name": "Introduction to Data",
+    "sections": [
+      {
+        "section": "10",
+        "instructor": "Rasha Abdulwahhab",
+        "time": "SUN 16:00-17:50 | TUE 10:00-11:50 | WED 19:00-19:50",
+        "room": "H/L108 / H/L108 / T/T004",
+        "exam": ""
+      },
+      {
+        "section": "20",
+        "instructor": "Nadia Al Shibli",
+        "time": "WED 13:00-14:50 | THU 10:00-11:50",
+        "room": "H/L108 / H/L108",
+        "exam": ""
+      },
+      {
+        "section": "30",
+        "instructor": "Rasha Abdulwahhab",
+        "time": "MON 10:00-11:50 | THU 12:00-13:50",
+        "room": "H/L108 / H/L108",
+        "exam": ""
+      },
+      {
+        "section": "40",
+        "instructor": "Nadia Al Shibli",
+        "time": "SUN 14:00-15:50 | MON 08:00-09:50",
+        "room": "H/L108 / H/L108",
+        "exam": ""
+      }
+    ]
+  },
+  {
+    "id": "CSDS2101",
+    "code": "CSDS2101",
+    "name": "Database Systems",
+    "sections": [
+      {
+        "section": "10",
+        "instructor": "Sudha Kumar",
+        "time": "SUN 19:00-19:50 | TUE 08:00-09:50 | THU 10:00-11:50",
+        "room": "D/D112 / H/L110 / H/L110",
+        "exam": ""
+      },
+      {
+        "section": "20",
+        "instructor": "Sudha Kumar",
+        "time": "SUN 10:00-11:50 | WED 08:00-09:50",
+        "room": "D/ITD8 / D/ITD8",
+        "exam": ""
+      }
+    ]
+  },
+  {
+    "id": "CSDS3101",
+    "code": "CSDS3101",
+    "name": "Fundamentals of Big",
+    "sections": [
+      {
+        "section": "10",
+        "instructor": "Sudha Kumar",
+        "time": "MON 08:00-09:50 | TUE 19:00-19:50 | THU 12:00-13:50",
+        "room": "D/ITD8 / D/D107 / D/ITD8",
+        "exam": ""
+      }
+    ]
+  },
+  {
+    "id": "CSDS3202",
+    "code": "CSDS3202",
+    "name": "Introduction to Data",
+    "sections": [
+      {
+        "section": "10",
+        "instructor": "Muna Al Belushi",
+        "time": "MON 13:00-14:50 | TUE 19:00-19:50 | THU 08:00-09:50",
+        "room": "T/T001 / D/D111 / D/ITD3",
+        "exam": ""
+      }
+    ]
+  },
+  {
+    "id": "CSDS3203",
+    "code": "CSDS3203",
+    "name": "Introduction to Arti",
+    "sections": [
+      {
+        "section": "10",
+        "instructor": "Karan Jetly",
+        "time": "SUN 08:00-09:50 | MON 13:00-14:50",
+        "room": "F/F007 / D/ITD3",
+        "exam": ""
+      },
+      {
+        "section": "20",
+        "instructor": "Karan Jetly",
+        "time": "MON 08:00-09:50 | WED 13:00-14:50",
+        "room": "D/ITD3 / D/D6",
+        "exam": ""
+      }
+    ]
+  },
+  {
+    "id": "CSDS4104",
+    "code": "CSDS4104",
+    "name": "Applied Machine Lear",
+    "sections": [
+      {
+        "section": "10",
+        "instructor": "Rasha Abdulwahhab",
+        "time": "MON 14:00-15:50 | WED 10:00-11:50",
+        "room": "F/F002 / H/EL109",
+        "exam": ""
+      }
+    ]
+  },
+  {
+    "id": "CSIS3103",
+    "code": "CSIS3103",
+    "name": "User Experience Desi",
+    "sections": [
+      {
+        "section": "10",
+        "instructor": "Aaisha Al Shibli",
+        "time": "TUE 16:00-17:50 | THU 10:00-11:50",
+        "room": "D/ITD8 / D/D107",
+        "exam": ""
+      },
+      {
+        "section": "20",
+        "instructor": "Aaisha Al Shibli",
+        "time": "TUE 10:00-11:50 | WED 16:00-17:50",
+        "room": "A/A150 / D/ITD8",
+        "exam": ""
+      }
+    ]
+  },
+  {
+    "id": "CSNW2101",
+    "code": "CSNW2101",
+    "name": "Internet of Things (",
+    "sections": [
+      {
+        "section": "10",
+        "instructor": "Ahmed Al-Amayreh",
+        "time": "MON 19:00-19:50 | WED 14:00-15:50 | THU 08:00-09:50",
+        "room": "A/A47 / E/IOT / E/IOT",
+        "exam": ""
+      },
+      {
+        "section": "20",
+        "instructor": "Ahmed Al-Amayreh",
+        "time": "TUE 14:00-15:50 | WED 16:00-17:50",
+        "room": "E/IOT / E/IOT",
+        "exam": ""
+      }
+    ]
+  },
+  {
+    "id": "CSNW2102",
+    "code": "CSNW2102",
+    "name": "Introduction to Rout",
+    "sections": [
+      {
+        "section": "10",
+        "instructor": "Tanveer",
+        "time": "TUE 08:00-09:50 | WED 19:00-19:50 | THU 12:00-13:50",
+        "room": "D/ITD2 / A/A123 / D/ITD2",
+        "exam": ""
+      },
+      {
+        "section": "20",
+        "instructor": "Tanveer",
+        "time": "SUN 13:00-14:50 | MON 10:00-11:50",
+        "room": "D/ITD2 / T/T102",
+        "exam": ""
+      }
+    ]
+  },
+  {
+    "id": "CSNW2203",
+    "code": "CSNW2203",
+    "name": "Diploma Course Proje",
+    "sections": [
+      {
+        "section": "10",
+        "instructor": "Afaf Al Alawi",
+        "time": "TUE 14:00-14:50 | WED 10:00-11:50",
+        "room": "D/ITD1 / F/F004",
+        "exam": ""
+      }
+    ]
+  },
+  {
+    "id": "CSNW3101",
+    "code": "CSNW3101",
+    "name": "Advanced Routing and",
+    "sections": [
+      {
+        "section": "10",
+        "instructor": "Abdullah",
+        "time": "SUN 16:00-17:50 | TUE 14:00-15:50 | WED 19:00-19:50",
+        "room": "D/ITD4 / D/ITD4 / T/T001",
+        "exam": ""
+      }
+    ]
+  },
+  {
+    "id": "CSNW3203",
+    "code": "CSNW3203",
+    "name": "System Administratio",
+    "sections": [
+      {
+        "section": "10",
+        "instructor": "Yasmeen Al Shihi",
+        "time": "MON 16:00-17:50 | WED 10:00-11:50",
+        "room": "D/ITD8 / D/D9",
+        "exam": ""
+      }
+    ]
+  },
+  {
+    "id": "CSNW3204",
+    "code": "CSNW3204",
+    "name": "Could Computing Fund",
+    "sections": [
+      {
+        "section": "10",
+        "instructor": "Ajaz",
+        "time": "SUN 10:00-11:50 | THU 08:00-09:50",
+        "room": "T/T004 / D/ITD8",
+        "exam": ""
+      },
+      {
+        "section": "20",
+        "instructor": "Ajaz",
+        "time": "TUE 10:00-11:50 | WED 15:00-16:50",
+        "room": "T/T102 / D/D111",
+        "exam": ""
+      }
+    ]
+  },
+  {
+    "id": "CSOP1207",
+    "code": "CSOP1207",
+    "name": "Principles of Operat",
+    "sections": [
+      {
+        "section": "10",
+        "instructor": "Afaf Al Alawi",
+        "time": "SUN 19:00-19:50 | WED 14:00-15:50 | THU 08:00-09:50",
+        "room": "T/T004 / H/L110 / H/L110",
+        "exam": ""
+      },
+      {
+        "section": "20",
+        "instructor": "Mohammed Al Tai",
+        "time": "SUN 15:00-16:50 | WED 08:00-09:50",
+        "room": "H/L110 / H/L110",
+        "exam": ""
+      },
+      {
+        "section": "30",
+        "instructor": "Afaf Al Alawi",
+        "time": "MON 10:00-11:50 | TUE 08:00-09:50",
+        "room": "D/ITD8 / H/L107",
+        "exam": ""
+      },
+      {
+        "section": "40",
+        "instructor": "Mohammed Al Tai",
+        "time": "MON 14:00-15:50 | THU 10:00-11:50",
+        "room": "D/ITD1 / H/L107",
+        "exam": ""
+      }
+    ]
+  },
+  {
+    "id": "CSPG1205",
+    "code": "CSPG1205",
+    "name": "Introduction to Prog",
+    "sections": [
+      {
+        "section": "10",
+        "instructor": "Fourat",
+        "time": "MON 10:00-11:50 | TUE 08:00-09:50 | WED 08:00-09:50",
+        "room": "H/L106 / H/L108 / H/L108",
+        "exam": ""
+      },
+      {
+        "section": "20",
+        "instructor": "Fatema Al Harbi   Mohammed Al Tai",
+        "time": "SUN 10:00-11:50 | MON 08:00-09:50 | TUE 14:00-15:50",
+        "room": "H/L108 / H/L110 / H/L108",
+        "exam": ""
+      },
+      {
+        "section": "30",
+        "instructor": "Fourat",
+        "time": "SUN 10:00-11:50 | MON 16:00-17:50 | THU 08:00-09:50",
+        "room": "H/L106 / H/L106 / D/ITD2",
+        "exam": ""
+      },
+      {
+        "section": "40",
+        "instructor": "Prince",
+        "time": "MON 16:00-17:50 | TUE 14:00-15:50 | WED 15:00-16:50",
+        "room": "H/L108 / H/L107 / H/L108",
+        "exam": ""
+      },
+      {
+        "section": "50",
+        "instructor": "Prince",
+        "time": "THU 15:00-18:50 | SAT 10:00-11:50",
+        "room": "H/L107 / H/L107",
+        "exam": ""
+      }
+    ]
+  },
+  {
+    "id": "CSPM3201",
+    "code": "CSPM3201",
+    "name": "Project Management a",
+    "sections": [
+      {
+        "section": "10",
+        "instructor": "Sumaya Al Salhi",
+        "time": "MON 13:00-14:50 | WED 08:00-09:50",
+        "room": "F/F004 / D/D105",
+        "exam": ""
+      },
+      {
+        "section": "20",
+        "instructor": "Sumaya Al Salhi",
+        "time": "SUN 08:00-09:50 | MON 10:00-11:50",
+        "room": "D/D9 / A/A123",
+        "exam": ""
+      }
+    ]
+  },
+  {
+    "id": "CSRM3202",
+    "code": "CSRM3202",
+    "name": "Research Methodology",
+    "sections": [
+      {
+        "section": "10",
+        "instructor": "Prince",
+        "time": "SUN 10:00-11:50 | THU 12:00-13:50",
+        "room": "T/T005 / D/D9",
+        "exam": ""
+      }
+    ]
+  },
+  {
+    "id": "CSSE2101",
+    "code": "CSSE2101",
+    "name": "Introduction to Soft",
+    "sections": [
+      {
+        "section": "10",
+        "instructor": "Fadhl  Balool   Hafsa Al Ansari",
+        "time": "MON 15:00-16:50 | TUE 19:00-19:50 | THU 10:00-11:50",
+        "room": "D/ITD4 / T/T102 / D/ITD4",
+        "exam": ""
+      },
+      {
+        "section": "20",
+        "instructor": "Fadhl  Balool",
+        "time": "SUN 10:00-11:50 | MON 13:00-14:50",
+        "room": "D/ITD4 / D/ITD4",
+        "exam": ""
+      },
+      {
+        "section": "30",
+        "instructor": "Fadhl  Balool",
+        "time": "WED 10:00-11:50 | THU 12:00-13:50",
+        "room": "D/ITD4 / D/ITD4",
+        "exam": ""
+      },
+      {
+        "section": "40",
+        "instructor": "Fadhl  Balool",
+        "time": "WED 15:00-16:50 | THU 08:00-09:50",
+        "room": "D/ITD4 / D/ITD4",
+        "exam": ""
+      }
+    ]
+  },
+  {
+    "id": "CSSE2202",
+    "code": "CSSE2202",
+    "name": "Object-Oriented Prog",
+    "sections": [
+      {
+        "section": "10",
+        "instructor": "Mohammed Sadeq",
+        "time": "SUN 14:00-15:50 | WED 16:00-17:50 | THU 08:00-09:50",
+        "room": "H/L106 / H/L106 / H/L106",
+        "exam": ""
+      },
+      {
+        "section": "20",
+        "instructor": "Mohammed AL-Haj  Hamed",
+        "time": "SUN 16:00-17:50 | MON 08:00-09:50 | WED 10:00-11:50",
+        "room": "H/L106 / H/L106 / H/L106",
+        "exam": ""
+      }
+    ]
+  },
+  {
+    "id": "CSSE2203",
+    "code": "CSSE2203",
+    "name": "Data Structures and",
+    "sections": [
+      {
+        "section": "10",
+        "instructor": "Viswan Vimbi",
+        "time": "SUN 10:00-11:50 | MON 19:00-19:50 | TUE 14:00-15:50",
+        "room": "D/ITD3 / F/F004 / H/L106",
+        "exam": ""
+      },
+      {
+        "section": "20",
+        "instructor": "Viswan Vimbi",
+        "time": "TUE 08:00-09:50 | WED 13:00-14:50",
+        "room": "H/L106 / D/ITD8",
+        "exam": ""
+      }
+    ]
+  },
+  {
+    "id": "CSSE2204",
+    "code": "CSSE2204",
+    "name": "Special Topics",
+    "sections": [
+      {
+        "section": "10",
+        "instructor": "Lubna",
+        "time": "SUN 08:00-09:50 | THU 10:00-11:50",
+        "room": "F/F004 / D/D10",
+        "exam": ""
+      },
+      {
+        "section": "20",
+        "instructor": "Lubna",
+        "time": "MON 13:00-14:50 | TUE 14:00-15:50",
+        "room": "A/A151 / T/T107",
+        "exam": ""
+      }
+    ]
+  },
+  {
+    "id": "CSSE2205",
+    "code": "CSSE2205",
+    "name": "Diploma Course Proje",
+    "sections": [
+      {
+        "section": "10",
+        "instructor": "Ayad Al Haj",
+        "time": "MON 15:00-15:50 | TUE 16:00-17:50",
+        "room": "A/A151 / F/F001",
+        "exam": ""
+      }
+    ]
+  },
+  {
+    "id": "CSSE3101",
+    "code": "CSSE3101",
+    "name": "Advanced Web Technol",
+    "sections": [
+      {
+        "section": "10",
+        "instructor": "Basim Al-Sane",
+        "time": "SUN 19:00-19:50 | MON 10:00-11:50 | THU 12:00-13:50",
+        "room": "A/A49 / D/ITD4 / T/T102",
+        "exam": ""
+      }
+    ]
+  },
+  {
+    "id": "CSSE3102",
+    "code": "CSSE3102",
+    "name": "Object Oriented Anal",
+    "sections": [
+      {
+        "section": "10",
+        "instructor": "Karan Jetly",
+        "time": "SUN 14:00-15:50 | WED 08:00-09:50",
+        "room": "T/T001 / D/ITD3",
+        "exam": ""
+      }
+    ]
+  },
+  {
+    "id": "CSSE3203",
+    "code": "CSSE3203",
+    "name": "Mobile Application D",
+    "sections": [
+      {
+        "section": "10",
+        "instructor": "Sumaya Al Salhi",
+        "time": "SUN 15:00-16:50 | TUE 14:00-15:50 | WED 19:00-19:50",
+        "room": "D/ITD8 / D/ITD8 / D/D9",
+        "exam": ""
+      }
+    ]
+  },
+  {
+    "id": "CSSE4101",
+    "code": "CSSE4101",
+    "name": "Software Design",
+    "sections": [
+      {
+        "section": "10",
+        "instructor": "75",
+        "time": "MON 10:00-11:50 | WED 15:00-16:50 | THU 09:00-09:50",
+        "room": "D/D107 / H/L107 / T/T107",
+        "exam": ""
+      }
+    ]
+  },
+  {
+    "id": "CSSE4102",
+    "code": "CSSE4102",
+    "name": "B-Tech Course Projec",
+    "sections": [
+      {
+        "section": "10",
+        "instructor": "Yasmeen Al Shihi   Basim Al-Sane",
+        "time": "SUN 08:00-09:50 | TUE 14:00-15:50 | THU 10:00-11:50",
+        "room": "A/A150 / D/ITD2 / D/D103",
+        "exam": ""
+      }
+    ]
+  },
+  {
+    "id": "CSSE4103",
+    "code": "CSSE4103",
+    "name": "Full-Stack Web Devel",
+    "sections": [
+      {
+        "section": "10",
+        "instructor": "Fourat",
+        "time": "SUN 15:00-16:50 | TUE 10:00-11:50 | WED 19:00-19:50",
+        "room": "D/ITD1 / D/ITD8 / A/A48",
+        "exam": ""
+      }
+    ]
+  },
+  {
+    "id": "CSSY1208",
+    "code": "CSSY1208",
+    "name": "Introduction to Info",
+    "sections": [
+      {
+        "section": "10",
+        "instructor": "Maryam Al Shabli",
+        "time": "MON 16:00-17:50 | WED 10:00-11:50",
+        "room": "D/ITD1 / T/T003",
+        "exam": ""
+      },
+      {
+        "section": "20",
+        "instructor": "Maryam Al Zaabi",
+        "time": "MON 10:00-11:50 | THU 10:00-11:50",
+        "room": "D/ITD1 / D/D9",
+        "exam": ""
+      },
+      {
+        "section": "30",
+        "instructor": "Maryam Al Shabli",
+        "time": "SUN 13:00-14:50 | THU 10:00-11:50",
+        "room": "D/D9 / D/ITD2",
+        "exam": ""
+      },
+      {
+        "section": "40",
+        "instructor": "Maryam Al Zaabi",
+        "time": "SUN 14:00-15:50 | WED 08:00-09:50",
+        "room": "A/A150 / D/ITD4",
+        "exam": ""
+      },
+      {
+        "section": "50",
+        "instructor": "Faisal Muhiuddin",
+        "time": "SAT 13:00-16:50",
+        "room": "D/ITD1",
+        "exam": ""
+      }
+    ]
+  },
+  {
+    "id": "CSSY2101",
+    "code": "CSSY2101",
+    "name": "Advanced Information",
+    "sections": [
+      {
+        "section": "10",
+        "instructor": "Aya Al Ani",
+        "time": "SUN 10:00-11:50 | WED 08:00-09:50",
+        "room": "T/T002 / D/ITD2",
+        "exam": ""
+      },
+      {
+        "section": "20",
+        "instructor": "Aya Al Ani",
+        "time": "MON 08:00-09:50 | THU 08:00-09:50",
+        "room": "D/ITD2 / A/A48",
+        "exam": ""
+      }
+    ]
+  },
+  {
+    "id": "CSSY2201",
+    "code": "CSSY2201",
+    "name": "Introduction to Cryp",
+    "sections": [
+      {
+        "section": "10",
+        "instructor": "Maan  Qadoora",
+        "time": "SUN 08:00-09:50 | WED 16:00-17:50",
+        "room": "D/D108 / D/ITD2",
+        "exam": ""
+      }
+    ]
+  },
+  {
+    "id": "CSSY3105",
+    "code": "CSSY3105",
+    "name": "Authentication and A",
+    "sections": [
+      {
+        "section": "10",
+        "instructor": "Faisal Muhiuddin",
+        "time": "MON 13:00-14:50 | THU 08:00-09:50",
+        "room": "D/D107 / H/L108",
+        "exam": ""
+      },
+      {
+        "section": "20",
+        "instructor": "Faisal Muhiuddin",
+        "time": "TUE 16:00-17:50 | WED 08:00-09:50",
+        "room": "H/L110 / D/D107",
+        "exam": ""
+      }
+    ]
+  },
+  {
+    "id": "CSSY3106",
+    "code": "CSSY3106",
+    "name": "Network Security and",
+    "sections": [
+      {
+        "section": "10",
+        "instructor": "Thirumurugan Shanmugam",
+        "time": "SUN 13:00-14:50 | WED 10:00-11:50",
+        "room": "D/ITD4 / D/D6",
+        "exam": ""
+      }
+    ]
+  },
+  {
+    "id": "CSSY3201",
+    "code": "CSSY3201",
+    "name": "Adv Information Sec",
+    "sections": [
+      {
+        "section": "10",
+        "instructor": "Karthikian Supramanian",
+        "time": "MON 15:00-16:50 | THU 10:00-11:50",
+        "room": "D/D107 / H/L106",
+        "exam": ""
+      }
+    ]
+  },
+  {
+    "id": "CSSY3202",
+    "code": "CSSY3202",
+    "name": "Web Applications Sec",
+    "sections": [
+      {
+        "section": "10",
+        "instructor": "Basim Al-Sane",
+        "time": "TUE 16:00-17:50 | WED 13:00-14:50",
+        "room": "H/L108 / T/T002",
+        "exam": ""
+      }
+    ]
+  },
+  {
+    "id": "CSSY3203",
+    "code": "CSSY3203",
+    "name": "Ethical Hacking",
+    "sections": [
+      {
+        "section": "10",
+        "instructor": "Abdullah    Faisal Muhiuddin",
+        "time": "SUN 15:00-16:50 | MON 10:00-11:50",
+        "room": "H/L107 / A/A47",
+        "exam": ""
+      }
+    ]
+  },
+  {
+    "id": "CSSY4101",
+    "code": "CSSY4101",
+    "name": "B-Tech Course Projec",
+    "sections": [
+      {
+        "section": "10",
+        "instructor": "Faisal Muhiuddin   Thirumurugan Shanmugam",
+        "time": "MON 08:00-09:50 | TUE 14:00-15:50 | THU 10:00-11:50",
+        "room": "D/D111 / A/A47 / D/ITD8",
+        "exam": ""
+      }
+    ]
+  },
+  {
+    "id": "CSSY4102",
+    "code": "CSSY4102",
+    "name": "Advanced Cryptograph",
+    "sections": [
+      {
+        "section": "10",
+        "instructor": "Ahmed Al-Amayreh",
+        "time": "SUN 13:00-14:50 | MON 15:00-17:50",
+        "room": "H/L107 / T/T001",
+        "exam": ""
+      }
+    ]
+  },
+  {
+    "id": "CSSY4103",
+    "code": "CSSY4103",
+    "name": "Security Operations",
+    "sections": [
+      {
+        "section": "10",
+        "instructor": "Maryam Al Shabli",
+        "time": "SUN 16:00-17:50 | TUE 08:00-09:50",
+        "room": "F/F006 / D/ITD8",
+        "exam": ""
+      }
+    ]
+  },
+  {
+    "id": "CSSY4104",
+    "code": "CSSY4104",
+    "name": "Digital Forensics",
+    "sections": [
+      {
+        "section": "10",
+        "instructor": "Maryam Al Zaabi",
+        "time": "TUE 16:00-17:50 | WED 14:00-15:50",
+        "room": "T/T001 / D/ITD2",
+        "exam": ""
+      }
+    ]
+  },
+  {
+    "id": "CSWD1103",
+    "code": "CSWD1103",
+    "name": "Web Development I",
+    "sections": [
+      {
+        "section": "10",
+        "instructor": "Aaisha Al Shibli",
+        "time": "SUN 10:00-11:50 | MON 10:00-11:50 | THU 08:00-09:50",
+        "room": "H/L107 / D/ITD2 / H/L107",
+        "exam": ""
+      },
+      {
+        "section": "20",
+        "instructor": "Reham Al Bulushi",
+        "time": "MON 10:00-11:50 | WED 08:00-09:50 | THU 12:00-13:50",
+        "room": "H/L107 / H/L107 / H/L107",
+        "exam": ""
+      },
+      {
+        "section": "30",
+        "instructor": "Aya Al Ani",
+        "time": "SUN 13:00-14:50 | TUE 14:00-15:50 | WED 16:00-17:50",
+        "room": "H/L110 / H/L110 / H/L110",
+        "exam": ""
+      },
+      {
+        "section": "40",
+        "instructor": "Balaqis Al Belushi",
+        "time": "SUN 10:00-11:50 | WED 08:00-09:50 | THU 12:00-13:50",
+        "room": "H/L110 / H/L106 / H/L110",
+        "exam": ""
+      }
+    ]
+  },
+  {
+    "id": "CSWD2101",
+    "code": "CSWD2101",
+    "name": "Web Development II",
+    "sections": [
+      {
+        "section": "10",
+        "instructor": "Ayad Al Haj",
+        "time": "SUN 15:00-16:50 | MON 10:00-11:50 | TUE 14:00-15:50",
+        "room": "D/ITD3 / D/ITD3 / D/ITD3",
+        "exam": ""
+      },
+      {
+        "section": "20",
+        "instructor": "Ayad Al Haj",
+        "time": "TUE 08:00-09:50 | WED 13:00-14:50 | THU 12:00-13:50",
+        "room": "D/ITD3 / D/ITD3 / H/L106",
+        "exam": ""
+      },
+      {
+        "section": "30",
+        "instructor": "Jaffar",
+        "time": "SUN 08:00-09:50 | MON 10:00-11:50 | WED 13:00-14:50",
+        "room": "D/ITD8 / H/L110 / D/ITD4",
+        "exam": ""
+      },
+      {
+        "section": "40",
+        "instructor": "Jaffar",
+        "time": "SUN 13:00-14:50 | TUE 16:00-17:50 | THU 12:00-13:50",
+        "room": "D/ITD8 / D/ITD3 / D/ITD3",
+        "exam": ""
+      }
+    ]
+  },
+  {
+    "id": "FPCS0001",
+    "code": "FPCS0001",
+    "name": "Computing Skills",
+    "sections": [
+      {
+        "section": "10",
+        "instructor": "Ahmed Al-Amayreh",
+        "time": "SUN 08:00-09:50 | TUE 10:00-11:50",
+        "room": "H/L106 / H/L106",
+        "exam": ""
+      },
+      {
+        "section": "20",
+        "instructor": "Jaffar",
+        "time": "MON 14:00-15:50 | WED 10:00-11:50",
+        "room": "H/L110 / H/L110",
+        "exam": ""
+      },
+      {
+        "section": "30",
+        "instructor": "Tanveer    Dhiya ALSaqri",
+        "time": "SUN 08:00-09:50 | TUE 10:00-11:50",
+        "room": "H/L107 / H/L107",
+        "exam": ""
+      },
+      {
+        "section": "40",
+        "instructor": "Balaqis Al Belushi   Mohammed Al Tai",
+        "time": "SUN 08:00-09:50 | TUE 10:00-11:50",
+        "room": "H/L108 / D/ITD4",
+        "exam": ""
+      },
+      {
+        "section": "50",
+        "instructor": "Abdullah",
+        "time": "MON 14:00-15:50 | WED 10:00-11:50",
+        "room": "D/ITD8 / D/ITD8",
+        "exam": ""
+      },
+      {
+        "section": "60",
+        "instructor": "Abdullah    Aya Al Ani",
+        "time": "SUN 08:00-09:50 | TUE 10:00-11:50",
+        "room": "H/L110 / H/L110",
+        "exam": ""
+      },
+      {
+        "section": "70",
+        "instructor": "Aya Al Ani   Dhiya ALSaqri",
+        "time": "MON 14:00-15:50 | WED 10:00-11:50",
+        "room": "D/ITD2 / D/ITD3",
+        "exam": ""
+      },
+      {
+        "section": "80",
+        "instructor": "Reham Al Bulushi",
+        "time": "MON 14:00-15:50 | WED 10:00-11:50",
+        "room": "H/L106 / D/ITD2",
+        "exam": ""
+      },
+      {
+        "section": "90",
+        "instructor": "Nadia Al Shibli",
+        "time": "MON 14:00-15:50 | WED 10:00-11:50",
+        "room": "H/L108 / H/L108",
+        "exam": ""
+      },
+      {
+        "section": "100",
+        "instructor": "Nadia Al Shibli",
+        "time": "SUN 08:00-09:50 | TUE 10:00-11:50",
+        "room": "D/ITD2 / D/ITD3",
+        "exam": ""
+      },
+      {
+        "section": "110",
+        "instructor": "Fatema Al Harbi",
+        "time": "MON 14:00-15:50 | WED 10:00-11:50",
+        "room": "H/L107 / H/L107",
+        "exam": ""
+      },
+      {
+        "section": "120",
+        "instructor": "Fatema Al Harbi",
+        "time": "SUN 13:00-14:50 | THU 10:00-11:50",
+        "room": "D/ITD3 / D/ITD3",
+        "exam": ""
+      }
+    ]
+  },
+  {
+    "id": "ITDM4111",
+    "code": "ITDM4111",
+    "name": "Adv. Data Modeling",
+    "sections": [
+      {
+        "section": "10",
+        "instructor": "Muna Al Belushi",
+        "time": "SUN 13:00-14:50 | WED 10:00-11:50",
+        "room": "F/F005 / T/T102",
+        "exam": ""
+      }
+    ]
+  },
+  {
+    "id": "ITDM4115",
+    "code": "ITDM4115",
+    "name": "Web Services",
+    "sections": [
+      {
+        "section": "10",
+        "instructor": "Fadhl  Balool",
+        "time": "SUN 15:00-16:50 | TUE 08:00-09:50",
+        "room": "F/F003 / D/ITD4",
+        "exam": ""
+      }
+    ]
+  },
+  {
+    "id": "ITDR2103",
+    "code": "ITDR2103",
+    "name": "Discrete Math",
+    "sections": [
+      {
+        "section": "10",
+        "instructor": "Hafsa Al Ansari",
+        "time": "SUN 10:00-11:50 | WED 08:00-09:50",
+        "room": "D/ITD2 / F/F003",
+        "exam": ""
+      }
+    ]
+  },
+  {
+    "id": "ITGP4101",
+    "code": "ITGP4101",
+    "name": "Project I",
+    "sections": [
+      {
+        "section": "10",
+        "instructor": "Sudha Kumar   Mohammed Al Tai",
+        "time": "SUN 16:00-17:50 | TUE 16:00-17:50",
+        "room": "D/D112 / D/ITD4",
+        "exam": ""
+      }
+    ]
+  },
+  {
+    "id": "ITNW4103",
+    "code": "ITNW4103",
+    "name": "Internetworking",
+    "sections": [
+      {
+        "section": "10",
+        "instructor": "Maan  Qadoora",
+        "time": "MON 14:00-15:50 | WED 13:00-14:50",
+        "room": "D/D6 / D/ITD1",
+        "exam": ""
+      }
+    ]
+  },
+  {
+    "id": "ITNW4109",
+    "code": "ITNW4109",
+    "name": "Innovations in Netwo",
+    "sections": [
+      {
+        "section": "10",
+        "instructor": "Thirumurugan Shanmugam",
+        "time": "MON 10:00-11:50 | WED 15:00-16:50",
+        "room": "A/A49 / D/ITD1",
+        "exam": ""
+      }
+    ]
+  },
+  {
+    "id": "ITNW4112",
+    "code": "ITNW4112",
+    "name": "Adv. Routing andSwit",
+    "sections": [
+      {
+        "section": "10",
+        "instructor": "Ajaz",
+        "time": "SUN 15:00-16:50 | THU 12:00-13:50",
+        "room": "D/ITD2 / D/D112",
+        "exam": ""
+      }
+    ]
+  },
+  {
+    "id": "ITSW4103",
+    "code": "ITSW4103",
+    "name": "Object Oriented Prog",
+    "sections": [
+      {
+        "section": "10",
+        "instructor": "Viswan Vimbi",
+        "time": "MON 13:00-14:50 | THU 10:00-11:50",
+        "room": "T/T107 / A/A122",
+        "exam": ""
+      }
+    ]
+  },
+  {
+    "id": "ITSW4109",
+    "code": "ITSW4109",
+    "name": "Innovations in Softw",
+    "sections": [
+      {
+        "section": "10",
+        "instructor": "Mohammed Sadeq",
+        "time": "TUE 10:00-11:50 | THU 12:00-13:50",
+        "room": "A/A52 / D/ITD1",
+        "exam": ""
+      }
+    ]
+  },
+  {
+    "id": "ITSW4111",
+    "code": "ITSW4111",
+    "name": "Computer Graphics",
+    "sections": [
+      {
+        "section": "10",
+        "instructor": "Viswan Vimbi",
+        "time": "SUN 13:00-14:50 | WED 10:00-11:50",
+        "room": "T/T005 / A/A48",
+        "exam": ""
+      }
+    ]
+  },
+  {
+    "id": "ITSY4104",
+    "code": "ITSY4104",
+    "name": "Computer Security B",
+    "sections": [
+      {
+        "section": "10",
+        "instructor": "Karthikian Supramanian",
+        "time": "MON 10:00-11:50 | TUE 10:00-11:50",
+        "room": "T/T001 / D/ITD2",
+        "exam": ""
+      }
+    ]
+  },
+  {
+    "id": "ITSY4111",
+    "code": "ITSY4111",
+    "name": "Cyber Security",
+    "sections": [
+      {
+        "section": "10",
+        "instructor": "Maryam Al Zaabi",
+        "time": "SUN 10:00-11:50 | MON 14:00-15:50",
+        "room": "A/A47 / T/T102",
+        "exam": ""
+      }
+    ]
+  },
+  {
+    "id": "ITSY4114",
+    "code": "ITSY4114",
+    "name": "Ethical Hacking",
+    "sections": [
+      {
+        "section": "10",
+        "instructor": "Ajaz",
+        "time": "TUE 14:00-15:50 | WED 10:00-11:50",
+        "room": "D/D111 / F/F007",
+        "exam": ""
+      }
+    ]
+  },
+  {
+    "id": "MATH1202",
+    "code": "MATH1202",
+    "name": "Calculus I",
+    "sections": [
+      {
+        "section": "10",
+        "instructor": "Ihsan Al-Haaq",
+        "time": "SUN 08:00-09:50 | TUE 14:00-15:50",
+        "room": "D/D111 / T/T003",
+        "exam": ""
+      },
+      {
+        "section": "20",
+        "instructor": "Khamis Al Maqbali",
+        "time": "TUE 16:00-17:50 | THU 12:00-13:50",
+        "room": "T/T005 / D/D109",
+        "exam": ""
+      },
+      {
+        "section": "30",
+        "instructor": "Fahad Al Khawaldi",
+        "time": "TUE 16:00-17:50 | WED 13:00-14:50",
+        "room": "A/A47 / T/T001",
+        "exam": ""
+      },
+      {
+        "section": "40",
+        "instructor": "Fahad Al Khawaldi",
+        "time": "MON 10:00-11:50 | THU 08:00-09:50",
+        "room": "T/T004 / T/T003",
+        "exam": ""
+      },
+      {
+        "section": "50",
+        "instructor": "Sankar Sagi",
+        "time": "SUN 14:00-15:50 | MON 08:00-09:50",
+        "room": "T/T003 / D/D104",
+        "exam": ""
+      },
+      {
+        "section": "60",
+        "instructor": "Deepti Thakur",
+        "time": "SUN 10:00-11:50 | TUE 10:00-11:50",
+        "room": "A/A49 / D/D112",
+        "exam": ""
+      },
+      {
+        "section": "70",
+        "instructor": "Khamis Al Maqbali",
+        "time": "TUE 10:00-11:50 | WED 16:00-17:50",
+        "room": "T/T004 / D/D6",
+        "exam": ""
+      },
+      {
+        "section": "80",
+        "instructor": "Ihsan Al-Haaq",
+        "time": "MON 14:00-15:50 | WED 10:00-11:50",
+        "room": "D/D106 / A/A122",
+        "exam": ""
+      },
+      {
+        "section": "90",
+        "instructor": "Khamis Al Maqbali",
+        "time": "SUN 08:00-09:50 | MON 14:00-15:50",
+        "room": "F/F006 / T/T002",
+        "exam": ""
+      }
+    ]
+  },
+  {
+    "id": "MATH2101",
+    "code": "MATH2101",
+    "name": "Mathematics for Comp",
+    "sections": [
+      {
+        "section": "10",
+        "instructor": "Ramar",
+        "time": "MON 14:00-15:50 | TUE 14:00-15:50",
+        "room": "D/D112 / A/A121",
+        "exam": ""
+      },
+      {
+        "section": "20",
+        "instructor": "Ramar",
+        "time": "MON 10:00-11:50 | THU 12:00-13:50",
+        "room": "T/T002 / A/A123",
+        "exam": ""
+      }
+    ]
+  },
+  {
+    "id": "STAT3101",
+    "code": "STAT3101",
+    "name": "Probability and Stat",
+    "sections": [
+      {
+        "section": "10",
+        "instructor": "Rajinder Sharma",
+        "time": "MON 15:00-16:50 | TUE 11:00-11:50 | THU 12:00-13:50",
+        "room": "E/L105 / T/T005 / E/L105",
+        "exam": ""
+      },
+      {
+        "section": "20",
+        "instructor": "Rajinder Sharma",
+        "time": "SUN 13:00-13:50 | WED 10:00-11:50 | THU 08:00-09:50",
+        "room": "T/T002 / E/L105 / E/L105",
+        "exam": ""
+      }
+    ]
+  },
+  {
+    "id": "MCCR1101",
+    "code": "MCCR1101",
+    "name": "Intro to Commun",
+    "sections": [
+      {
+        "section": "10",
+        "instructor": "Shadia Al Mughaizwi",
+        "time": "SUN 08:00-09:50 | MON 13:00-13:50",
+        "room": "D/D6 / D/D104",
+        "exam": ""
+      }
+    ]
+  },
+  {
+    "id": "MCDR1103",
+    "code": "MCDR1103",
+    "name": "Public Relations",
+    "sections": [
+      {
+        "section": "10",
+        "instructor": "Huda Al Hadhri",
+        "time": "MON 08:00-09:50 | TUE 10:00-10:50",
+        "room": "A/A48 / A/A121",
+        "exam": ""
+      },
+      {
+        "section": "20",
+        "instructor": "Huda Al Hadhri",
+        "time": "SUN 09:00-09:50 | THU 08:00-09:50",
+        "room": "D/D106 / D/D111",
+        "exam": ""
+      }
+    ]
+  },
+  {
+    "id": "MCDR1104",
+    "code": "MCDR1104",
+    "name": "Intro.to Journalism",
+    "sections": [
+      {
+        "section": "10",
+        "instructor": "Shadia Al Mughaizwi",
+        "time": "SUN 13:00-13:50 | TUE 10:00-11:50",
+        "room": "T/T001 / A/A151",
+        "exam": ""
+      },
+      {
+        "section": "20",
+        "instructor": "Shadia Al Mughaizwi",
+        "time": "WED 13:00-13:50 | THU 10:00-11:50",
+        "room": "F/F001 / D/D109",
+        "exam": ""
+      }
+    ]
+  },
+  {
+    "id": "UNFL2213",
+    "code": "UNFL2213",
+    "name": "French Language",
+    "sections": [
+      {
+        "section": "10",
+        "instructor": "Zuwaina AL Busaidi",
+        "time": "MON 13:00-13:50 | WED 08:00-09:50",
+        "room": "D/D10 / D/D109",
+        "exam": ""
+      },
+      {
+        "section": "20",
+        "instructor": "Zuwaina AL Busaidi",
+        "time": "SUN 13:00-13:50 | TUE 10:00-11:50",
+        "room": "D/D104 / D/D109",
+        "exam": ""
+      },
+      {
+        "section": "30",
+        "instructor": "Zuwaina AL Busaidi",
+        "time": "SUN 11:00-11:50 | MON 08:00-09:50",
+        "room": "F/F002 / T/T101",
+        "exam": ""
+      },
+      {
+        "section": "40",
+        "instructor": "Zuwaina AL Busaidi",
+        "time": "WED 15:00-15:50 | THU 10:00-11:50",
+        "room": "F/F006 / F/F003",
+        "exam": ""
+      }
+    ]
+  },
+  {
+    "id": "FPMB0001",
+    "code": "FPMB0001",
+    "name": "Basic Math",
+    "sections": [
+      {
+        "section": "10",
+        "instructor": "MATH A",
+        "time": "SUN 08:00-09:50 | MON 08:00-09:50 | TUE 10:00-11:50",
+        "room": "D/D103 / D/D6 / D/D104",
+        "exam": ""
+      },
+      {
+        "section": "20",
+        "instructor": "MATH A",
+        "time": "SUN 13:00-14:50 | WED 08:00-09:50 | THU 10:00-11:50",
+        "room": "D/D102 / T/T001 / D/D104",
+        "exam": ""
+      },
+      {
+        "section": "40",
+        "instructor": "Rajani",
+        "time": "SUN 13:00-14:50 | WED 08:00-09:50 | THU 10:00-11:50",
+        "room": "D/D109 / T/T102 / D/D111",
+        "exam": ""
+      },
+      {
+        "section": "70",
+        "instructor": "MATH",
+        "time": "MON 08:00-09:50 | TUE 16:00-17:50 | WED 08:00-09:50",
+        "room": "D/D103 / F/F006 / D/D110",
+        "exam": ""
+      },
+      {
+        "section": "80",
+        "instructor": "MATH10",
+        "time": "MON 08:00-09:50 | TUE 16:00-17:50 | WED 08:00-09:50",
+        "room": "D/D102 / D/D111 / D/D10",
+        "exam": ""
+      }
+    ]
+  },
+  {
+    "id": "FPMP0003",
+    "code": "FPMP0003",
+    "name": "Pure Math",
+    "sections": [
+      {
+        "section": "10",
+        "instructor": "MATH A",
+        "time": "MON 14:00-15:50 | TUE 16:00-17:50 | WED 10:00-11:50",
+        "room": "D/D105 / D/D107 / D/D104",
+        "exam": ""
+      },
+      {
+        "section": "20",
+        "instructor": "Fahad Al Khawaldi",
+        "time": "SUN 13:00-14:50 | WED 08:00-09:50 | THU 10:00-11:50",
+        "room": "D/D106 / T/T101 / F/F002",
+        "exam": ""
+      },
+      {
+        "section": "30",
+        "instructor": "MANG",
+        "time": "SUN 13:00-14:50 | TUE 10:00-11:50 | THU 10:00-11:50",
+        "room": "F/F007 / F/F007 / F/F005",
+        "exam": ""
+      },
+      {
+        "section": "40",
+        "instructor": "MANG",
+        "time": "MON 14:00-15:50 | TUE 16:00-17:50 | WED 10:00-11:50",
+        "room": "F/F003 / F/F003 / F/F006",
+        "exam": ""
+      },
+      {
+        "section": "50",
+        "instructor": "MANG",
+        "time": "SUN 08:00-09:50 | MON 08:00-09:50 | WED 08:00-09:50",
+        "room": "D/D105 / A/A123 / F/F004",
+        "exam": ""
+      },
+      {
+        "section": "60",
+        "instructor": "MATH",
+        "time": "MON 14:00-15:50 | WED 10:00-11:50 | THU 10:00-11:50",
+        "room": "F/F007 / F/F001 / A/A123",
+        "exam": ""
+      },
+      {
+        "section": "70",
+        "instructor": "MATH",
+        "time": "MON 08:00-09:50 | TUE 16:00-17:50 | WED 08:00-09:50",
+        "room": "D/D10 / A/A150 / F/F002",
+        "exam": ""
+      },
+      {
+        "section": "90",
+        "instructor": "MATH10",
+        "time": "SUN 13:00-14:50 | WED 10:00-11:50 | THU 10:00-11:50",
+        "room": "D/D10 / A/A123 / A/A51",
+        "exam": ""
+      },
+      {
+        "section": "110",
+        "instructor": "MATH",
+        "time": "SUN 08:00-09:50 | MON 14:00-15:50 | TUE 10:00-11:50",
+        "room": "D/D107 / D/D110 / D/D106",
+        "exam": ""
+      },
+      {
+        "section": "120",
+        "instructor": "MATH",
+        "time": "SUN 13:00-14:50 | WED 10:00-11:50 | THU 10:00-11:50",
+        "room": "D/D107 / T/T005 / D/D108",
+        "exam": ""
+      }
+    ]
+  }
+]
