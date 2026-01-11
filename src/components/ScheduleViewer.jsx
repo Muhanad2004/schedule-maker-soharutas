@@ -28,7 +28,6 @@ const ScheduleViewer = memo(function ScheduleViewer({
   t
 }) {
   const scheduleRef = useRef(null);
-  const [examsExpanded, setExamsExpanded] = useState(false);
   // Ensure we always have days, even if translation fails
   const days = (t && t.days && t.days.length === 5) ? t.days : ['Sun', 'Mon', 'Tue', 'Wed', 'Thu'];
   const hours = Array.from({ length: END_HOUR - START_HOUR }, (_, i) => START_HOUR + i);
@@ -181,28 +180,7 @@ const ScheduleViewer = memo(function ScheduleViewer({
         </div>
       </div>
 
-      {/* Exam Footer */}
-      <div className="schedule-footer">
-        <div className="footer-toggle" onClick={() => setExamsExpanded(!examsExpanded)}>
-          <span>📋 {t.examFooter}</span>
-          <span>{examsExpanded ? '▼' : '▲'}</span>
-        </div>
-
-        {examsExpanded && (
-          <div className="exam-list">
-            {schedule.map((section, idx) => (
-              <div
-                key={idx}
-                className="exam-item"
-                style={{ borderLeftColor: COLORS[idx % COLORS.length].bg }}
-              >
-                <span className="exam-code">{section.code}</span>
-                <span className="exam-date">{section.exam || 'TBA'}</span>
-              </div>
-            ))}
-          </div>
-        )}
-      </div>
+      {/* Exam Footer Removed for UTAS Sohar */}
     </div>
   );
 });
