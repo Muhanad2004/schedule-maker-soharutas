@@ -55,6 +55,12 @@ function AppContent() {
       try {
         const data = await loadCourses();
         if (mounted) {
+          // Optimization: Pre-parse time slots to avoid repeated regex operations
+          data.forEach(course => {
+            course.sections.forEach(section => {
+              section.parsedSlots = parseTimeSlots(section.time || '');
+            });
+          });
           setAllCourses(data);
           setLoading(false);
         }
@@ -144,7 +150,9 @@ function AppContent() {
         const sections = course.sections.filter(section => {
           if (allowed && !allowed.includes(section.instructor)) return false;
 
-          const slots = parseTimeSlots(section.time);
+          if (allowed && !allowed.includes(section.instructor)) return false;
+
+          const slots = section.parsedSlots || parseTimeSlots(section.time);
           const hasConflict = slots.some(slot => {
             const startH = Math.floor(slot.start / 60);
             const endH = Math.floor((slot.end - 1) / 60);

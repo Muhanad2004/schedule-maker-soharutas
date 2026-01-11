@@ -1,4 +1,4 @@
-import { useMemo, useRef, useCallback, useState } from 'react';
+import { useMemo, useRef, useCallback, useState, memo } from 'react';
 import { formatTime } from '../utils/timeUtils';
 
 const START_HOUR = 8;
@@ -19,7 +19,7 @@ const COLORS = [
 
 const formatHour = (h) => `${h % 12 || 12} ${h < 12 ? 'AM' : 'PM'}`;
 
-export default function ScheduleViewer({
+const ScheduleViewer = memo(function ScheduleViewer({
   schedule,
   scheduleIndex,
   totalSchedules,
@@ -205,4 +205,6 @@ export default function ScheduleViewer({
       </div>
     </div>
   );
-}
+});
+
+export default ScheduleViewer;

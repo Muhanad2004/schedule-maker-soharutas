@@ -94,6 +94,8 @@ export function generateSchedules(selectedCourses) {
     );
 
     function backtrack(courseIndex, currentSchedule) {
+        if (results.length >= 5000) return; // Safety limit to prevent browser crash
+
         if (courseIndex === sortedCourses.length) {
             results.push([...currentSchedule]);
             return;
